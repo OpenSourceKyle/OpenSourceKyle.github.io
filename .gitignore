@@ -1,8 +1,5 @@
-/public/
-/resources/
-/.hugo_build.lock
-hugo.exe
-hugo.linux
-hugo.darwin
-*.log
-*.json
+/public
+resources/
+node_modules/
+package-lock.json
+.hugo_build.lock

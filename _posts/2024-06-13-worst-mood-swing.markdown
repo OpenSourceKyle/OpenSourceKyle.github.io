@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Worst mood swing all year?"
-date:   2024-06-13
 ---
 
 

@@ -16,14 +16,14 @@ https://jekyllrb.com/docs/#instructions
 # Arch Linux
 sudo pacman -S ruby base-devel
 
+# Add Jekyll to $PATH
+echo '
+export GEM_HOME=$HOME/.gem
+export PATH=$GEM_HOME/ruby/3.0.0/bin:$PATH
+' >> ~/.zshrc
+
 # Install Jekyll
 gem install jekyll bundler
-
-# Add Jekyll to $PATH
-echo 'export PATH=~/.local/share/gem/ruby/3.0.0/bin:$PATH' > ~/.zshrc
-
-# Set Bundler path to home dir
-export GEM_HOME=$HOME/.gem
 
 # Automatically rebuild website while editing
 bundle exec jekyll serve --livereload

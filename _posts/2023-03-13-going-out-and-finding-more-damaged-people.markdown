@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Going Out and Finding More Damaged People"
-date:   2023-03-13
 ---
 
 I do not know how I attract, find, or look for the the damaged people, but damn, this has always been a super power of mine. I went to the local neighborhood bar, and unsurprisingly it was fairly dead for a late Sunday night. Only one other person at the bar, and he was staring at his phone. The bartenders were friendly enough, but I could sense they were not really present <-- this is a pet peeve of mine. I do it too and understand not everyone exists to be present [for me], but I really do not like the feeling when someone, even a stranger, is distant. Maybe I should ask them what is on their mind instead of being perturbed by it. I know I am distant when I am thinking or hurting sometimes, too.

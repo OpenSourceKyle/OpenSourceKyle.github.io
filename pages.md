@@ -7,9 +7,8 @@ title: Pages
 <ul>
   {% for page in site.pages %}
     <li>
-        <h2><a href="{{ page.url}}">{{ page.name }}</a></h2>
+        <h2><a href="{{ page.url}}">{{ page.title }}</a></h2>
         <h3>{{ page.position }}</h3>
-        <!-- <p>{{ page.content | markdownify }}</p> -->
     </li>
   {% endfor %}
 </ul>

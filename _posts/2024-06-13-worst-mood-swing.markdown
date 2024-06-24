@@ -1,10 +1,7 @@
 ---
-title:  "Worst mood swing all year?"
 ---
 
-
-**This will be a little bit of rambling thoughts and just "getting them out there"
-**
+**Note: This will be a little bit of rambling thoughts and just "getting them out there" over a recent bad mood swing**
 
 Yesterday was an interesting day. My plans fell apart (all day was supposed to be with my best friend in a different town, and I confirmed with him the night before) but such is Mexico and the Mexican way.
 Though this was for the best, I had a really bad mood swing yesterday. I use to have these a lot (say a couple of years ago), but this one was particularly powerful. I was able to get quite a bit done so far as: running, laundry, reading, etc. but I eventually felt so bad that being out in public was making me feel really awful and unfunctional (like I forgot my Spanish), so I came home.

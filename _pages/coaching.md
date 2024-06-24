@@ -1,8 +1,19 @@
 ---
-title: Coaching
+title: How to be a Coach
 ---
 
-*** What would you like from me? How can I help you? ***
+# Philosophy
+
+A coach helps a coachee attain their goals. Oftentimes the greatest limiting factor is the mindset of the coachee, and the coach can help to remove these mental roadblocks.
+
+I believe that we all already possess the potential to achieve, but we cannot do this alone.
+
+## How to Start
+
+### Coach to Coachee: 
+* What would you like from me?
+* How can I help you?
+
 Listen vs give advice
 
 Answer in a humble way
@@ -26,21 +37,20 @@ Mother Theresa:
 
 ---
 
+# Experience
+
+Beyond friends and family:
+
 ## Reddit
 - sort by Newest
 - Good job opening up and asking
+Use as a testing ground for writing and communicating but note that Reddit is frequently toxic and/or helpless in its communities.
 
 Yes:
-r/getdisciplined
-r/letsgetmotivated
+* r/getdisciplined
+* r/letsgetmotivated
 
 Maybe w/ caution:
-r/asktrp
-r/letsgetlaid
-r/relationship
-
-## NEXT STEPS
-
-how can I coach more people?
-how can I be more intentional in coaching people?
-what's a step to keep improving?
+* r/asktrp
+* r/letsgetlaid
+* r/relationship

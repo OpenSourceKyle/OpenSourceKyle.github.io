@@ -1,5 +1,4 @@
 ---
-title: How to be a Coach
 ---
 
 # Philosophy

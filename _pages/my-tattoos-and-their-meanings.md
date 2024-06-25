@@ -1,5 +1,4 @@
 ---
-title: Tattoos
 ---
 
 I love nature and simple line art. At least for the moment, I want my tattoos to be follow that scheme.

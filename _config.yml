@@ -10,6 +10,19 @@ github_username: OpenSourceKyle
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
+# https://github.com/github/jekyll-commonmark-ghpages#installation
+#markdown: CommonMarkGhPages
+#commonmark:
+#  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+#  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
+# For Collapsible Sections using details:
+# https://stackoverflow.com/a/39920717
+# https://kramdown.gettalong.org/parser/kramdown.html
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme
 #theme: jekyll-theme-dinky
 # https://github.com/pages-themes/dinky?tab=readme-ov-file#usage

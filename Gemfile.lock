@@ -251,7 +251,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
-    rexml (3.3.0)
+    rexml (3.3.1)
       strscan
     rouge (3.30.0)
     rubyzip (2.3.2)
@@ -295,6 +295,7 @@ DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll
+  jekyll-commonmark-ghpages
   jekyll-feed (~> 0.12)
   json
   tzinfo (>= 1, < 3)

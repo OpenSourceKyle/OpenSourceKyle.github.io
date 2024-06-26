@@ -15,4 +15,4 @@ I'm about 15% through "Letting Go", and I'm seeing the pattern with this book, "
 The goal isn't to "cure" these sensations, but rather know that we have the choice: to suffer with them or to learn from them. I see how I, my ex, my parents, my friends, people around me, etc. have all suffered with these traps, thoughts, feelings, etc.
 
 I don't feel lost, lonely, or a failure today. I feel calm, tired, and content. And regardless, those things that which I feel are not who I am.
-That said, I am feeling more and more ready to work together something bigger. That'll be a post for another day, but I've taken some actions and scheduled more time to do this. I'll write on that later.
+That said, I am feeling more and more ready to work on something bigger. That'll be a post for another day, but I've taken some actions and scheduled more time to do this. I'll write on that later.

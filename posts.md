@@ -11,10 +11,10 @@ Most, although not all of the time, I tend to write from low moods. Some of thes
 ## Latest Posts
 
 <ul>
-  {% for post in site.posts %}
-    <li>
-        <h3><a href="{{ post.url }}">{{post.date | date: "%d %b %Y" }} - {{ post.title }}</a></h3>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
+{% for post in site.posts %}
+  <li>
+    <h3><a href="{{ post.url }}">{{post.date | date: "%d %b %Y" }} - {{ post.title }}</a></h3>
+    {{ post.excerpt }}
+  </li>
+{% endfor %}
 </ul>

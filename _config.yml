@@ -17,8 +17,8 @@ markdown: kramdown  # already default but for specificity
 kramdown:
   parse_block_html: true
 
-# https://github.com/emcorrales/hyde-plus?tab=readme-ov-file#installation
-remote_theme: emcorrales/hyde-plus
+# https://github.com/OpenSourceKyle/hyde-plus-fork?tab=readme-ov-file#installation
+remote_theme: OpenSourceKyle/hyde-plus-fork
 author:
   name: 'Kyle'
   email:

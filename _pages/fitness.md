@@ -1,4 +1,6 @@
 ---
+tags:
+ - notes
 ---
 
 # Fitness

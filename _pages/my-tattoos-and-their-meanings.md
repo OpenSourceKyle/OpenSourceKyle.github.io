@@ -36,8 +36,8 @@ The sun or solar symbols are a classic, masculine symbol (of gods) typically of 
 Given the irony of her tattoo, although I promised a sun on my ring finger to her, I now have a sun on me for myself. The tattoo also does implicitly signal the end of the tumultuous relationship that we have lived. The sun protects my backside while also being on my back or behind me -- signalling the end of the relationship in the past.
 
 # 9 April 2023
-## Above Knees / Behind Knees
-### TOO MUCH / not enough
+## Above Knees
+### "TOO MUCH"
 #### by Kelly Edwards at Eternal Courage Tattoos: $187.50
 
 Americana-like Font
@@ -77,7 +77,7 @@ I also just very much love skulls and snakes -- to me the art is very dark and b
 # 8 July 2023
 ## Front, right side of stomach
 ### Quetzalcoatl (Aztec god in feathered serpent form)
-#### original drawing by Josh Perry & tattoo by Josh Standley at Element Tattoo: $720
+#### original drawing by Josh Perry & tattoo by Josh Standley at Element Tattoo: $320
 
 The feathered serpent has many meanings, but in short: wisdom, learning, sun, god. The tattoo shows my love of Aztec and Mexican culture, originally initiated by Age of Empires II but now bolstered through my practice of the Spanish language. Quetzacoatl in this form and on my right (future) side gives promise of my Spanish speaking and living ambitions. I hope through this journey to find the wisdom that I so desperately desire.
 An odd coincidence, I visited Mission San Jose and walked around the grounds. The mission was one of a few here in San Antonio that served as the northernmost missions of the Spanish border and frontier. While walking through the parking lot, a small whirlwind ran through me. Quetzalcoatl often times took form in the wind and whirlwinds.
@@ -92,16 +92,48 @@ Chapters of Life:
 
 # 13 September 2023
 ## Fingers on Both Hands
-### TODO BIEN
+### "TODO BIEN"
 #### by Silvana Giron: $136.02
 
 More of a YOLO and a desire to break the ice on my first tattoo in Mexico, this tattoo makes a very visible statement. The statement is very simple and sweet: TODO BIEN or all is well. A simple allegory of me where I might (and want) to appear a bit abrasive and rough whereas I can be a bit too sweet or cute sometimes.
+
+# 14 December 2023
+## Left thigh, outer side
+### Bowl of Japanese ramen
+#### by XXX at Element Tattoo: $230
+
+# 8 January 2024
+## Right foot
+### "NO MAMES"
+#### by XXX at The House
+
+A pure YOLO with a friend, who has the same tattoo on his butt (in my handwriting).
+
+# 21 February 2024
+## Left Bicep
+### Silhoutte of a woman in white ink
+#### by Alfonso Gutiérrez at The House
+
+My friend's first tattoo as an aspiring tattoo artist. This has no deeper meaning behind it, but I thought it was a cool design. He completed it in white because it was very much an experiment, and we both were unsure of the final result. Needless to say, I am glad it is in white.
+
+# 1 June 2024
+## Above Back of Knees
+### "NOT ENOUGH"
+#### by Alfonso Gutiérrez at Frontera Ink
+
+My first tattoo completed by my friend as a birthday present. Over a year ago (April 2023), I had gotten "TOO MUCH" on the front and had planned to get "NOT ENOUGH" due to  my feelings and emotions at the time. A better description is in that entry. I finally got them completed, and my friend, an aspiring tattoo artist in training, was able to leave with a cool memory since getting free, good tattoos is not easy.
+
+---
+
+# Tentative
+
+These are ideas and not indicative of any hard plans.
 
 ---
 
 # XX XXX XXXX
 ## Stomach
-### KYLE (middle name lettering)
+### "KYLE"
 ####
 
 Kyle is my middle name. Previously, it was only ever used by my parents when I was in trouble. Now, I embrace the troublesome and devious memory of Kyle (which has coincidentally become a meme). Brandon is the old, adolescent, people-pleasing past, and Kyle is my future badass. Kyle does not give a shit what other people think or wants; I act for myself.
@@ -115,8 +147,37 @@ Chapters of Life:
 - Abstract mountain range (Eagle's Peak): Colorado
 
 # XX XXX XXXX
-## Back Legs
-### not enough
+## Right arm sleeve
+### Harry Potter theme telling my own life story
 ####
 
-See "NOT ENOUGH" section above.
+Ambition * Cunning * Leadership
+
+Mix of realistic and abstract/hexagonal 
+
+The magic collision b/t Harry and Voldemort as a bisecting lightning bolt running down my arm to serve as a timeline of this progression
+
+Bar Ring where the collision happens ^^^
+
+The wizard and the child
+Castle silhouette 
+
+Divided arm into 7 sections for each book... tel story of the boy becoming the man. Have the wise wizard face (think Greek god tattoos) overlooking or on upper arm/side delt
+
+Stone 
+
+Basilisk 
+
+Dementors
+Stag patronus
+Sirius + griffin into the full moon
+
+Goblet
+
+Order of the Phoenix
+
+Pensieve
+
+Hallows 
+
+Giant (Hagrid) on motorcycle 

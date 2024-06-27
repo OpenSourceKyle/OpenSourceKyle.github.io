@@ -1,4 +1,8 @@
 ---
+title: "Workout Routine: Build a Bimbo"
+tags:
+  - fitness
+  - notes
 ---
 
 **NOTE: this was a workout plan/research that I conducted for someone looking to "bimbo-fy" themselves --  their stated goal was to be more "bimbo-like"**

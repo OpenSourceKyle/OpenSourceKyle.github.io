@@ -1,11 +1,9 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  # https://github.com/github/jekyll-commonmark-ghpages#installation
-  #gem 'jekyll-commonmark-ghpages'
+  gem "github-pages"
 end
 # https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
 gem "webrick", "~> 1.8"

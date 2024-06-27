@@ -2,7 +2,7 @@
 
 # OpenSourceKyle
 
-OpenSourceKyle is collection of my writings. These are not meant to descriptive and absolute in my beliefs, BUT they are meant to be my thoughts written out. Writing out my thoughts has helped with my anxious, obsessive way of thinking. I note this because **these writings could be wrong or controversial** among many other thigns. My goal is to give myself a place to flesh out my thinking better instead of waiting for the thoughts to be perfect.
+OpenSourceKyle is collection of my writings. These are not meant to descriptive and absolute in my beliefs, BUT they are meant to be my thoughts written out. Writing out my thoughts has helped with my anxious, obsessive way of thinking. I note this because **these writings could be wrong or controversial** among many other things. My goal is to give myself a place to flesh out my thinking better instead of waiting for the thoughts to be perfect.
 
 # Installation
 
@@ -31,5 +31,5 @@ export PATH=$GEM_HOME/ruby/3.0.0/bin:$PATH
 gem install jekyll bundler
 
 # Automatically rebuild/serve website while editing
-bundle exec jekyll serve --livereload
+bundler exec jekyll serve --livereload
 ```

@@ -100,7 +100,9 @@ More of a YOLO and a desire to break the ice on my first tattoo in Mexico, this 
 # 14 December 2023
 ## Left thigh, outer side
 ### Bowl of Japanese ramen
-#### by XXX at Element Tattoo: $230
+#### by Nate Hanes at Element Tattoo: $230
+
+This one is a bit complicated. Although the tattoo itself seems straightforward, I have various reasons for getting it. A reason is a bit jokingly: a dedicated to my best friends, who nearly all of them at this point are of some sort of Asian decent. Another reason was a previous girlfriend, who I dearly appreciated for our short, sweet time together. Finally, one of my best friends (Asian of course) wanted to get tattoos together for his first one, so I had to pick something... I had already been mulling this idea around in my head.
 
 # 8 January 2024
 ## Right foot
@@ -136,15 +138,7 @@ These are ideas and not indicative of any hard plans.
 ### "KYLE"
 ####
 
-Kyle is my middle name. Previously, it was only ever used by my parents when I was in trouble. Now, I embrace the troublesome and devious memory of Kyle (which has coincidentally become a meme). Brandon is the old, adolescent, people-pleasing past, and Kyle is my future badass. Kyle does not give a shit what other people think or wants; I act for myself.
-
-# XX XXX XXXX
-## Left Forearm
-### Abstract Mountain Range
-####
-
-Chapters of Life:
-- Abstract mountain range (Eagle's Peak): Colorado
+Kyle is my middle name. Previously, it was only ever used by my parents when I was in trouble. Now, I embrace the troublesome and devious memory of Kyle (which has coincidentally become a meme). My old name is the adolescent, people-pleasing past, and Kyle is my future badass. Kyle does not give a shit what other people think or wants; I act for myself. Yes, of course I am badass ;)
 
 # XX XXX XXXX
 ## Right arm sleeve

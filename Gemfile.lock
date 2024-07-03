@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     activesupport (7.1.3.4)
       base64
@@ -226,7 +227,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.24.0)
+    minitest (5.24.1)
     mutex_m (0.2.0)
     net-http (0.4.1)
       uri
@@ -293,8 +294,9 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
-  jekyll
+  jekyll (~> 3.7)
   jekyll-feed (~> 0.12)
+  jekyll-include-cache
   json
   tzinfo (>= 1, < 3)
   tzinfo-data

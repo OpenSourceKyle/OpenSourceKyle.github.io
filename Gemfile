@@ -1,15 +1,19 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "~> 3.7"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "github-pages"
+  # Theme Req: https://github.com/mmistakes/minimal-mistakes/tree/master?tab=readme-ov-file#minimal-mistakes-jekyll-theme
+  gem "jekyll-include-cache"
 end
-# https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
+# Jekyll 3+ Bug: https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
 gem "webrick", "~> 1.8"
 
 # Arch bug: https://www.adamsdesk.com/posts/jekyll-fix-cannot-load-such-file-json/
 gem "json"
+
+# ===
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

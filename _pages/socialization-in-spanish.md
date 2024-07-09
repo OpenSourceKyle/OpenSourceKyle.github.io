@@ -1,4 +1,6 @@
 ---
+tags:
+  - howto
 ---
 
 **translate lines into Spanish**

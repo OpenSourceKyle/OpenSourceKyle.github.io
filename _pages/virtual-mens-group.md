@@ -1,5 +1,7 @@
 ---
 title: "Virtual Men's Group"
+tags:
+  - personal
 ---
 
 Focus/Why: Assemble group of open-minded, action-oriented men to inspire and support each other through their goals and lives. Most importantly, I hope to make it fun, entertaining, and interesting.

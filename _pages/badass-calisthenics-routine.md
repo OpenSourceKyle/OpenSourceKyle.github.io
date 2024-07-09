@@ -1,4 +1,6 @@
 ---
+tags:
+  - wellness
 ---
 
 REPS: Do 1 rep on the minute until total sets hit

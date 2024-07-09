@@ -19,20 +19,21 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "OpenSourceKyle"
 title_separator          : "-"
-subtitle                 : "Howdy there, welcome to an open-source look into my life" # site tagline that appears below site title in masthead
+subtitle                 : "Howdy, welcome to an open-source look into my life" # site tagline that appears below site title in masthead
 name                     : "Kyle"
-description              : ""
+description              : "An open-source look into the life of Kyle"
 url                      : "https://opensourcekyle.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "OpenSourceKyle/OpenSourceKyle.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
+date_format: "%Y-%m-%d"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -68,7 +69,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -95,7 +96,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/logo_88x88.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -114,29 +115,29 @@ analytics:
 # Site Author
 author:
   name             : "Kyle"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :
+  avatar           : "/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "= Open * Honest * Direct ="
   location         :
   email            : "opensourcekyle@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:opensourcekyle@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://www.opensourcekyle.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://www.facebook.com/profile.php?id=61561838360123"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/OpenSourceKyle/OpenSourceKyle.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://www.instagram.com/opensourcekyle/"
 
 # Site Footer
 footer:
@@ -217,6 +218,9 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  # https://kramdown.gettalong.org/options.html
+  # Needed for markdown inside of collapsible elements "<details>"
+  parse_block_html: true
 
 
 # Sass/SCSS
@@ -231,11 +235,11 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 10 # amount of posts to show
+#paginate_path: /page:num/
 
-# Pagination with jekyll-paginate-v2
-# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+# Pagination with jekyll-paginate
+# See https://github.com/sverrirs/jekyll-paginate/blob/master/README-GENERATOR.md#site-configuration
 #   for configuration details
 pagination:
   # Set enabled to true to use paginate v2
@@ -310,16 +314,36 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  pages:
+    output: true
+
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "_posts"
+      type: "posts"
     values:
-      layout: single
+      layout: "single"
+      category: "posts"
       author_profile: true
       read_time: true
+      show_date: true
+      comments:  # true
+      share: false
+      related: true
+  # pages
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "single"
+      category: "pages"
+      author_profile: true
+      read_time: true
+      show_date: true
       comments:  # true
       share: false
       related: true

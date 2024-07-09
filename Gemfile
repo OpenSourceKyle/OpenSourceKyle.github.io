@@ -6,6 +6,7 @@ group :jekyll_plugins do
   gem "github-pages"
   # Theme Req: https://github.com/mmistakes/minimal-mistakes/tree/master?tab=readme-ov-file#minimal-mistakes-jekyll-theme
   gem "jekyll-include-cache"
+  gem "jekyll-paginate"
 end
 # Jekyll 3+ Bug: https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
 gem "webrick", "~> 1.8"

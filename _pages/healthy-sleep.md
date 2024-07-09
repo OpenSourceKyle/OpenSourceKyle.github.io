@@ -1,4 +1,7 @@
 ---
+tags:
+  - wellness
+  - sleep
 ---
 
 **NOTE: these notes from are from my insomnia counseling that I went to**

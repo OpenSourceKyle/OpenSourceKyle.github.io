@@ -1,4 +1,7 @@
 ---
+toc: true
+tags:
+  - personal
 ---
 
 Though Sigmund Freud likely created a version of **Self-authoring**, Jordan Peterson seem to have popularized it (more recently). Regardless of the original creator, the exercise serves a great purpose of internal reflection, which was my purpose for starting this.
@@ -17,36 +20,8 @@ Reviews (& breakdowns of the format and prompts):
 
 ---
 
-# Table of Contents
+# Past
 
-* This exercise is broken down into 3 epochs of one's life: past, present, and future
-* Before each "Response" section (my response), there is an expandable with the prompt instructions
-* TBD is a placeholder for a section that I have yet to complete
-
-<!-- https://blog.webjeda.com/jekyll-toc/#how-to-add-toc-for-jekyll-posts -->
-<style type="text/css" media="screen">
-#markdown-toc ul
-{
-	// Using numbers instead of bullets for listing
-    list-style: decimal;
-}
-#markdown-toc
-{
-    border: 1px solid #AAA;
-    padding: 3em;
-    list-style: decimal;
-    display: inline-block;
-}
-</style>
-
-* DO NOT remove this line for the TOC
-{:toc}
-
----
-
-# ==> Past
-
-<!-- Collapsible Sections using details: https://stackoverflow.com/a/39920717 -->
 <details>
 
 ### Completing the Exercise
@@ -116,7 +91,7 @@ Autobiographical experiences that bring about...
 
 </details>
 
-# === Past - Response ===
+# Past - Response
 
 ## Family
 
@@ -208,9 +183,8 @@ I recall a funny “cultural" experience through her by meeting her dad, and him
 
 ---
 
-# ==> Present
+# Present
 
-<!-- Collapsible Sections using details: https://stackoverflow.com/a/39920717 -->
 <details>
 
 ## Faults - Prompt
@@ -285,7 +259,7 @@ Stability, the second higher-order trait, can be further broken down into three 
 
 </details>
 
-## === Faults - Response ===
+## Faults - Response
 
 negative aspects of your personality...
 
@@ -380,7 +354,7 @@ Personality is reasonably stable over the lifespan, and is also powerfully influ
 
 </details>
 
-## === Virtues - Response ===
+## Virtues - Response
 
 positive aspects virtues of your personality...
 
@@ -405,9 +379,8 @@ https://www.merriam-webster.com/dictionary/virtue
 
 ---
 
-# ==> Future
+# Future
 
-<!-- Collapsible Sections using details: https://stackoverflow.com/a/39920717 -->
 <details>
 
 ## GENERAL INSTRUCTIONS
@@ -448,7 +421,7 @@ It might be best to concentrate on your future three to five years down the road
 
 </details>
 
-# === Future - Response ===
+# Future - Response
 
 ## Future - Ideal Scenario (stream of consciousness in 15 min)
 

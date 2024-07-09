@@ -1,9 +1,14 @@
 ---
 ---
 
-**NOTE: the following are a collection of notes from couple's therapy that I attended over 6 months**
+# Notes from Couple's Therapy
 
-Resentment and Feedback
+The following are a collection of notes from couple's therapy that I attended over 6 months, roughly divided into different sections. These are not meant to be indicative of anything.
+
+---
+
+## Resentment and Feedback
+
 - Check in before giving feedback and initiating conflict discussion: "Can we talk about something?"
 - Be gentle in addressing defensiveness. Focus on one's own feelings: "I feel tense now. Is something going on?"
   - Softening start-up: "Overall, you have been great at ____ lately, and … <TOPIC>"
@@ -16,7 +21,8 @@ Resentment and Feedback
 
 ---
 
-My Relationship Needs:
+## My Relationship Needs:
+
 - someone who supports me (allows me my freedom) and can also tell me when I am wrong
 - physical companionship
 - someone who is not a victim in her life story
@@ -27,7 +33,8 @@ My Relationship Needs:
 
 ---
 
-Empathizing:
+## Empathizing:
+
 - dang that sucks
 - educated guess... "Do feel this...?"
 - reflect/mirror their words
@@ -42,7 +49,7 @@ Empathizing:
 
 ---
 
-her needs:
+## Her needs:
 - ask about each other
 - curiosities
 - make observations
@@ -80,8 +87,12 @@ her needs:
 
 ---
 
-Big Yikes:
-* telling me not to be so emotional when listening to someone else's talk or feelings (denying my own emotions?)
-* objective reality does not exist (or is it just unobservable? <-- I do not believe in subjective reality)
-* protecting the other's feelings -- be respectful but honesty/openness is better
-  * otherwise, it is dishonest to not communicate my feelings
+# Big Yikes:
+
+Feedback given to me from the therapist that sounded insane to me then and now. Obviously, this is missing some context and may not make sense, but the recommendations shocked me. Feedback unbolded and my own reaction bolded in the moment.
+
+Going through these old notes, I realized how fucked the relationship was. Therapy catered to a very feminized way of communicating and empathizing that is frankly exhausting to me. Although I understand why it is bad quantify who was wronged or hurt more from every little conflict, I also think it is just as deleterious to overemphasize someone's feelings over their actions/impacts/intentions. Some of my notes were about me asking more questions, having to soften my communication, having to prioritize someone else's emotions over mine, etc. I will not pretend that my notes are wholly accurate of everything that we talked about, but I felt like I really gave a lot of effort to have it never be enough. Instead of me having to give so much, I am learning that I do not have to do so much so long as I am honest and frank about it. Giving too much (as I would argue some therapy goes for) is unsustainable. Being in the position that I am now is much harder but also more liberating. Anyways, I do not want to go into too much more details about all that.
+
+* telling me not to be so emotional when listening to someone else's talk or feelings **<-- denying my own emotions?**
+* objective reality does not exist **<-- or is it just unobservable? I do not believe in subjective reality**
+* protecting the other's feelings **<-- be respectful but honesty/openness is better; otherwise, it is dishonest to not communicate my feelings (again prioritizing someone else's feelings over my own)**

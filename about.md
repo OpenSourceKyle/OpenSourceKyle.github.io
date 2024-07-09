@@ -1,6 +1,7 @@
 ---
-title: About
-permalink: /about.html
+layout: single
+permalink: /about/
+author_profile: true
 ---
 
 ## Contact

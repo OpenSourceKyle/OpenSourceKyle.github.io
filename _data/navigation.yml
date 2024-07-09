@@ -1,0 +1,10 @@
+---
+main:
+  - title: Home
+    url: /index/
+  - title: Posts (Blog)
+    url: /posts/
+  - title: Pages
+    url: /pages/
+  - title: About
+    url: /about/

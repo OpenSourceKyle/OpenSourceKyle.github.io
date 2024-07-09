@@ -1,4 +1,6 @@
 ---
+tags:
+  - personal
 ---
 
 **NOTE: this article was written a while ago and does not match my recent tone well, though I have left it largely unedited**

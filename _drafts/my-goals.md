@@ -3,6 +3,8 @@
 
 # Life Purpose: I exist to facilitate connections with others
 
+**NOTE: this is out-of-date and similar though not wholly reflective of what I think currently**
+
 ## A Vow of Poverty
 
 * accept no money for the info, knowledge, or insights

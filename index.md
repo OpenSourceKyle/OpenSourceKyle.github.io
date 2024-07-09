@@ -1,46 +1,12 @@
 ---
-title: OpenSourceKyle
+layout: home
+permalink: /
+author_profile: true
 ---
 
-Howdy there, and welcome to my life. <a href="/about.html">Learn more about me</a>
+{% comment %}
+Reference: https://stackoverflow.com/a/74307051 -->
+{% endcomment %}
 
----
-
-<!-- 
- https://www.w3schools.com/howto/howto_css_two_columns.asp
--->
-<style>
-.row
-{
-  display: flex;
-}
-.column
-{
-  flex: 50%;
-}
-</style>
-
-<div class="row">
-  <div class="column">
-
-## Pages
-
-{% for post in site.pages %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
-
-  </div>
-  <div class="column">
-
-## Posts
-
-{% for post in site.posts %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
-
-  </div>
-</div>
+{% capture source %}{% include_relative pages.md %}{% endcapture %}
+{{ source | split: "---" | last }}

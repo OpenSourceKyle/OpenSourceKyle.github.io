@@ -1,16 +1,19 @@
 ---
+search: false
 ---
 
 # DEBUG
+
+This page is for debug purposes only
 
 ## .pages
 
 <ul>
 {% for page in site.pages %}
 <li>
-{{ page.title }}
+{{ page.title }}:
 {% for tag in page.tags %}
---> {{ tag }}
+{{ tag }},
 {% endfor %}
 </li>
 {% endfor %}

@@ -381,7 +381,6 @@ https://www.merriam-webster.com/dictionary/virtue
 
 # Future
 
-<!-- Collapsible Sections using details: https://stackoverflow.com/a/39920717 -->
 <details>
 
 ## GENERAL INSTRUCTIONS

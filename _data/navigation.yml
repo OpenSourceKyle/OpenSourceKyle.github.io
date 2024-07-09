@@ -1,7 +1,7 @@
 ---
 main:
   - title: Home
-    url: /index/
+    url: /
   - title: Posts (Blog)
     url: /posts/
   - title: Pages

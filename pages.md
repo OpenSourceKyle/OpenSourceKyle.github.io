@@ -11,7 +11,7 @@ Get "pages" collection (in _pages/) and parse "tags" attribute. Sort pages by th
 {% assign pages = site.posts %} 
 {% assign tags =  pages | map: 'tags' | uniq %}
 
-# By Tag(s)
+# Pages by Tag(s)
 
 {% for tag in tags %}
 
@@ -38,17 +38,3 @@ Get "pages" collection (in _pages/) and parse "tags" attribute. Sort pages by th
   </ul>
 
 {% endfor %}
-
----
-
-# All Pages
-
-<ul>
-{% for page in pages %}
-  <li>
-    <a href="{{ page.url }}">
-    {{ page.title }}
-    </a>
-  </li>
-{% endfor %}
-</ul>

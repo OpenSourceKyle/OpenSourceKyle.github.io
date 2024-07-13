@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 **Note: This will be a little bit of rambling thoughts and just "getting them out there" over a recent bad mood swing**

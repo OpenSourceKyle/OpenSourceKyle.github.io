@@ -14,6 +14,8 @@ gem "webrick", "~> 1.8"
 # Arch bug: https://www.adamsdesk.com/posts/jekyll-fix-cannot-load-such-file-json/
 gem "json"
 
+gem "faraday-retry"
+
 # ===
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

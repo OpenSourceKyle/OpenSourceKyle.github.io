@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 I never thought that I would have to say this, but **I have partied too hard** in the last few days :)

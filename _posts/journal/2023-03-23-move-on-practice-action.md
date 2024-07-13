@@ -1,5 +1,7 @@
 ---
 title: "Move On: Practice Action"
+tags:
+  - journal
 ---
 
 I slept and felt a lot better after Monday -- Monday was a rough but necessary day. I have been able to workout and run more like I enjoy. I am slowly able to do handstands (I mostly can only do walking handstands, but I can sometimes do a handstand hold when my muscles are fresh!), and most of my other weighted calisthenics are improving, too. However, I realized that my diet is a big area of growth for me. Food can be a compulsion of mine. I will start looking for a diet coach (and I messaged a best friend that is fitness/diet coach). Money might not be right yet for a coach, but in the very near future it should be.

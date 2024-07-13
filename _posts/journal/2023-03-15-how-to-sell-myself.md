@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 Keeping with an unwritten goal [so far] of mine, I have been going out most nights (goal: 5 evenings/nights per week). I went out to a dance lesson last night... I was very nervous, hesitant, and almost talked myself out of it again (like I did last week). But I have had a lot of positive reference experience lately with making friends and having a good time, so I forced myself out anyway. I am so happy that I went. I made another friend with the same name as me, and he also just went through a rough breakup. I have noticed a lot of the dudes out (recently) have all went through a bad breakup; I wonder again if that is normal, or if that is something that I somehow attract. :p

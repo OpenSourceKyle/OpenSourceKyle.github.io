@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 Quick update before I go to bed. I'm working my normal computer job tomorrow and bartending all weekend long. I have a funny "rejection" story that made me laugh -- will type up later.

@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 I do not believe that I have done anything publicly noteworthy, but I also know that I have a hard time giving myself some credit. This post will mostly revolve around taking a moment to brag about myself within the last few weeks. I am on a good trajectory, and taking time to reflect on my successes can only motivate me further. I may or may not have mentioned some of these already, but I will list all the ones that I have been holding onto.

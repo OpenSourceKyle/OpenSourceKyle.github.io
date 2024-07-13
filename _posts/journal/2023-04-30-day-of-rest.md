@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 I got taken off the work schedule today, so I am thankful for that. Since it's a slow day at the restaurant, they're letting a server run the bar (he bartends 1/month, so good luck to him).

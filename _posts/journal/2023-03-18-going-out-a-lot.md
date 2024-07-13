@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 I am keeping this one short[er], so that I can get back into my personal planning work for today and tomorrow.

@@ -1,5 +1,7 @@
 ---
 title: "Tired of Going-Out -- Ready for Rest and some Ass-Kicking"
+tags:
+  - journal
 ---
 
 I had another fun weekend, but I am incredibly tired. Today, I feel like I was hit by a truck; I am not sick, but I do not feel good. I have been in a daze all day. Taking my Sunday "off" (turning off my phone and focusing on myself) has helped, but I need rest. With that and my soft goals of approach, I am going to prioritize sleep and rest again and indefinitely. I have made a lot of friends and talked to a lot of people, but the night scene does not work with me. I will shift to dating apps in the near future (still waiting on my tripod for some pics) as well as in-person to be more efficient with my time and energy.

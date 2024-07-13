@@ -1,5 +1,7 @@
 ---
 title: "Out With the Old - In With the Great"
+tags:
+  - journal
 ---
 
 The title is maybe more serious sounding that this post will be -- I have had a wonderful couple of days.

@@ -1,7 +1,9 @@
 ---
+tags:
+  - journal
 ---
 
-**NOTE: this was written after asking my exwife for a divorce**
+**NOTE: this was written after talking to my exwife for a divorce**
 
 Yesterday was a pretty emotional day. Sparing the details, I took the initiative to move forward with something that needs to be done. I had spent last week worrying, thinking about it, and not sleeping, but after I took action, I slept like a damn baby last night. (I wonder if a lot of my insomnia is from a lack of action? **<-- I bet it is.**) I will be better once it is done (and I can write more about the details then -- it is best if I keep this one to myself and my friends for now). I also binge ate my feelings, which is one of my greatest weaknesses, but thankfully I manage my binge eating better now than I have ever before (and I can keep a relatively low bodyfat). I hope one day to heal myself enough where I can eat to live and not eat when I need to feel good. I am grateful that food is my drug of choice -- I have had friends and seen others where worse substances are their drugs of choice. I also realize that I very much tie my feelings of food with love, which is also a very human thing. Food is family, love, support, etc. **<-- Another thing to be aware of especially for myself.**
 

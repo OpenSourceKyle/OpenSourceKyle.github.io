@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 **Note: this was written a month and a half after separating from my ex-spouse. I was going out during a low point of my life to make sure I did not isolate myself as I sometimes tend to do in low moods**

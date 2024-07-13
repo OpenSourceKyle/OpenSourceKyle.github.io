@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 I went out to a bar crawl last night and had a fun time. I was feeling sad for myself again, but as always, I had to remind myself that every time that I go out -- being open and friendly -- I always have a good time. Last night was the best night that I have had in while.

@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 Busy weekend bartending yesterday, today, and tomorrow. I ran out of time again, but I'll keep this brief again to maintain the habit.

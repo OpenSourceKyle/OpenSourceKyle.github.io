@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 **Goal: Less words equals greater action**

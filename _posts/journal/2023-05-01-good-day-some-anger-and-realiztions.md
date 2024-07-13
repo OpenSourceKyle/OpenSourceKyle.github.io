@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 I had a pretty good day today. I got mad over something that I can't mention here, but a good workout helped chill me out. Feeling my anger more and acting it out in a positive manner has been good for me (instead of repressing it like I previously did).

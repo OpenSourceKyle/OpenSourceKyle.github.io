@@ -1,6 +1,7 @@
 ---
+tags:
+  - journal
 ---
-
 **Goal: Less words equals greater action**
 
 I still have my ups and downs with my mood swings sometimes, but overall, I am doing way better. I am waking up with that "killer" animal/male masculine energy -- excited to take on the world and get some stuff done. I have also not stayed out late and partied hard like I was a month ago. For the time, I think that was necessary. But now, I am back in the stage of: sharpening my mind and body.

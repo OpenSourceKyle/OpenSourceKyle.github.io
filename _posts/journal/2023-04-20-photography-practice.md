@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 TL;DR: I am practicing photography of nature, friends, and myself. These particular pictures of me had no purpose other than to snag some of myself while I was taking photos of my buddy for his Tinder.

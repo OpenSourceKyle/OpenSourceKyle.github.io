@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 I have been doing some personal journaling over the last month while thinking of who I am vs. who I want to be. Reading *No More Mr. Nice Guy* has also supplemented my understanding of my submissive and passive tendencies that have plagued my life. I have always disliked these qualities about me and knew that people did not respect me for them. Or rather, I have allowed them to plague me to avoid conflict and present "nice" or well-behaved -- a coping mechanism for my modest, redneck upbringing that I was often embarrassed about. I need to live life for myself and not for others; I want to love the badass hiding inside of me. And finally after some of my recent (though not traumatizing) experiences with women, I believe that I see a way forward for myself: being (or experimenting with) who I have always wanted to be.

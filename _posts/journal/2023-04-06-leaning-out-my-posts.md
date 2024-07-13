@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 I liked the previous post of my WINS... I have been considering typing less given that I word vomit all over the screen. I have needed it since it has been like a therapy to me. Now that I am working towards a better mindset and mental space, I want to work towards more action and less words. I think that I might go back to journaling verbosely in my private notebook for my own sake.

@@ -1,5 +1,7 @@
 ---
 title: 'A Little Fatigued, but Not Done'
+tags:
+  - journal
 ---
 
 Following my previous advice, I told the chick that I had been texting:

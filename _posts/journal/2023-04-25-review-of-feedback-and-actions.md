@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 #### Soliciting feedback for sleep hygiene:

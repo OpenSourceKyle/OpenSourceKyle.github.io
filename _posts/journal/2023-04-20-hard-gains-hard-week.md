@@ -1,4 +1,6 @@
 ---
+tags:
+  - journal
 ---
 
 Goal: Less words equals greater action **<-- I will break this goal since I need to "vent" out... and I have not written in a few days**

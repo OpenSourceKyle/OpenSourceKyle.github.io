@@ -2,9 +2,9 @@
 main:
   - title: Home
     url: /
-  - title: Posts (Blog)
-    url: /posts/
   - title: Pages
     url: /pages/
+  - title: My Journal
+    url: /posts/
   - title: About
     url: /about/

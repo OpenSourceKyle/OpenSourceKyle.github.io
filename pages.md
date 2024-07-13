@@ -8,40 +8,33 @@ author_profile: true
 Get "pages" collection (in _pages/) and parse "tags" attribute. Sort pages by their tags.
 {% endcomment %}
 
-{% assign pages = site.pages %} 
+{% assign pages = site.posts %} 
 {% assign tags =  pages | map: 'tags' | uniq %}
 
-# By Tag(s)
+# Pages by Tag(s)
 
 {% for tag in tags %}
-  <h3>
-  {{ tag | capitalize }}
-  </h3>
 
+  {% comment %}
+  Omit journal (blog) posts from Pages.
+  {% endcomment %}
   <ul>
-  {% for page in pages %}
-    {% if page.tags contains tag %}
-      <li>
-        <a href="{{ page.url }}">
-        {{ page.title }}
-        </a>
-      </li>
-    {% endif %}
-  {% endfor %}
+  {% unless tag == "journal" %}
+    <h3>
+    {{ tag | capitalize }}
+    </h3>
+
+    {% for page in pages %}
+      {% if page.tags contains tag %}
+        <li>
+          <a href="{{ page.url }}">
+          {{ page.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+
+  {% endunless %}
   </ul>
 
 {% endfor %}
-
----
-
-# All Pages
-
-<ul>
-{% for page in pages %}
-  <li>
-    <a href="{{ page.url }}">
-    {{ page.title }}
-    </a>
-  </li>
-{% endfor %}
-</ul>

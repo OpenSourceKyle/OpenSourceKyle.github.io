@@ -6,7 +6,7 @@ author_profile: true
 
 ## Contact
 
-### <a href="mailto:opensourcekyle@gmail.com">Email Me</a>
+### <a href="mailto:kyle@opensourcekyle.com">Email Me</a>
 
 ## Performative Art Project
 

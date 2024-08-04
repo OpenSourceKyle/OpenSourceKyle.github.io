@@ -3,6 +3,8 @@ tags:
   - socialize
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/socialize-spanish.jpg" alt="Can you tell I used AI to generate this -- hint look at the flags">
+
 Learning a new language has been challenging for me. Some days I feel that I understand everything, and others like I forgot all my Spanish.
 
 I have been speaking Spanish since moving to Mexico for almost a year ago. Although there are a lot of cool videos, books, and everything else on how to speak a new language quickly, I don't believe that to be possible -- that is: to **BECOME FLUENT NOW™** is a lie. Sure there are tips as well as differences in ages and cognitive abilities, but I do not think you can skip the hard work. And part of that is to **socialize with native speakers**.

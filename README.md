@@ -30,6 +30,7 @@ source ~/.zshrc
 
 # Install Jekyll & Bundler
 gem install jekyll bundler
+bundler install
 
 # Automatically rebuild/serve website while editing
 bundler exec jekyll serve --livereload --incremental

@@ -4,14 +4,19 @@ permalink: /pages/
 author_profile: true
 ---
 
+These pages are meant to be help guides from my own experience and/or research. Some general guidelines:
+
+* Overthinking and making excuses: do not lead to results!
+* Fuck the theory: go and find out for yourself!
+
+# Pages by Tag(s)
+
 {% comment %}
 Get "pages" collection (in _pages/) and parse "tags" attribute. Sort pages by their tags.
 {% endcomment %}
 
 {% assign pages = site.posts %} 
 {% assign tags =  pages | map: 'tags' | uniq %}
-
-# Pages by Tag(s)
 
 {% for tag in tags %}
 

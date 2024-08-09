@@ -3,6 +3,10 @@ tags:
   - socialize
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/socialize-spanish.jpg" alt="Can you tell I used AI to generate this -- hint look at the flags">
+
+Learning a new language has been challenging for me. Some days I feel that I understand everything, and others like I forgot all my Spanish.
+
 I have been speaking Spanish since moving to Mexico for almost a year ago. Although there are a lot of cool videos, books, and everything else on how to speak a new language quickly, I don't believe that to be possible -- that is: to **BECOME FLUENT NOW™** is a lie. Sure there are tips as well as differences in ages and cognitive abilities, but I do not think you can skip the hard work. And part of that is to **socialize with native speakers**.
 
 Speaking to a lot of foreigners and native Mexicans, I have noticed a common theme in myself and them: <ins>we all have some level of embarrassment over speaking to a native speaker in a language not our own</ins>. For me these feelings seem to linger, but my action depends on my mood. My mood depends on my thoughts and physical state. This is almost circular, but there are parts that I feel that I can control: some bits of my own physical state and how I choose to view thoughts long term (initially the emotional reaction seems involuntary, but I choose if it bothers me beyond that).
@@ -26,11 +30,11 @@ What I've found actually matters is **INTENTION**. As in, going in with a positi
 * I wanna <ins>get to know her and see if we vibe</ins>!
 * I <ins>give myself permission to suck and know that it's OK if I'm not perfect</ins>. Everything will be OK
 
-#### 1) Positive Intention
+#### 1) Going in with a Positive Intention
 
-I also try to think of "intention" as "philosophy" as well. Going in with a <ins>positive</ins> PHILOSOPHY or INTENTION is all that really matters. I would like a positive outcome for us both. But if not, I (or them) can leave at any time.
+I also try to think of "intention" as well. For some, this might sound unnecessary or too New Age/hippy-dippy, but I feel that my own thoughts are often time the greatest limiting factor that obstruct me. Going in with a <ins>positive</ins> INTENTION is all that really matters. I would like a positive outcome for us both, but if not, I (or them) can leave at any time.
 
-A really good intention/philosophy that seems to help me is **"I have no expectations; only curiosity"**. I really enjoy this idea since we can truly only control *our input* but not the *output* of circumstances.
+A *really good intention that helps me* is **"I have no expectations; only curiosity"** or that **"This is all one big experiment -- I can make mistakes"**. I really enjoy this idea since we can truly only control *our input* but not the *output* of circumstances.
 
 Or **"I'll just see what happens"**
 
@@ -46,7 +50,7 @@ Mental reframing:
 
 ---
 
-# Or a more mechanical Approach
+# Or a more mechanical approach
 
 Sometimes, the framing stuff does not work, so I need to just "do" something instead of thinking of my thoughts. Give the warmups 5-10 minutes for each section and then go to direct action in the last section.
 

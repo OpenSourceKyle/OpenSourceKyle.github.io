@@ -50,7 +50,7 @@ Given the irony of her tattoo, although I promised a sun on my ring finger to he
 * Above Knees
 * by Kelly Edwards at Eternal Courage Tattoos: $187.50
 
-![Too Much](/assets/images/pages/tattoos/3-too-much.jpg){: .align-left style="width: 500px" }
+![TOO MUCH](/assets/images/pages/tattoos/3-too-much.jpg){: .align-left style="width: 500px" }
 
 Americana-like Font: "TOO MUCH" is a larger size, capitalized, and on the front of my body above my knees
 
@@ -63,9 +63,7 @@ From a simple standpoint, this tattoo is also aesthetic when wearing shorts as w
 * Both Pecs
 * by Sarah at Into the Void Tattoos: $440
 
-<figure style="width: 500px" class="alight-right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/4-death-skeleton.jpg">
-</figure>
+![Death and Skeleton](/assets/images/pages/tattoos/4-death-skeleton.jpg){: .align-left style="width: 500px" }
 
 I have always had a morbid interest and appreciation of death and darkness. This is a contrast to the usual Western aversion to and fear of death. I love and appreciate that other cultures, especially the Mexican, Latin American, and Mesoamerican (e.g. Aztec) cultures, celebrate and remember death in a positive manner.
 
@@ -75,14 +73,12 @@ Death (grim reaper/Santa Muerte) is on my right pec wearing a cloak and carrying
 
 Santa Muerte is an unofficial, controversial saint or occult symbol (depending on the person) that helps safeguard passage into the afterlife. She often is a saint for those on the outliers of society: poor, gay, Mexican cartel, etc. She protects all who ask for her help.
 
-## 28 May 2023 - The Dark Mark
+## 28 May 2023 - The Dark Mark and Deathly Hollows Symbols
 
 * Right Forearm
 * by Malekai (boyfriend of Sarah: tattoo #4) at Doomsday Tattoo: $300
 
-<figure style="width: 500px" class="alight-right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/5-hp-symbols.jpg">
-</figure>
+![HP Symbols](/assets/images/pages/tattoos/5-hp-symbols.jpg){: .align-left style="width: 500px" }
 
 I have always loved the _Harry Potter_ series since childhood, and this serves as a great homage to that. Those books and films always bring me great joy and encapsulate a lot of my thematic interests really well: life, death, darkness, friends, choices, fantasy, magic, struggle. This is the only series that I have read and watched multiple times -- I typically do not reread or rewatch art. I enjoy great, emotional feelings of nostalgia when I think of  series in regards to my own life. The film series was also one of the few things that my parents and I bonded over by watching and enjoying them together. The books also helped inspire me to enjoy reading as young child.
 
@@ -97,9 +93,7 @@ I also just very much love skulls and snakes -- to me the art is very dark and b
 * Front, right side of stomach
 * original drawing by Josh Perry & tattoo by Josh Standley at Element Tattoo: $320
 
-<figure style="width: 500px" class="alight-right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/6-quetzacoatl.jpg">
-</figure>
+![Quetzalcoatl](/assets/images/pages/tattoos/6-quetzalcoatl.jpg){: .align-left style="width: 500px" }
 
 The feathered serpent has many meanings, but in short: wisdom, learning, sun, god. The tattoo shows my love of Aztec and Mexican culture, originally initiated by Age of Empires II but now bolstered through my practice of the Spanish language. Quetzacoatl in this form and on my right (future) side gives promise of my Spanish speaking and living ambitions. I hope through this journey to find the wisdom that I so desperately desire.
 
@@ -110,9 +104,9 @@ An odd coincidence, I visited Mission San Jose and walked around the grounds. Th
 * Left Forearm + Right Leg
 * by Joaquin Benites: $300
 
-<figure style="width: 500px" class="half">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/7-nopal.jpg">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/8-lil-ghost.jpg">
+<figure class="half">
+![Nopal](/assets/images/pages/tattoos/7-nopal.jpg){: style="width: 250px" }
+![Lil Ghost](/assets/images/pages/tattoos/8-lil-ghost.jpg){: style="width: 250px" }
 </figure>
 
 Chapters of Life:
@@ -123,9 +117,8 @@ Chapters of Life:
 * Fingers on Both Hands
 * by Silvana Giron: $136.02
 
-<figure style="width: 500px" class="align-left" class="image-popup">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/9-todo-bien.jpg">
-</figure>
+
+![TODO BIEN](/assets/images/pages/tattoos/9-todo-bien.jpg){: style="width: 500px" }
 
 More of a YOLO and a desire to break the ice on my first tattoo in Mexico, this tattoo makes a very visible statement. The statement is very simple and sweet: TODO BIEN or all is well. A simple allegory of me where I might (and want) to appear a bit abrasive and rough whereas I can be a bit too sweet or cute sometimes.
 
@@ -134,9 +127,7 @@ More of a YOLO and a desire to break the ice on my first tattoo in Mexico, this 
 * Left thigh, outer side
 * by Nate Hanes at Element Tattoo: $230
 
-<figure style="width: 500px" class="align-left" class="image-popup">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/10-ramen.jpg">
-</figure>
+![Ramen](/assets/images/pages/tattoos/10-ramen.jpg){: style="width: 500px" }
 
 This one is a bit complicated. Although the tattoo itself seems straightforward, I have various reasons for getting it. A reason is a bit jokingly: a dedicated to my best friends, who nearly all of them at this point are of some sort of Asian decent. Another reason was a previous girlfriend, who I dearly appreciated for our short, sweet time together. Finally, one of my best friends (Asian of course) wanted to get tattoos together for his first one, so I had to pick something... I had already been mulling this idea around in my head.
 
@@ -145,20 +136,16 @@ This one is a bit complicated. Although the tattoo itself seems straightforward,
 * Right foot
 * by XXX at The House
 
-<figure style="width: 500px" class="align-left" class="image-popup">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/11-no-mames.jpg">
-</figure>
+![NO MAMES](/assets/images/pages/tattoos/11-no-mames.jpg){: style="width: 500px" }
 
 A pure YOLO with a friend, who has the same tattoo on his butt (in my handwriting).
 
-## 21 February 2024 - Silhoutte of female form
+## 21 February 2024 - Silhouette of female form
 
 * Left Bicep
 * by Alfonso Gutiérrez at The House
 
-<figure style="width: 500px" class="align-left" class="image-popup">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/12-silhoutte.jpg">
-</figure>
+![Silhouette](/assets/images/pages/tattoos/12-silhouette.jpg){: style="width: 500px" }
 
 My friend's first tattoo as an aspiring tattoo artist. This has no deeper meaning behind it, but I thought it was a cool design. He completed it in white because it was very much an experiment, and we both were unsure of the final result. Needless to say, I am glad it is in white.
 
@@ -167,9 +154,9 @@ My friend's first tattoo as an aspiring tattoo artist. This has no deeper meanin
 * Above Back of Knees
 * by Alfonso Gutiérrez at Frontera Ink
 
-<figure style="width: 500px" class="half">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/13-1-not.jpg">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/13-2-enough.jpg">
+<figure class="half">
+![NOT](/assets/images/pages/tattoos/13-1-not.jpg){: style="width: 250px" }
+![ENOUGH](/assets/images/pages/tattoos/13-2-enough.jpg){: style="width: 250px" }
 </figure>
 
 My first tattoo completed by my friend as a birthday present. Over a year ago (April 2023), I had gotten "TOO MUCH" on the front and had planned to get "NOT ENOUGH" due to  my feelings and emotions at the time. A better description is in that entry. I finally got them completed, and my friend, an aspiring tattoo artist in training, was able to leave with a cool memory since getting free, good tattoos is not easy.

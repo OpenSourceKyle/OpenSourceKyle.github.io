@@ -17,7 +17,7 @@ I will not live afraid of being different.
 * Left Forearm
 * by Axel Rivera at Ink Coutore Tattoos: $220
 
-![Rascal](/assets/images/pages/tattoos/1-possum.jpg){: .align-left}
+![Rascal](/assets/images/pages/tattoos/1-possum.jpg){: .align-left style="width: 500px" }
 
 This is the most "me" tattoo that I could have gotten for my first. The tattoo is fairly blatant, being on my forearm, and the image resembles a Tom Sawyer-inspired possum laying down while wearing overalls, a straw hat, and with a piece of straw in his mouth. He wears a slight smirk, showing an inner mischievousness.
 
@@ -34,7 +34,7 @@ Rascal represents my childhood and my roots -- where I have come from, so that I
 * Left Calf (Backside)
 * by Chris Moguai at Rings of Fire Tattoos: $305
 
-![Sun](/assets/images/pages/tattoos/2-sun.jpg){: .align-left}
+![Sun](/assets/images/pages/tattoos/2-sun.jpg){: .align-left style="width: 500px"}
 
 This tattoo is more of an aesthetic piece as well as a promise fulfilled. My exwife had gotten a crescent moon tattooed on her ring finger as a wedding band when we were initially married. Being in the military at the time, I could not get a finger tattoo. Later the military rules were loosened, but they only permitted a band. I had promised her that I would get a sun to complement her moon since she was dissatisfied with a simple band tattoo. I have many memories of her being dissatisfied with what I could give, and me feeling inadequate, though now I own that burden to carry and realize it is not her fault.
 She always told me I was her moon -- something [someone] that was always there for her when she looked up at the night sky. She thought of me when she saw the moon.
@@ -50,9 +50,7 @@ Given the irony of her tattoo, although I promised a sun on my ring finger to he
 * Above Knees
 * by Kelly Edwards at Eternal Courage Tattoos: $187.50
 
-<figure style="width: 500px" class="alight-right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/3-too-much.jpg">
-</figure>
+![Too Much](/assets/images/pages/tattoos/3-too-much.jpg){: .align-left style="width: 500px" }
 
 Americana-like Font: "TOO MUCH" is a larger size, capitalized, and on the front of my body above my knees
 

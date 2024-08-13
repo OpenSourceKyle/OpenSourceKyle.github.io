@@ -116,28 +116,25 @@ analytics:
 author:
   name             : "Kyle"
   avatar           : "/assets/images/logo/logo_author.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "= Open * Honest * Direct ="
+  bio              : "--- Open • Honest • Direct ---"
   location         :
   email            : "opensourcekyle@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:opensourcekyle@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://www.opensourcekyle.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "LinkTree"
+      icon: "fa-solid fa-link"
+      url: "https://linktr.ee/opensourcekyle"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://www.facebook.com/profile.php?id=61561838360123"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/OpenSourceKyle/OpenSourceKyle.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/opensourcekyle/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.opensourcekyle.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/OpenSourceKyle/OpenSourceKyle.github.io"
 
 # Site Footer
 footer:

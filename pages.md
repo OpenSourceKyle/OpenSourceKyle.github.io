@@ -7,7 +7,7 @@ author_profile: true
 These pages are meant to be help guides from my own experience and/or research. Some general guidelines:
 
 * Overthinking and making excuses: do not lead to results!
-* Fuck the theory: go and find out for yourself!
+* F@#! the theory: go and find out for yourself!
 
 # Pages by Tag(s)
 

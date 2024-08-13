@@ -17,7 +17,7 @@ I will not live afraid of being different.
 * Left Forearm
 * by Axel Rivera at Ink Coutore Tattoos: $220
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/1-possum.jpg">
+![Rascal](/assets/images/pages/tattoos/1-possum.jpg){: .align-left}
 
 This is the most "me" tattoo that I could have gotten for my first. The tattoo is fairly blatant, being on my forearm, and the image resembles a Tom Sawyer-inspired possum laying down while wearing overalls, a straw hat, and with a piece of straw in his mouth. He wears a slight smirk, showing an inner mischievousness.
 
@@ -34,7 +34,7 @@ Rascal represents my childhood and my roots -- where I have come from, so that I
 * Left Calf (Backside)
 * by Chris Moguai at Rings of Fire Tattoos: $305
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/2-sun.jpg">
+![Sun](/assets/images/pages/tattoos/2-sun.jpg){: .align-left}
 
 This tattoo is more of an aesthetic piece as well as a promise fulfilled. My exwife had gotten a crescent moon tattooed on her ring finger as a wedding band when we were initially married. Being in the military at the time, I could not get a finger tattoo. Later the military rules were loosened, but they only permitted a band. I had promised her that I would get a sun to complement her moon since she was dissatisfied with a simple band tattoo. I have many memories of her being dissatisfied with what I could give, and me feeling inadequate, though now I own that burden to carry and realize it is not her fault.
 She always told me I was her moon -- something [someone] that was always there for her when she looked up at the night sky. She thought of me when she saw the moon.
@@ -50,7 +50,9 @@ Given the irony of her tattoo, although I promised a sun on my ring finger to he
 * Above Knees
 * by Kelly Edwards at Eternal Courage Tattoos: $187.50
 
+<figure style="width: 500px" class="alight-right">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/3-too-much.jpg">
+</figure>
 
 Americana-like Font: "TOO MUCH" is a larger size, capitalized, and on the front of my body above my knees
 
@@ -63,7 +65,9 @@ From a simple standpoint, this tattoo is also aesthetic when wearing shorts as w
 * Both Pecs
 * by Sarah at Into the Void Tattoos: $440
 
+<figure style="width: 500px" class="alight-right">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/4-death-skeleton.jpg">
+</figure>
 
 I have always had a morbid interest and appreciation of death and darkness. This is a contrast to the usual Western aversion to and fear of death. I love and appreciate that other cultures, especially the Mexican, Latin American, and Mesoamerican (e.g. Aztec) cultures, celebrate and remember death in a positive manner.
 
@@ -78,7 +82,9 @@ Santa Muerte is an unofficial, controversial saint or occult symbol (depending o
 * Right Forearm
 * by Malekai (boyfriend of Sarah: tattoo #4) at Doomsday Tattoo: $300
 
+<figure style="width: 500px" class="alight-right">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/5-hp-symbols.jpg">
+</figure>
 
 I have always loved the _Harry Potter_ series since childhood, and this serves as a great homage to that. Those books and films always bring me great joy and encapsulate a lot of my thematic interests really well: life, death, darkness, friends, choices, fantasy, magic, struggle. This is the only series that I have read and watched multiple times -- I typically do not reread or rewatch art. I enjoy great, emotional feelings of nostalgia when I think of  series in regards to my own life. The film series was also one of the few things that my parents and I bonded over by watching and enjoying them together. The books also helped inspire me to enjoy reading as young child.
 
@@ -93,7 +99,9 @@ I also just very much love skulls and snakes -- to me the art is very dark and b
 * Front, right side of stomach
 * original drawing by Josh Perry & tattoo by Josh Standley at Element Tattoo: $320
 
+<figure style="width: 500px" class="alight-right">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/6-quetzacoatl.jpg">
+</figure>
 
 The feathered serpent has many meanings, but in short: wisdom, learning, sun, god. The tattoo shows my love of Aztec and Mexican culture, originally initiated by Age of Empires II but now bolstered through my practice of the Spanish language. Quetzacoatl in this form and on my right (future) side gives promise of my Spanish speaking and living ambitions. I hope through this journey to find the wisdom that I so desperately desire.
 
@@ -104,8 +112,10 @@ An odd coincidence, I visited Mission San Jose and walked around the grounds. Th
 * Left Forearm + Right Leg
 * by Joaquin Benites: $300
 
+<figure style="width: 500px" class="half">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/7-nopal.jpg">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/8-lil-ghost.jpg">
+</figure>
 
 Chapters of Life:
 - The Nopal (prickly pear cactus): Texas
@@ -115,7 +125,9 @@ Chapters of Life:
 * Fingers on Both Hands
 * by Silvana Giron: $136.02
 
+<figure style="width: 500px" class="align-left" class="image-popup">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/9-todo-bien.jpg">
+</figure>
 
 More of a YOLO and a desire to break the ice on my first tattoo in Mexico, this tattoo makes a very visible statement. The statement is very simple and sweet: TODO BIEN or all is well. A simple allegory of me where I might (and want) to appear a bit abrasive and rough whereas I can be a bit too sweet or cute sometimes.
 
@@ -124,7 +136,9 @@ More of a YOLO and a desire to break the ice on my first tattoo in Mexico, this 
 * Left thigh, outer side
 * by Nate Hanes at Element Tattoo: $230
 
+<figure style="width: 500px" class="align-left" class="image-popup">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/10-ramen.jpg">
+</figure>
 
 This one is a bit complicated. Although the tattoo itself seems straightforward, I have various reasons for getting it. A reason is a bit jokingly: a dedicated to my best friends, who nearly all of them at this point are of some sort of Asian decent. Another reason was a previous girlfriend, who I dearly appreciated for our short, sweet time together. Finally, one of my best friends (Asian of course) wanted to get tattoos together for his first one, so I had to pick something... I had already been mulling this idea around in my head.
 
@@ -133,7 +147,9 @@ This one is a bit complicated. Although the tattoo itself seems straightforward,
 * Right foot
 * by XXX at The House
 
+<figure style="width: 500px" class="align-left" class="image-popup">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/11-no-mames.jpg">
+</figure>
 
 A pure YOLO with a friend, who has the same tattoo on his butt (in my handwriting).
 
@@ -142,7 +158,9 @@ A pure YOLO with a friend, who has the same tattoo on his butt (in my handwritin
 * Left Bicep
 * by Alfonso Gutiérrez at The House
 
+<figure style="width: 500px" class="align-left" class="image-popup">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/12-silhoutte.jpg">
+</figure>
 
 My friend's first tattoo as an aspiring tattoo artist. This has no deeper meaning behind it, but I thought it was a cool design. He completed it in white because it was very much an experiment, and we both were unsure of the final result. Needless to say, I am glad it is in white.
 
@@ -151,8 +169,10 @@ My friend's first tattoo as an aspiring tattoo artist. This has no deeper meanin
 * Above Back of Knees
 * by Alfonso Gutiérrez at Frontera Ink
 
+<figure style="width: 500px" class="half">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/13-1-not.jpg">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/tattoos/13-2-enough.jpg">
+</figure>
 
 My first tattoo completed by my friend as a birthday present. Over a year ago (April 2023), I had gotten "TOO MUCH" on the front and had planned to get "NOT ENOUGH" due to  my feelings and emotions at the time. A better description is in that entry. I finally got them completed, and my friend, an aspiring tattoo artist in training, was able to leave with a cool memory since getting free, good tattoos is not easy.
 

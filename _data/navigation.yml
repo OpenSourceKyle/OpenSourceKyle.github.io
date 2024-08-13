@@ -4,7 +4,9 @@ main:
     url: /
   - title: Pages
     url: /pages/
-  - title: My Journal
+  - title: Journal
     url: /posts/
+  - title: Coaching
+    url: /coaching/
   - title: About
     url: /about/

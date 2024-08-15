@@ -5,17 +5,15 @@ permalink: /coaching/
 author_profile: true
 ---
 
-## Let's Achieve Together
+## Let’s Achieve Together
 
-I use to think that I could achieve anything from my own sheer effort and willpower. Although we can (and I did) indeed achieve a lot when well-disciplined and motivated, realistically that is damn-near impossible to be successful in life alone.
+I used to believe that sheer effort and willpower were enough to achieve anything. While discipline and motivation can indeed take us far, the reality is that success is rarely a solo journey.
 
-**Really.** Ask yourself: *how many things have you truly achieved completely by yourself?*
+**Think about it**: *How many of your accomplishments can you truly claim as entirely your own?*
 
-I will be the first to admit, after much introspection, that I cannot in good faith claim all my successes as entirely my own. There have been many people, friends, family, mentors, and more that played a part in where I am today.
+I'll be the first to admit, after much introspection, that my successes are not solely mine. Friends, family, mentors, and others have all played pivotal roles in getting me where I am today.
 
-I am looking for more people with exciting stories and dreams who want to achieve more. At this stage of my life, I feel it is my purpose to help grow others.
-
----
+Now, <ins>I'm looking for others with exciting stories and big dreams who are eager to achieve more</ins>. At this stage of my life, I feel **it's my purpose to help others grow and reach their potential**.
 
 {% capture source %}{% include_relative about.md %}{% endcapture %}
 {{ source | split: "---" | last }}

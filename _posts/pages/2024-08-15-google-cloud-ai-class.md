@@ -1,7 +1,9 @@
 ---
 tags:
-  - internal
+  - notes
 ---
+
+<https://www.cloudskillsboost.google/paths/118>
 
 # 1) AI Notes - Intro
 
@@ -159,3 +161,29 @@ Q: """
 ### ReAct (interact with external systems -- outside of the training data aka live systems)
 
 For example, this could query the current date or a live Wikipedia page to ask what famous person died today (current date) and querying Wikipedia.
+
+# 5) Labs Notes
+
+## Nucleus Sampling
+
+Nucleus sampling is a technique used in large language models to control the randomness and diversity of generated text. It works by sampling from only the most likely tokens in the model’s predicted distribution.
+
+The key parameters are:
+
+* Temperature: Controls randomness, higher values increase diversity.
+* Top-p (nucleus): The cumulative probability cutoff for token selection. Lower values mean sampling from a smaller, more top-weighted nucleus.
+* Top-k: Sample from the k most likely next tokens at each step. Lower k focuses on higher probability tokens.
+
+In general:
+
+* Higher temperature will make outputs more random and diverse.
+* Lower top-p values reduce diversity and focus on more probable tokens.
+* Lower top-k also concentrates sampling on the highest probability tokens for each step.
+
+So temperature increases variety, while top-p and top-k reduce variety and focus samples on the model’s top predictions. You have to balance diversity and relevance when tuning these parameters for different applications.
+
+OpenAI recommends only altering either temperature or top-p from the default.
+
+Top-k is not exposed.
+
+Nucleus sampling parameters alone cannot stop an AI from hallucinating, but they can keep the output on a path of low perplexity. When the temperature is set high, alternate token choices can be made that are not a good fit.

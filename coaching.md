@@ -15,5 +15,14 @@ I'll be the first to admit, after much introspection, that my successes are not 
 
 Now, <ins>I'm looking for others with exciting stories and big dreams who are eager to achieve more</ins>. At this stage of my life, I feel **it's my purpose to help others grow and reach their potential**.
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/opensourcekyle/30min" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+## Testimonials
+
+![Testimonial Dating](/assets/images/pages/testimonials/testimonial_dating.png){: }
+
 {% capture source %}{% include_relative about.md %}{% endcapture %}
 {{ source | split: "---" | last }}

@@ -3,7 +3,7 @@ tags:
   - internal
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/coaching.jpg" alt="">
+![Coaching](/assets/images/pages/coaching.jpg){: .align-right style="width: 500px" }
 
 I want to detail my idea on coaching to better organize my own thoughts and philosophy as well as give greater insights to others. There is a not a right or wrong answer to this -- but rather a matter of style.
 

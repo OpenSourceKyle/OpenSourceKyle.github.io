@@ -3,7 +3,7 @@ tags:
   - socialize
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pages/socialize-spanish.jpg" alt="Can you tell I used AI to generate this -- hint look at the flags">
+![Socializing in Spanish](/assets/images/pages/socialize-spanish.jpg){: .align-right style="width: 500px" }
 
 Learning a new language has been challenging for me. Some days I feel that I understand everything, and others like I forgot all my Spanish.
 

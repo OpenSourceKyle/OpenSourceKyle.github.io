@@ -24,7 +24,21 @@ Now, <ins>I'm looking for others with exciting stories and big dreams who are ea
 
 ### Improved dating life afer harsh breakup
 
-![Testimonial Dating](/assets/images/pages/testimonials/testimonial_dating.png){: }
+![Testimonial Dating](/assets/images/pages/testimonials/testimonial_dating.png){: .align-center }
+
+<iframe src="https://www.youtube-nocookie.com/embed/qgHICjP-XhY" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+
+---
+
+### Improving English conversational abilities
+
+![Testimonial English](/assets/images/pages/testimonials/testimonial_english.png){: .align-center }
+
+#### Translated version (in English)
+
+![Testimonial English Translated](/assets/images/pages/testimonials/testimonial_english_translated.png){: .align-center }
+
+---
 
 {% capture source %}{% include_relative about.md %}{% endcapture %}
 {{ source | split: "---" | last }}

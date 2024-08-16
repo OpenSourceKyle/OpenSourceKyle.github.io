@@ -5,11 +5,13 @@ permalink: /about/
 author_profile: true
 ---
 
-## Meet Kyle
+---
+
+# Meet Kyle
 
 Howdy there, I’m Kyle. This website is a blend of my personal life, thoughts, and the various achievements that I've collected over the years. While this part of the project focuses on my own experiences, my real passion lies in becoming a better man and personal consultant -- someone who supports others as they tackle life’s challenges.
 
-### My Expertise
+## My Expertise
 
 Over the years, I've honed my skills in several areas:
 

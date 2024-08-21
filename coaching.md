@@ -7,6 +7,8 @@ author_profile: true
 
 ## Let’s Achieve Together
 
+![Logo Coaching](/assets/images/logo/logo_coaching.jpg){: .align-center }
+
 I used to believe that sheer effort and willpower were enough to achieve anything. While discipline and motivation can indeed take us far, the reality is that success is rarely a solo journey.
 
 **Think about it**: *How many of your accomplishments can you truly claim as entirely your own?*

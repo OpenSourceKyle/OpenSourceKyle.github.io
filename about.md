@@ -9,7 +9,11 @@ author_profile: true
 
 # Meet Kyle
 
+![Logo Coaching](/assets/images/logo/logo_coaching.jpg){: .align-left style="width: 350px" }
+
 Howdy there, I’m Kyle. This website is a blend of my personal life, thoughts, and the various achievements that I've collected over the years. While this part of the project focuses on my own experiences, my real passion lies in becoming a better man and personal consultant -- someone who supports others as they tackle life’s challenges.
+
+I hope that this website can document my own process and serve as an example for others.
 
 ## My Expertise
 

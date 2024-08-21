@@ -116,12 +116,12 @@ analytics:
 author:
   name             : "Kyle"
   avatar           : "/assets/images/logo/logo_author.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "--- Open • Honest • Direct ---"
+  bio              : "--- Open • Honest • Vulnerable ---"
   location         :
   email            : "opensourcekyle@gmail.com"
   links:
     - label: "LinkTree"
-      icon: "fa-solid fa-link"
+      icon: "fa-solid fa-tree"
       url: "https://linktr.ee/opensourcekyle"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"

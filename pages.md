@@ -6,8 +6,8 @@ author_profile: true
 
 These pages are meant to be help guides from my own experience and/or research. Some general guidelines:
 
-* Overthinking and making excuses: do not lead to results!
-* F@#! the theory: go and find out for yourself!
+* Overthinking and making excuses do not lead to results: take responsibility for your life!
+* Don't trust theory: go and find out for yourself!
 
 # Pages by Tag(s)
 
@@ -24,22 +24,25 @@ Get "pages" collection (in _pages/) and parse "tags" attribute. Sort pages by th
   Omit journal (blog) posts from Pages.
   {% endcomment %}
   <ul>
-  {% unless tag == "journal" %}
-    <h3>
-    {{ tag | capitalize }}
-    </h3>
+  {% case tag %}
+    {% when "journal", "notes" %}
+      {% comment %} Do nothing {% endcomment %}
+    {% else %}
+      <h3>
+      {{ tag | capitalize }}
+      </h3>
+  
+      {% for page in pages %}
+        {% if page.tags contains tag %}
+          <li>
+            <a href="{{ page.url }}">
+            {{ page.title }}
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
 
-    {% for page in pages %}
-      {% if page.tags contains tag %}
-        <li>
-          <a href="{{ page.url }}">
-          {{ page.title }}
-          </a>
-        </li>
-      {% endif %}
-    {% endfor %}
-
-  {% endunless %}
+  {% endcase %}
   </ul>
 
 {% endfor %}

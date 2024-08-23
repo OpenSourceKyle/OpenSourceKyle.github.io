@@ -2,7 +2,7 @@
 layout: single
 title: Coaching
 permalink: /coaching/
-author_profile: true
+classes: wide
 ---
 
 ## Let’s Achieve Together

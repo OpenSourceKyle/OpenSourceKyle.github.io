@@ -8,32 +8,20 @@ OpenSourceKyle is collection of my writings. These are not meant to descriptive 
 
 ## Remote
 
-Built via Github Actions: [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/actions/workflows/jekyll-gh-pages.yml)
+Built via Github Actions: To be Replaced
 
-## Local (Arch Linux + zsh)
+## Local (Arch Linux)
 
 The following instructions detail how to get started:
 
-* <https://jekyllrb.com/docs/installation/other-linux/#archlinux>
-* <https://jekyllrb.com/docs/#instructions>
+* <https://gohugo.io/installation/linux/#arch-linux>
 
 ```shell
 # Install pkgs: Arch Linux
-sudo pacman -S ruby base-devel
-
-# Add gem binaries to $PATH
-echo '
-export GEM_HOME=$HOME/.gem
-export PATH=$GEM_HOME/ruby/3.0.0/bin:$PATH
-' >> ~/.zshrc
-source ~/.zshrc
-
-# Install Jekyll & Bundler
-gem install jekyll bundler
-bundler install
+sudo pacman -S ruby hugo
 
 # Automatically rebuild/serve website while editing
-bundler exec jekyll serve --livereload --incremental
+hugo server
 ```
 
 # Configuration

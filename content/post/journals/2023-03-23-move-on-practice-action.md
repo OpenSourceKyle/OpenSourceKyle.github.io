@@ -1,0 +1,20 @@
+---
+date: "2023-03-23T00:00:00Z"
+tags:
+- journal
+title: 'Move On: Practice Action'
+---
+
+I slept and felt a lot better after Monday -- Monday was a rough but necessary day. I have been able to workout and run more like I enjoy. I am slowly able to do handstands (I mostly can only do walking handstands, but I can sometimes do a handstand hold when my muscles are fresh!), and most of my other weighted calisthenics are improving, too. However, I realized that my diet is a big area of growth for me. Food can be a compulsion of mine. I will start looking for a diet coach (and I messaged a best friend that is fitness/diet coach). Money might not be right yet for a coach, but in the very near future it should be.
+
+I have continued reading *No More Mr. Nice Guy* [44% done] and doing the journaling questions in the book -- this book has simultaneously been so funny and painful for me to read. I am not a Nice Guy to the extreme anymore, but I really used to be and was a loser for it. Even if my previous relationships did not appreciate my openness, honesty, vulnerability, I am so stoked for myself having "the nuts" to express what I want or think **<-- not being so afraid to charm or people-please like I used to. My "charm" got me fairly far, but I always felt like a different person while trying to manipulate people into what I wanted. This caused a lot of anxiety for me over the years (and even now, more below).** Already practicing this by telling new people I meet what I am going through (not trauma dumping, but just this is where I am at in life and how I am working through it -- in 30 seconds or less... anything more easily turns into bitching and whining), and what I want. I want to meet more interesting people and talk to cute girls. That is easy, and yes, I tell that to everyone -- men and women. People have responded so positively to it... I might even have another [bartending] job from my openness -- I made a note to follow up on that.
+
+All that said, I slept terribly last night. I felt myself experiencing again the negative emotions of rejection. This is coming from a couple of places: lack of abundance and texting while getting low investment responses.
+
+I realized that I am playing into the Nice Guy frame again -- we already talked in-person for 4-5hrs, the "investment" is there, and I need take action to express my needs/wants. I will give myself today to cool off, and tomorrow I will text her asking her blatantly to go out for drinks this weekend. If we cannot figure out a meetup for a date this weekend/soon (she says she is very busy during the week with work/school/gym, but then does nothing on the weekends), then I will thank her for her time and move on. There is no need for me to be emotional, desperate, clingy, etc. for a girl I only met last weekend and do not really know. I like the approach of: don't waste time, be upfront[ish] to meet/be masculine, and view the interaction as being on the same team (i.e. I should not waste either of our times for nothing).
+
+> Truth be told guys are the real romantics – we’re the ones who build up these idealised notions of how great it would be to meet this one particular girl.
+
+I need to give myself credit -- I can absolutely be a hopeless romantic if I put myself in the terrible situation to do so. This feels great for maybe a day, and then becomes some self-pitying, sappy emotions. I need to rip my own bandaid off when it comes to this stuff.
+
+Tangentially related, I was at the laundromat folding my clothes, and a cute girl walked my way, looked at me, looked down, realized I saw her, and then looked back up and smiled at me before going to her car. Although small, I have noticed that I am getting more attention than ever before. She did not have to give me a second look (and a SMILE!), but she did. My buddy told me that I am putting off those vibes. Well, GOOD. I am not done yet, but I am starting to get there

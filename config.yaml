@@ -1,0 +1,141 @@
+title: OpenSourceKyle
+timeZone: America/Mexico_City
+theme: meghna-hugo
+summaryLength: 15
+Languages:
+  en:
+    contentDir: content/english
+    languageCode: en-us
+    languageName: En
+    menu:
+      main:
+      - name: Home
+        url: '#'
+        weight: 1
+      - name: Pages
+        url: '#portfolio'
+        weight: 2
+      - name: Journals
+        url: '#blog'
+        weight: 3
+      - name: Coaching
+        url: '#services'
+        weight: 4
+      - name: About
+        url: '#about'
+        weight: 5
+    params:
+      copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com)
+        & Developed by [Gethugothemes](https://gethugothemes.com)
+      home: Home
+      weight: 1
+  es:
+    contentDir: content/spanish
+    languageCode: es
+    languageName: Es
+    menu:
+      main:
+      - name: Inicio
+        url: '#about'
+        weight: 1
+      - name: Páginas
+        url: '#pages'
+        weight: 2
+      - name: Diarios
+        url: '#journals'
+        weight: 3
+      - name: Coaching
+        url: '#coaching'
+        weight: 4
+      - name: Acerca de
+        url: '#about'
+        weight: 5
+    params:
+      copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com)
+        & Developed by [Gethugothemes](https://gethugothemes.com)
+      home: Inicio
+    weight: 2
+  fr:
+    menu:
+      main:
+      - name: blog
+        url: '#blog'
+        weight: 6
+baseURL: https://www.opensourcekyle.com/
+build:
+  buildStats:
+    enable: true
+  cachebusters:
+  - source: assets/.*\.(js|ts|jsx|tsx)
+    target: (js|scripts|javascript)
+  - source: assets/.*\.(css|sass|scss)$
+    target: (css|styles|scss|sass)
+  - source: assets/.*\.(.*)$
+    target: $1
+  noJSConfigInAssets: false
+  useResourceCacheWhen: fallback
+caches:
+  assets:
+    dir: :resourceDir/_gen
+    maxAge: 720h
+  images:
+    dir: :resourceDir/_gen
+    maxAge: 720h
+disableLanguages:
+  - fr
+  - es
+disqusShortname: ''
+googleAnalytics: ''
+hasCJKLanguage: false
+imaging:
+  quality: 90
+  resampleFilter: lanczos
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+  - HTML
+  - RSS
+pagination:
+  pagerSize: 20
+params:
+  author: Kyle
+  cookies:
+    enable: false
+    expire_days: 2
+  description: Howdy, welcome to an open-source look into my life
+  google_analytics_id: ''
+  logo: images/logo/logo_head.png
+  plugins:
+    css:
+    - link: plugins/bootstrap/bootstrap.min.css
+    - link: plugins/themify-icons/themify-icons.css
+    - link: plugins/magnific-popup/magnific-popup.css
+    - link: plugins/slick/slick.css
+    - link: https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap
+    js:
+    - link: plugins/jquery/jquery.min.js
+    - link: plugins/bootstrap/bootstrap.min.js
+    - link: plugins/slick/slick.min.js
+    - link: plugins/shuffle/shuffle.min.js
+    - link: plugins/magnific-popup/jquery.magnific-popup.min.js
+    - link: plugins/lazy-load/lozad.min.js
+  post_share: true
+  preloader:
+    enable: false
+    preloader: images/logo/logo_head.png
+  social:
+  - icon: ti-facebook
+    link: '#'
+  - icon: ti-twitter-alt
+    link: '#'
+  - icon: ti-youtube
+    link: '#'
+  - icon: ti-linkedin
+    link: '#'
+  - icon: ti-dribbble
+    link: '#'
+  - icon: ti-pinterest
+    link: '#'

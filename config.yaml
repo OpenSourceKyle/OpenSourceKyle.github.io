@@ -11,19 +11,19 @@ Languages:
       main:
       - name: Home
         url: '#'
-        weight: 1
-      - name: Pages
-        url: '#portfolio'
-        weight: 2
-      - name: Journals
-        url: '#blog'
-        weight: 3
+        weight: 10
       - name: Coaching
         url: '#services'
-        weight: 4
+        weight: 20
+      - name: Pages
+        url: '#portfolio'
+        weight: 30
+      - name: Journals
+        url: '#blog'
+        weight: 40
       - name: About
         url: '#about'
-        weight: 5
+        weight: 50
     params:
       copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com)
         & Developed by [Gethugothemes](https://gethugothemes.com)
@@ -127,15 +127,11 @@ params:
     enable: false
     preloader: images/logo/logo_head.png
   social:
-  - icon: ti-facebook
-    link: '#'
-  - icon: ti-twitter-alt
-    link: '#'
   - icon: ti-youtube
-    link: '#'
-  - icon: ti-linkedin
-    link: '#'
-  - icon: ti-dribbble
-    link: '#'
-  - icon: ti-pinterest
-    link: '#'
+    link: 'https://www.youtube.com/@opensourcekyle'
+  - icon: ti-instagram
+    link: 'https://www.instagram.com/opensourcekyle/'
+  - icon: ti-facebook
+    link: 'https://www.facebook.com/profile.php?id=61561629568930'
+  - icon: ti-link
+    link: 'https://linktr.ee/opensourcekyle'

@@ -4,9 +4,10 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Let’s Achieve Together"
+  content : "I used to believe that sheer effort and willpower were enough to achieve anything. While discipline and motivation can indeed take us far, the reality is that success is rarely a <ins>**solo**</ins> journey.
+"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Coaching"
     link : "#services"

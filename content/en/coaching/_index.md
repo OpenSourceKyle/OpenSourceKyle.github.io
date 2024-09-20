@@ -22,15 +22,23 @@ Now, <ins>I'm looking for others with exciting stories and big dreams who are ea
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
+---
+
 # Testimonials
 
-## Improved dating life afer harsh breakup
+From various clients over diverse backgrounds.
 
+<<<<<<< HEAD:content/en/coaching/_index.md
 ![Testimonial Dating](/images/testimonials/testimonial_dating.png)
+=======
+## Brandon - Improved dating life afer harsh breakup
+>>>>>>> main:coaching.md
 
 <iframe src="https://www.youtube-nocookie.com/embed/qgHICjP-XhY" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
 
-## Improving English conversational abilities
+![Testimonial Dating](/assets/images/pages/testimonials/testimonial_dating.png){: .align-center }
+
+## Víctor - Improving English conversational abilities
 
 ![Testimonial English](/images/testimonials/testimonial_english.png)
 
@@ -38,6 +46,6 @@ Now, <ins>I'm looking for others with exciting stories and big dreams who are ea
 
 ![Testimonial English Translated](/images/testimonials/testimonial_english_translated.png)
 
-## Increased dating experience
+## S - Increased dating experience
 
 ![Testimonial Dating 2](/images/testimonials/testimonial_dating_2.png)

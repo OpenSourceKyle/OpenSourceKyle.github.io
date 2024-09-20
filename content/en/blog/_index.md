@@ -3,6 +3,6 @@ title: Blog
 menu: {main: {weight: 30}}
 ---
 
-This is the **blog** section. It has two categories: News and Releases.
+These are collection of my personal writings -- mainly about my life.
 
 Files in these directories will be listed in reverse chronological order.

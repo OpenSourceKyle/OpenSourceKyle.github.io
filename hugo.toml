@@ -1,5 +1,5 @@
-baseURL = "https://example.docsy.dev/"
-title = "Goldydocs"
+baseURL = "https://www.opensourcekyle.com/"
+title = "OpenSourceKyle"
 
 # Language settings
 contentDir = "content/en"
@@ -51,35 +51,6 @@ resampleFilter = "CatmullRom"
 quality = 75
 anchor = "smart"
 
-# Language configuration
-
-[languages]
-[languages.en]
-languageName ="English"
-# Weight used for sorting.
-weight = 1
-[languages.en.params]
-title = "Goldydocs"
-description = "A Docsy example site"
-
-[languages.no]
-languageName ="Norsk"
-contentDir = "content/no"
-[languages.no.params]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[languages.fa]
-languageName ="فارسی"
-contentDir = "content/fa"
-[languages.fa.params]
-title = "اسناد گلدی"
-description = "یک نمونه برای پوسته داکسی"
-time_format_default = "2006.01.02"
-time_format_blog = "2006.01.02"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser.attribute]
@@ -95,12 +66,10 @@ time_format_blog = "2006.01.02"
 # Everything below this are Site Params
 
 # Comment out if you don't want the "print entire section" link enabled.
-[outputs]
-section = ["HTML", "print", "RSS"]
+#[outputs]
+#section = ["HTML", "print", "RSS"]
 
 [params]
-privacy_policy = "https://policies.google.com/privacy"
-
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
 
@@ -135,7 +104,7 @@ github_project_repo = "https://github.com/google/docsy"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "d72aa9b2712488cc3"
+#gcs_engine_id = ""
 
 # Enable Lunr.js offline search
 offlineSearch = false
@@ -165,7 +134,7 @@ sidebar_search_disable = false
 # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
 # add "hide_feedback: true" to the page's front matter.
 [params.ui.feedback]
-enable = true
+enable = false
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
 yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
 no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
@@ -174,41 +143,41 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 # If you want this feature, but occasionally need to remove the Reading time from a single page,
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
-enable = false
+enable = true 
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-  name = "User mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discussion and help from your fellow users"
+  name ="YouTube"
+  url = "https://www.youtube.com/@opensourcekyle"
+  icon = "fab fa-youtube"
+  desc = "Watch deeper lives and podcasts!"
 [[params.links.user]]
-  name ="Twitter"
-  url = "https://example.org/twitter"
-  icon = "fab fa-twitter"
-  desc = "Follow us on Twitter to get the latest news!"
+  name = "Instagram"
+  url = "https://instagram.com/opensourcekyle"
+  icon = "fab fa-instagram"
+  desc = "See clips and the more creative side."
 [[params.links.user]]
-  name = "Stack Overflow"
-  url = "https://example.org/stack"
-  icon = "fab fa-stack-overflow"
-  desc = "Practical questions and curated answers"
+  name = "Facebook"
+  url = "https://facebook.com/opensourcekyle"
+  icon = "fab fa-facebook"
+  desc = "See clips and the more creative side."
+[[params.links.user]]
+  name = "Linktree"
+  url = "https://linktr.ee/opensourcekyle"
+  icon = "fab fa-tree"
+  desc = "Quick links to everything."
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/google/docsy"
+  url = "https://github.com/OpenSourceKyle/OpenSourceKyle.github.io"
   icon = "fab fa-github"
-  desc = "Development takes place here!"
+  desc = "Development takes place here."
 [[params.links.developer]]
-  name = "Slack"
-  url = "https://example.org/slack"
-  icon = "fab fa-slack"
-  desc = "Chat with other project developers"
-[[params.links.developer]]
-  name = "Developer mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discuss development issues around the project"
+  name = "Email"
+  url = "mailto:opensourcekyle@gmail.com"
+  icon = "fa-solid fa-envelope"
+  desc = "Contact me"
 
 # hugo module configuration
 

@@ -27,7 +27,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '18'  # Ensure Node.js 18 is used
+          node-version: '18'
 
       - name: Install Hugo CLI
         run: |
@@ -36,9 +36,6 @@ jobs:
 
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-
-      - name: Install PostCSS and Dependencies Globally  # New step to install PostCSS globally
-        run: npm install -g postcss postcss-cli autoprefixer
 
       - name: Checkout
         uses: actions/checkout@v4
@@ -49,8 +46,11 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Install PostCSS and Dependencies Globally
+        run: npm install -g postcss postcss-cli autoprefixer
+
+      - name: Install Node.js Dependencies Locally  # New step to ensure local Autoprefixer is installed
+        run: npm install autoprefixer
 
       - name: Build with Hugo
         env:

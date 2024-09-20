@@ -13,11 +13,14 @@ Built via Github Actions: TBD
 The following instructions detail how to get started:
 
 * <https://gohugo.io/documentation/>
+
+### Theme
+
 * <https://www.docsy.dev/docs/>
+* <https://github.com/google/docsy-example>
 
 ```shell
-# Install pkgs
-# Arch Linux includes Extended version of Hugo by default
+# Install pkgs (Arch Linux includes Extended version)
 sudo pacman -S hugo
 
 # Automatically rebuild/serve website while editing

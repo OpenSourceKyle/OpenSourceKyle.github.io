@@ -1,54 +1,54 @@
 # OpenSourceKyle
 
-OpenSourceKyle is collection of my writings. These are not meant to descriptive and absolute in my beliefs, BUT they are meant to be my thoughts written out. Writing out my thoughts has helped with my anxious, obsessive way of thinking. I note this because **these writings could be wrong or controversial** among many other things. My goal is to give myself a place to flesh out my thinking better instead of waiting for the thoughts to be perfect.
+**OpenSourceKyle** is a collection of my personal writings. These are not definitive or absolute expressions of my beliefs but reflections of my thoughts at a given time. Writing helps me manage anxiety and obsessive thinking, and this space allows me to process and refine my thoughts. Some content may be **incomplete, controversial, or mistaken**, but the goal is to document my thinking as it evolves, not to wait for perfection.
 
-# Installation
+---
 
-## Remote
+## Installation
 
-Built via Github Actions: TBD
+### Remote
 
-## Local (Arch Linux)
+The site is built and deployed via GitHub Actions: [![Deploy Hugo site to Pages](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/actions/workflows/hugo.yml)
 
-The following instructions detail how to get started:
+### Local (Arch Linux)
 
-* <https://gohugo.io/documentation/>
+Follow these steps to run the project locally:
 
-### Theme
+- Install Hugo: [Hugo Documentation](https://gohugo.io/documentation/)
+- Theme setup: 
+  - [Docsy Theme Documentation](https://www.docsy.dev/docs/)
+  - [Docsy Example](https://github.com/google/docsy-example)
 
-* <https://www.docsy.dev/docs/>
-* <https://github.com/google/docsy-example>
-
-```shell
-# Install pkgs (Arch Linux includes Extended version)
+```bash
+# Install Hugo (Arch Linux includes the extended version)
 sudo pacman -S hugo
 
-# Automatically rebuild/serve website while editing
+# Serve the site locally and auto-rebuild on changes
 hugo server
 ```
 
-# Configuration
+---
 
-## Hosting: GitHub Pages
+## Configuration
 
-* Reference: <https://docs.github.com/en/pages>
+### Hosting: GitHub Pages
 
-GitHub Actions generates and deploys the website. Check the clickable badge above for more information.
+For deployment details, see the clickable badge above.
 
-## DNS: Squarespace
+Reference: [GitHub Pages Documentation](https://docs.github.com/en/pages)
 
-* Reference: <https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site>
+### DNS: Squarespace
 
-To configure DNS to work with the domain there are 2 steps.
+To configure DNS with GitHub Pages and your domain, follow these steps:
 
-### Step 1
+#### Step 1: GitHub Pages Setup
 
-From the GitHub Pages settings page <https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/settings/pages>, add the domain `www.opensourcekyle.com` to the "Custom Domain" section as seen below.
+Add your custom domain (`www.opensourcekyle.com`) in the [GitHub Pages settings](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/settings/pages).
 
-![](README.d/domain_settings_github.png)
+![GitHub Domain Settings](README.d/domain_settings_github.png)
 
-### Step 2
+#### Step 2: Squarespace DNS Setup
 
-From the Squarespace DNS setting page <https://account.squarespace.com/domains/managed/opensourcekyle.com/dns/dns-settings>, add 5 records in total as seen below.
+Configure 5 DNS records in [Squarespace DNS settings](https://account.squarespace.com/domains/managed/opensourcekyle.com/dns/dns-settings).
 
-![](README.d/domain_settings_squarespace.png)
+![Squarespace Domain Settings](README.d/domain_settings_squarespace.png)

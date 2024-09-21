@@ -9,6 +9,7 @@ defaultContentLanguageInSubdir = false
 enableMissingTranslationPlaceholders = true
 
 enableRobotsTXT = true
+ignoreFiles = ["^readme-assets/"]
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true

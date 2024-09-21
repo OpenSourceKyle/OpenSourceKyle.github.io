@@ -1,5 +1,7 @@
 # OpenSourceKyle
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 **OpenSourceKyle** is a collection of my personal writings. These are not definitive or absolute expressions of my beliefs but reflections of my thoughts at a given time. Writing helps me manage anxiety and obsessive thinking, and this space allows me to process and refine my thoughts. Some content may be **incomplete, controversial, or mistaken**, but the goal is to document my thinking as it evolves, not to wait for perfection.
 
 ---

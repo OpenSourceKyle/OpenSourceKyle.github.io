@@ -1,5 +1,7 @@
 baseURL = "https://www.opensourcekyle.com/"
-title = "OpenSourceKyle"
+languageCode = "en-us"
+title = "OpenSourceKyle | Let's Create Meaningful Connections Together"
+description = "OpenSourceKyle offers expert life coaching and relationship advice to help you create meaningful connections and unlock your potential."
 
 # Language settings
 contentDir = "content/en"
@@ -13,6 +15,9 @@ ignoreFiles = ["^readme-assets/"]
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
+
+[services.googleAnalytics]
+id = "G-Q134W2ZGBJ"  # Replace with your actual Measurement ID
 
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -71,6 +76,7 @@ anchor = "smart"
 #section = ["HTML", "print", "RSS"]
 
 [params]
+keywords = ["life coaching", "relationship advice", "personal development"]
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 #gcs_engine_id = ""
 

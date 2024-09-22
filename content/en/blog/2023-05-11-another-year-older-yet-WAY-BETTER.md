@@ -33,3 +33,4 @@ What I think has really helped me to exponentially progress -- in **happiness, l
 * I haven't worked my computer job as much lately. I just do not have interest in it and very much enjoy doing my other activities. I have a little more clarity about starting my own hustle in the near future, but I have a legal blocker holding me back from doing that for the near little bit. I think this is a good sign for me to know what my next steps will be for my life and future.
 
 Keep at it fellas
+---

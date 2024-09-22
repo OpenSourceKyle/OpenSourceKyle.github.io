@@ -14,3 +14,4 @@ tags:
 * Mentally: being honest with myself that I've been depressed just from my big life changes. I'm also very excited for the future. I tend to be manic, but this year has been a moreso. In counseling at the moment and doing meditation as well
 
 Overall, I'm doing better. I've been sleeping more (and dreaming again!), resting, grinding, and whatever else. I'm moving forward until I can take action after this divorce
+---

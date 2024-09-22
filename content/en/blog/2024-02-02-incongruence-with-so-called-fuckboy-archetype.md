@@ -17,4 +17,5 @@ To me, this seems like she's catching feelings and assessing relationship qualit
 
 A bit confused again, but nice problem to have. I went on a boring date yesterday -- motivated me to screen a little harder. I got another big house party here shortly, so I'll have the chance to flirt with some other girls.
 
-**I think realistically I need to make sure I don't get tunnel vision on her or my persona and keep pushing to keep getting more experience. If she wants to be a <ins>part</ins> of that great, and if not, then I have plenty of options~**
+**I think realistically I need to make sure I don't get tunnel vision on her or my persona and keep pushing to keep getting more experience. If she wants to be a <ins>part</ins> of that great, and if not, then I have plenty of options~**---
+---

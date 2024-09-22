@@ -18,3 +18,4 @@ I had a hell of a workout today and definitely feel tired from it (and shitty in
 I am going to nap, take a run, eat plenty but not too much, and go out with a buddy tonight. Hopefully, we will not find another toxic lesbian couple where one of them is violent. Tomorrow, I might have plans to bar hop with a different group that I hung out with last night. I give myself credit that I left early last night to sleep instead of staying out late on a Thursday. I definitely need to keep speaking and sticking to my needs.
 
 I am feeling a little down today, but nothing a good nap, dinner, and run won't fix.
+---

@@ -14,3 +14,4 @@ Related, I'll be taking time to revamp somethings. I won't be able to do my norm
 I did create a FetLife account and took quite some time to intentionally write up about myself and my desires. Sounds funny, but I took it sort of as a journaling exercise to ask myself what I like from a sexual standpoint. I've never really done this, and I will keep working on it to further find out more about myself. I joined some online groups, and posted some messages... just an experiment, so we'll see how far I go with that.
 
 I think this is a blessing in disguise, but I will figure out my next steps later.
+---

@@ -33,3 +33,4 @@ What's up folks. I finished moving today and relaxed a bit after that. I spent m
 
 * Course: took a pause on this, but I'll have time again
 * Coaching: n/a -- everyone was too busy with finals last week
+---

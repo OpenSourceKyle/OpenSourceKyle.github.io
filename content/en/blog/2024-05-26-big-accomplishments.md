@@ -29,3 +29,4 @@ I've been posting here for the last year and half -- sometimes very regimented a
 * completing more admin/governmental tasks to smooth out my life here
 * get a part-time job to not run out of money
 * enjoy the hell out of summer and continue learning about Mexico through my friends and experiences
+---

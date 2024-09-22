@@ -23,3 +23,4 @@ My chiro office (all women) today told me that they really appreciated how posit
 
 
 I'm a little aimless at the moment more than usual, but again, I'm enjoying the peace a bit.
+---

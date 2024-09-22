@@ -33,4 +33,5 @@ First full week out of school. It's been a great fun week, and I've been accompl
 
 * Course: took a pause on this, but I'll have time again
 * Coaching: some informal talks with friends but nothing more formal
-* Book: Started re-reading *I Need Your Love*
+* Book: Started re-reading *I Need Your Love*---
+---

@@ -33,4 +33,5 @@ I'm super blessed and man it's a totally different thing to read/think these thi
 
 **I am not a victim** -- am a lover of people and life. Anyways, thanks for your patience in reading all this whoever you are. Not making any of this political or whatever; just super interesting to have these experiences and live this life.
 
-Today is hot as fuck here in CDMX -- breaking a temp record, so I'm going to take it easy.
+Today is hot as fuck here in CDMX -- breaking a temp record, so I'm going to take it easy.---
+---

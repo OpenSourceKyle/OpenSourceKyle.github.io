@@ -56,3 +56,4 @@ I've already told her that I will ruin her and be the best experience of her lif
 
 
 She finishes school here in December and will go back to her home country. She's already asked me about that, and <ins>I told her that her education and future are more important than I am</ins>. She just replied that we'll have to enjoy our time together. What fucking luck dude. She's damn-near perfect, and I have no problem with enjoying this short chapter of our lives
+---

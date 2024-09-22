@@ -31,3 +31,4 @@ Instead of a normal "WINS" section, I'll do a positive section to remind myself 
 I think a big reason why I am so emotional today is a lack of decisive action. I am playing to NOT LOSE, which is a loser's mindset. I need to take some action to RISK the chance to WIN. I would rather WIN every now and then than always LOSE. I know that I have been avoiding some actions that I need to take. I feel better in motion than in meditation (definitely ripped that off from somewhere).
 
 KEEP AT IT FELLAS. KEEP THE GRIND DOING.
+---

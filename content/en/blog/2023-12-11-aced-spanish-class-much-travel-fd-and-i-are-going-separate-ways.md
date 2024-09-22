@@ -17,3 +17,4 @@ I have some big plans for myself next year, but I am going to take this time to 
 * Spanish cert: B2 in Listening and Reading (prev. B1 in Listening and B2 in reading, so my listening improved a whole step! B2 > B1 btw)
 * I can mostly understand everything my roommate and landlord say LOL both talk with deep accents and a lot of slang
 
+---

@@ -1,99 +1,86 @@
+Here’s a structured outline for redoing the podcast, ensuring a clearer flow and more actionable insights:
+
+### **Podcast Title:**  
+*How Kyle Landed His First Coaching Client: A Step-by-Step Breakdown*
+
 ---
-title: How to be a Coach
-tags:
-  - internal
+
+### **Introduction (2-3 minutes)**
+1. **Welcome the audience**:
+   - Briefly introduce yourselves and the podcast’s purpose.
+   - Set the tone: This episode is about how Kyle transitioned from personal growth to becoming a coach and landed his first client.
+   
+2. **Tease key topics**:
+   - Mention that listeners will learn actionable steps to build their own coaching business.
+   - Highlight Kyle’s personal journey and practical advice as the focus of the episode.
+
 ---
 
-![Coaching](/assets/images/pages/coaching.jpg){: .align-right style="width: 500px" }
+### **Section 1: Kyle’s Personal Journey to Coaching (5-7 minutes)**
+1. **Kyle’s background**:
+   - Discuss how Kyle’s life changed (e.g., divorce, moving countries, job dissatisfaction).
+   - Talk about how he started working on himself, with a particular focus on dating and self-development.
+   
+2. **Building expertise**:
+   - Explain how personal interests and passion for self-development led Kyle to naturally talk about it with others.
+   - Mention how these casual conversations eventually led to people asking for advice.
 
-I want to detail my idea on coaching to better organize my own thoughts and philosophy as well as give greater insights to others. There is a not a right or wrong answer to this -- but rather a matter of style.
+---
 
-# My Personal Philosophy
+### **Section 2: The Importance of Community and Networking (7-10 minutes)**
+1. **Joining online communities**:
+   - Discuss the role of online self-improvement communities.
+   - Emphasize the importance of finding non-toxic, supportive groups where you can learn and grow.
 
-A coach helps a coachee to attain their goals. Oftentimes the greatest limiting factor is the coachee's mental roadblocks or mindset, and the coach can help with these mental roadblocks. Or sometimes even with a good mindset, a coach can help to outsource the mental management of goals and tasks.
+2. **Building relationships**:
+   - Explain how genuine connections with like-minded people can naturally lead to coaching opportunities.
+   - Mention Kyle’s relationship with his first client, starting as friends and growing into a coaching relationship.
 
-I believe that we all already possess the potential to achieve, but we cannot do this alone. A *coach's missions is not to fix or force anyone* -- but to be another person, on the coachee's team, that can help. A coach can also give more specialized attention and action-driven advice. This is contrasted with most friendships or romantic connections that usually maximize the maintenance of said friendship or romance.
+---
 
-There are very few things that we can truly do alone in life -- **why think any differently for goals?**
+### **Section 3: Converting Casual Conversations into Coaching Clients (7-10 minutes)**
+1. **Identifying a need**:
+   - Explain how Kyle’s first client had a specific problem (improving his English) and how that evolved into a coaching opportunity.
+   
+2. **Offering value**:
+   - Discuss how Kyle provided initial value and built trust, which led the client to request more structured help.
+   
+3. **Transition to paid services**:
+   - Talk about setting boundaries and how Kyle turned a friendly favor into a professional relationship by clearly communicating his time and value.
 
-## How to Start Coaching
+---
 
-### Coach to Coachee
+### **Section 4: Practical Tips for Landing Your First Client (5-7 minutes)**
+1. **Step-by-step process**:
+   - Join online communities that align with your niche.
+   - Start building expertise by actively participating in discussions.
+   - Offer casual help or advice to build trust and relationships.
+   - Transition to paid coaching when people start asking for more structured assistance.
+   
+2. **Screening potential clients**:
+   - Discuss the importance of filtering clients who are serious and ready for coaching.
+   - Mention how not everyone will value the advice you offer, and that’s okay.
 
-Again in my philosophy, my role is <ins>not to have all the right answers</ins>.
+---
 
-Sure, my experience and knowledge helps, but those do not override the importance of coaching: LISTEN first to UNDERSTAND. Instead of guessing, assuming, projecting or giving advice, just give what the coachee wants. This is discovered through asking. Every coachee will have a different idea of coaching in mind, and my job is to tailor to that.
+### **Section 5: Resources and Final Tips (3-5 minutes)**
+1. **Recommended resources**:
+   - Mention a few self-help books or online communities that helped Kyle on his journey (e.g., *How to Win Friends and Influence People* by Dale Carnegie).
 
-I don't mean for this to sound condescending, but in general life coaching, it is hard or impossible to be an expert of everything. The better goal is to think of how to better or challenge the thought process of the coachee.
+2. **Final actionable tips**:
+   - Emphasize the importance of patience, building trust, and providing real value.
+   - Encourage listeners to “just start” and focus on their passion to build credibility over time.
 
-Negative thought or framing? -- challenge the truthfulness or usefulness of such thoughts. Do these negative thoughts serve the person I am trying to help? Can they even be true or is there a bias? Does this particular thought motivate the person to take action or freeze up in fear, sadness, hurt, etc.?
+---
 
-Now beyond that, more untangling of ideas and thoughts continue -- the goal is not to know everything nor be a simple chatbot (asking simple questions and giving simple responses).
+### **Conclusion (2-3 minutes)**
+1. **Summarize the key takeaways**:
+   - Recap Kyle’s journey and the actionable steps provided for landing a first client.
+   
+2. **Call to Action**:
+   - Encourage the audience to leave comments with their own stories or questions.
+   - Invite listeners to follow for more content on coaching and self-development.
 
-#### I ask:
+---
 
-* What would you like from me?
-* How can I help you?
-* What are you struggling with?
-* What are 3 reasons that this [negative idea] can be a good thing?
-
-#### And I respond:
-
-Well, these are more of vague guidelines, but that is the secret: again, tailor the response as needed:
-
-* Listen **first**, then give advice -- maybe the coachee already knows the advice but is telling themselves "No"
-* Answer in a humble way or "mirror" the dialogue ("this sounds to me that X")
-* There is no "right" thing to say
-* It's not my job to tell someone what to do (they must want it themselves first) but to challenge or help them through their thinking
-
-### Mother Theresa Mindset
-
-An even more abstract way of approaching coaching is less mechanical and more personal. How do you think Jesus, Mother Theresa, Buddha, etc. approach this?
-
-#### Mother Theresa supposedly approached her life with the mindset of:
-
-"I am the vessel to help channel the love of the other person back into them. I'm not fixing anything -- no one is broken. The greatest good that any one person can do is:"
-
-- go home and love one's family
-- give and give and give (love)
-- help the person that is physically there, face-to-face
-
-# Getting Experience
-
-There are many great ways to practice listening and "be" a coach. For me, the easiest way has been to talk about my experiences in life (military, software, bartending, marriage, divorce, fitness, marathons, travel, relationships, learning a new language, moving to a foreign country, etc.) in a very open and vulnerable way -- and to express my desires and plans for the future, even if the idea is not clear in this moment. And just as importantly, to admit my mistakes, failures, faults, and more. This has gained me a greater level of trust and built rapport.
-
-From there, I try to avoid offering advice (though sometimes I accidentally do). Rather, I try to ask questions, mirror their words, or even probe more (Why? How? or make inferences like: "That sounds difficult to overcome", etc.). After a while, people just started asking me about my life or what they should do in a given situation. These people, often friends, knew of my desire to be a mentor or coach, so I made sure to frame my advice in this context -- sometimes blatantly directly. Again the key is: demonstrate your own value and wisdom in a proper way and not to force your viewpoint or advice onto the other person).
-
-## Start by:
-
-* Practicing giving and being there for friends, family, and strangers
-* Probably will have to start out giving for free -- maybe can turn into business after enough experience and reputation
-* **SAVE ANSWERS** of common questions or FAQ --> Turn answers into articles
-* **collect testimonials**
-* **you don't have to wait... start now**
-
-## Forums and Groups
-
-Beyond friends and family, there are plenty of grounds for practicing listening and advice-giving on the Internet. At the current moment, I have only practiced in more private forums and closed groups but not Reddit. Reddit was recommended to me as a more accessible and generalized public area, so I have included it here for the general audience.
-
-Once you delve more into this realm, you will encounter your niche and community better that fits better with your own style and philosophy.
-
-## Easy Start: Reddit
-
-Use Reddit as a testing ground for writing and communicating but note that Reddit is frequently toxic and/or helpless within its own communities. This can still be good practice, but I would recommend to not get too stuck here.
-
-In these subreddits, keep in mind:
-
-- sort the subreddit by Newest
-- Respond with encouragement to new posts: Good job opening up and asking...
-
-### Good for general goals:
-
-* r/getdisciplined
-* r/letsgetmotivated
-
-### Maybe w/ caution in the realm of dating:
-
-* r/asktrp
-* r/letsgetlaid
-* r/relationship
+This outline provides a clear, engaging structure for the episode while ensuring that the conversation stays focused and valuable for the audience.

@@ -1,7 +1,7 @@
 ---
 title: "Gone in an Instant"
 date: 2023-08-06
-tags: ["journal"]
+tags: ["journal", "voice"]
 ---
 
 **NOTE: Semi-autobiographical visualization of my life that captured my current emotional state (at the time) well. I can hear in my voice, words, and wording how I was still deeply unhappy while trying to paint some nostalgic life picture. It's good to feel that I'm not in that state anymore**

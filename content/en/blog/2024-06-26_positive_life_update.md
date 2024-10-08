@@ -1,7 +1,7 @@
 ---
 title: "Positive Life Update"
 date: 2024-06-26
-tags: ["journal"]
+tags: ["journal", "voice"]
 ---
 
 **NOTE: this is transcribed from a voice note and has been mostly edited to read more naturally**

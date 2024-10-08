@@ -3,9 +3,8 @@ date: 2024-07-14
 title: "Im Not Sad Or Depressed I Just Havent Slept Good"
 tags:
   - journal
+  - voice
 ---
-
-**NOTE: this is transcribed from a voice note and has been mostly edited to read more naturally**
 
 All right, so we're kind of bookmarked this because I had a positive Life Update maybe 2 to 3 weeks ago and I'm still doing good. But this is interesting. This is like a meta Matrix level breakout.
 

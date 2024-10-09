@@ -29,3 +29,4 @@ As simple as it sounds, I need to be: cool & persistent.
 * Still waiting on my wheels... bike stolen last week and just sold my motorcycle. I look forward to my new bicycle
 
 Another beautiful day and weekend to kill. Keep it up everyone
+---

@@ -27,3 +27,4 @@ I still have my ups and downs with my mood swings sometimes, but overall, I am d
 
 * Food: I took advantage of some post-holiday candy sales... I had a few binges, but I have kept them more moderately lately. **<-- CREDIT: Thankfully, my high activity has balanced these out, and I am still loosing fat (1 millimeter per each body part per my fat caliper) while gaining weight (+1lb so far)... This is small, but still a good trend in the right direction.**
 * Emotions: I have had some sad and angry days, especially last night after not feeling like my bartending "stage" went well. **<-- CREDIT: Meditation and journaling have helped me rebound quicker than I usually would. Exercise helps me a lot as well... and now I feel greater positive emotions than my recent neutral/negative ones.**
+---

@@ -32,7 +32,7 @@ Over the years, I've honed my skills in several areas:
 
 ## My Goal
 
-My goal is to inspire and mentor others, using my ideas to help improve communication, relationships, sales, and fitness. You can read more about [my personal Coaching Philosophy]({{< relref "docs/pages/2024-08-08-how-to-be-a-coach.md" >}}) to understand better my approach.
+My goal is to inspire and mentor others, using my ideas to help improve communication, relationships, sales, and fitness. You can read more about [my personal Coaching Philosophy]({{< relref "docs/coach_knowledge/2024-08-08-how-to-be-a-coach.md" >}}) to understand better my approach.
 
 <ins>I aim to open-source as much of my knowledge and experience as possible</ins>, so that financial limitations don't stop anyone seeking to improve their life. I only charge for my time, ensuring that my information is accessible to all.
 

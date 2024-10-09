@@ -3,9 +3,8 @@ date: 2024-07-14
 title: "Im Not Sad Or Depressed I Just Havent Slept Good"
 tags:
   - journal
+  - voice
 ---
-
-**NOTE: this is transcribed from a voice note and has been mostly edited to read more naturally**
 
 All right, so we're kind of bookmarked this because I had a positive Life Update maybe 2 to 3 weeks ago and I'm still doing good. But this is interesting. This is like a meta Matrix level breakout.
 
@@ -33,4 +32,5 @@ Just making a note of that and again like The Meta thing of just even if I feel 
 
 And it's like I can feel one thing and know another thing. And I know this is different like beginning of the year. Absolutely I just would like to take care of myself. And get this under wraps maybe not even Under Wraps because I fall in and out of this and I would say that's okay. Like I know what to do. I know what the problem is and what the solution is and 's a good reminder. I'm a little older I'm not old, but I'm a little older but not fucking Superman no more. And if I really want to take care of myself, that's what fucking older person does. Especially if I'm staying off drugs more or less Because I mean drugs can help with all that but just like drugs can keep you awake. It's going to help you think. But you don't get that for fucking free and then it's kind of my point earlier. 
 
-Note to self: Sleep Important 
+Note to self: Sleep Important ---
+---

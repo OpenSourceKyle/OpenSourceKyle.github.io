@@ -18,3 +18,4 @@ I have a lot of action coming in the near future. I'll write a brief summary of 
 Many thanks again to anyone for reading, commenting, and being a part of my journey in an abstract way. I always appreciate all the help that I receive.
 
 All the best and RIP my log
+---

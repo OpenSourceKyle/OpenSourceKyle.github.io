@@ -22,3 +22,4 @@ The greatest insight that I've had is -- I really enjoy being a student: whether
 * Ate better overall in my informal diet -- I've lost quite a bit of weight, but for the time being I'm feeling really good from the diet/weight loss. I'm officially within a "normal" weight range for my height. Now obv this doesn't mean much, but I've technically been overweight my whole adult life -- a mix of a lot of muscle yes and too much fat. My body hurt and ached from the weight, but now, less so~
 * HOUSE PARTY tonight! Super excited to have friends over
 
+---

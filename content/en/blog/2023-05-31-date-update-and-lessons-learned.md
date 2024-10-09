@@ -53,4 +53,5 @@ Second chick, I primed her with the idea before she left. She was receptive and 
 
 Both chicks were 30 or 32, open-minded/hippie/whatever, orgasmed, told me the "I haven't felt that good in a long time" line, etc... but I also think it just happens. Rejection, flaking, and not retaining (even with sex or orgasm) just happen man. 
 
-There's no way to tell what headspace the other is in, so best just to move on. But increasing the odds -- that's where I can keep improving.
+There's no way to tell what headspace the other is in, so best just to move on. But increasing the odds -- that's where I can keep improving.---
+---

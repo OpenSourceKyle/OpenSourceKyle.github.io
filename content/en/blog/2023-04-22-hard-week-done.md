@@ -17,3 +17,4 @@ Being a bartender is incredibly fun and all the restaurant workers are cool. Thi
 * Already met some "regulars"
 * Definitely feel more cool and badass than I have in a while
 * Taking tomorrow (Sunday) to fuck off and relax
+---

@@ -4,7 +4,7 @@ tags:
   - internal
 ---
 
-![Coaching](/assets/images/pages/coaching.jpg){: .align-right style="width: 500px" }
+![Coaching](/images/pages/coaching.jpg)
 
 I want to detail my idea on coaching to better organize my own thoughts and philosophy as well as give greater insights to others. There is a not a right or wrong answer to this -- but rather a matter of style.
 

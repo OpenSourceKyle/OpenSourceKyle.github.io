@@ -26,4 +26,5 @@ Sad face (actual facial expression) - care for her and her future. Apparently, I
 
 Harshness (in my behavior) when I was mad at her around friends - We had spent the whole weekend together already and accidentally got together again to watch a movie with a shared friend circle. I had some uncommunicated feelings and desires where I felt neglected through this time... but we are not in a relationship, so why do I expect her to give my attention during this time? I reacted badly by trying to distance myself from her and acting more abrasive than normal.
 
-<ins>Super interesting that I felt all this, and she could see it -- either she is very in-tune with my feelings or I acted badly and obviously enough to be noticed. This freaks me out a little -- someone can read into me so much and/or I acted poorly because of them</ins>
+<ins>Super interesting that I felt all this, and she could see it -- either she is very in-tune with my feelings or I acted badly and obviously enough to be noticed. This freaks me out a little -- someone can read into me so much and/or I acted poorly because of them</ins>---
+---

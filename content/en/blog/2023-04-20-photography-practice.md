@@ -15,3 +15,4 @@ TL;DR: I am practicing photography of nature, friends, and myself. These particu
   * tattoos: not visible
   * piercings: gauged and ungauged ear lobes, eyebrow, lip ;; gauged septum: mostly retired (I don't wear it much)
   * shaved eyebrow slit: maximum badboi
+---

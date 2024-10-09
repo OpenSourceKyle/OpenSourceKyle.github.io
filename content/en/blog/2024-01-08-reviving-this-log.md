@@ -40,3 +40,4 @@ Last year made me realize how unprepared I was for any big issues in my life. Th
   * Journaling
   * Shadow Work
   * Social interaction/connectedness: Spanish is key for this if I want to stay out of the US and this ties me more to the local community and culture
+---

@@ -15,3 +15,4 @@ Doing a lot better since last Friday. I've had a couple of days that I woke up i
 * Spanish: slowly starting back into practicing with "pen pal" and Duolingo
 * Sleep: mostly good, but had a drunk coworker that wrecked my sleep earlier this week (she got too drunk and needed someone to take care of her -- establishing a boundary with her next time I see her)
 * Psych Eval: got evaluated by a decent shrink. She told me that I need to find my purpose (duh) and get a real therapist that will challenge my thoughts
+---

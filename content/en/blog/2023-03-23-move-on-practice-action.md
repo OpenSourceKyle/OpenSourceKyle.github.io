@@ -18,3 +18,4 @@ I realized that I am playing into the Nice Guy frame again -- we already talked 
 I need to give myself credit -- I can absolutely be a hopeless romantic if I put myself in the terrible situation to do so. This feels great for maybe a day, and then becomes some self-pitying, sappy emotions. I need to rip my own bandaid off when it comes to this stuff.
 
 Tangentially related, I was at the laundromat folding my clothes, and a cute girl walked my way, looked at me, looked down, realized I saw her, and then looked back up and smiled at me before going to her car. Although small, I have noticed that I am getting more attention than ever before. She did not have to give me a second look (and a SMILE!), but she did. My buddy told me that I am putting off those vibes. Well, GOOD. I am not done yet, but I am starting to get there
+---

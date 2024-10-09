@@ -36,3 +36,4 @@ These are less noteworthy and not always directly related to my goals, but they 
 * Been way more direct and honest than ever before
 * Mentally practicing thinking of everyone as my friend rather than my enemy -- sometimes harder when walking around the streets
 
+---

@@ -25,3 +25,4 @@ I believe a lot of this is a pattern and a self-worth issue. Coming from my earl
 2 toxic relationships in 1 weekend. That is a lot to find. I also think it is a beautiful thing of life. Life is not always pretty, positive, or perfect, and I hope that those people receive the healing and peace that they need. I also need to give that to myself.
 
 Going forward, I will not be afraid. I do not want to be guarded either, but maybe I should try being a little more guarded for my own sake. I am obviously putting off some frame that attracts me to these types and reinforces (or at least gets them to tell me) whatever terrible things that they have been through. That alone is a heavy burden to share.
+---

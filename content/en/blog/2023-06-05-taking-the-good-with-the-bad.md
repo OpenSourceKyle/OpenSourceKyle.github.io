@@ -37,3 +37,4 @@ I have noticed some trends of my matches and their archetypes so far. Note that 
 * Most of the women don't seem to be super DTF, but are also generally open to sex. They find me attractive -- a few call me "sexy", "hot", and "handsome" without me pre-empting them with compliments at all. This is a good middle ground that I'm happy to work for the time being
 
 SO -- to me, I mostly attract small/petite and alt/hippie white girls and some Latinas. We tend to vibe very naturally together, enjoy being sexual or talking about it... I believe that my own race and appearance/archetype probably play some factor into my matches (more than I would like). I would prefer to match with less white women and more of anything else, but again, I'm super grateful either way.
+---

@@ -16,3 +16,4 @@ I fly to Mexico in 2 days. My allergies have been kicking my ass again, and I'm 
 * Completely cleared out of my apartment and turned in the keys
 * Packed necessities and plenty of unnecessities
 * Read *The Flinch* -- TLDR stop being a pussy and take UNCOMFORTABLE action. Moving to a different country counts
+---

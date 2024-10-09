@@ -37,3 +37,4 @@ TLDR: Gonna hermitmaxx and ignore women/stop seeing ladyfriend again for a bit t
 * Course: continuing finishing the course and weekly accountability meetings with a best friend about them
 * Coaching: continuing coaching new friend -- he gave me a compliment that I helped him get a BJ from some girl after talking to me one day (a while ago)... didn't realize this but kinda cool testimony. We're working on some inner game stuff and dating app stuff to help him lose his virginity
 
+---

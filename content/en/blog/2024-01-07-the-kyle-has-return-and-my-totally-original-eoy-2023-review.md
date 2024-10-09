@@ -28,3 +28,4 @@ I feel like my EOY will sound a bit like a broken record, but I hope to stop tal
 * Developed some level of creativity and artfulness with: photography, guitar, bartending, and dance
 * I'm considering myself fluent in Spanish: I've achieved a B2 level officially in listening and reading and have very little problems speaking to people. I'm still in school studying Spanish until summer, so I will only continue improving -- but that's mostly on autopilot given my schooling and my daily habits of practice
 * Traveled to more foreign countries and cities to learn more about the world and create a totally different mindset outside of the US fishbowl (mostly that nice things and money are overrated and shallow and my god it's beautiful [and burdensome] how much more culturally/socially and familial focused other parts of the world are...) it's beautiful to see a different side
+---

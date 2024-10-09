@@ -147,3 +147,4 @@ Emotions: what purpose is it that I remember the negative the experiences?
 * GET ME THE LIFE I WANT TO LIVE: principles, who i want to be, how can i be that now?
 * How do I want to be treated and how I do want to treat others?
 LABELS (negative) are not helpful
+---

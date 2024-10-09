@@ -142,7 +142,7 @@ enable = true
 [[params.links.user]]
   name = "Linktree"
   url = "https://linktr.ee/opensourcekyle"
-  icon = "fab fa-tree"
+  icon = "fas fa-tree"
   desc = "Quick links to everything."
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]

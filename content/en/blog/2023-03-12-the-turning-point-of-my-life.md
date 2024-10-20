@@ -37,3 +37,4 @@ That is all for now. Thanks for anyone reading.
 EDIT: Right after I wrote this, I realized that I am not done. This will be short.
 
 Going from all that experience of Friday, I refuse to be afraid of the world and people. I am going out tonight (just for a couple of hours -- probably back to the same bar) to just talk to some people. I wanted to write that down to hold myself accountable. I need to go out every day (or maybe most days). More cool dudebros and cute girls are out there waiting for me -- and I am ready to give them a good time.
+---

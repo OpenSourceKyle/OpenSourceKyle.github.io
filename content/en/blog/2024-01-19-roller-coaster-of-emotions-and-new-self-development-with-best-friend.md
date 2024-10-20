@@ -112,3 +112,4 @@ For this program, the intro had us journaling about what we want out of future r
 I'm starting to learn that some level of abundance is one of those things that is almost a necessity [at least at my level]. At the time of my log, I was very much un-abundant. I made lot of improvement over the last year and got into a relationship, which I don't regret at all. But I stopped improving on the dating side for a bit, and now I'm back at that again. Keeping that social and lover/sex connection is more important to me than I have previously realized.
 
 Having my previous relationship helped me grow a lot, and I'm proud of myself for not running away from or hiding the pain as I've done in the past.
+---

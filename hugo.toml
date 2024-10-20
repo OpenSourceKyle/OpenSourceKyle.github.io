@@ -1,5 +1,7 @@
 baseURL = "https://www.opensourcekyle.com/"
-title = "OpenSourceKyle"
+languageCode = "en-us"
+title = "OpenSourceKyle | Let's Create Meaningful Connections"
+description = "OpenSourceKyle offers expert life coaching and relationship advice to help you create meaningful connections and unlock your potential."
 
 # Language settings
 contentDir = "content/en"
@@ -8,10 +10,17 @@ defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
+# Improve page load speed
+minify = true
+
 enableRobotsTXT = true
+ignoreFiles = ["^readme-assets/"]
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
+
+[services.googleAnalytics]
+id = "G-Q134W2ZGBJ"  # Replace with your actual Measurement ID
 
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -70,6 +79,7 @@ anchor = "smart"
 #section = ["HTML", "print", "RSS"]
 
 [params]
+keywords = ["life coaching", "relationship advice", "personal development"]
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 #gcs_engine_id = ""
 
@@ -132,7 +142,7 @@ enable = true
 [[params.links.user]]
   name = "Linktree"
   url = "https://linktr.ee/opensourcekyle"
-  icon = "fab fa-tree"
+  icon = "fas fa-tree"
   desc = "Quick links to everything."
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]

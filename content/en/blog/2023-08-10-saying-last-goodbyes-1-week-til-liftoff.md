@@ -64,3 +64,4 @@ She wants to see me again before I leave. I told her that I'll be upfront and wo
 The other women that I've been with have hinted similar things... I also am old enough to be the badboy while being a mature "man" about it... I'm excited for my new character arc in this area
 
 That's it for now. Maybe one more log before Mexico.
+---

@@ -17,3 +17,4 @@ Bottom line: running away from my previous life to Mexico has been the absolute 
 * Had 2 deep emotional convos with GF about the ephemerality of our relationship... cried twice... more connected than ever... some of the best sex and dates of my life this week... we have 5 weeks left together
 * Weekly accountability call has been consistent with a best friend back home, new accountability call every 2 weeks with other friend, and new life update call monthly with other friend -- so blessed with friends IRL and steady far-away ones
 * Officially quit my old job... they said they had been contacting me a bunch and thought something happened, but I only received one message from my previous supervisor... good riddens. It was a great job when I needed it, but it's time to move on (and my ex works there so even more reason to end it)
+---

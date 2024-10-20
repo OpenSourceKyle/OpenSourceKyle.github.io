@@ -21,3 +21,4 @@ I liked the previous post of my WINS... I have been considering typing less give
 * Gave myself permission to get rid of some burdensome items like: old clothes, relationship notes, new clothes, old bike, etc.
 * Insomnia woke me up a few times in the middle of the night, but I got up (whereas previously I would lay there) -- per my therapist, this will help me fix my routine. I have been sleeping better but still am tired. [Un]forunately, I am really good at ignoring tiredness as I trained nearly a decade to disregard my exhaustion.
 * My mindset has been stronger: less down days and more up days
+---

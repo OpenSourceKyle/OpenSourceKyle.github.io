@@ -19,3 +19,4 @@ She and I accidentally spent the whole weekend together: alone and with friends.
 * I had another one with talking to my ex about her Peru trip last summer (she had booked it before we split). She was fairly nice though not completely friendly -- we talked in Spanish a bit. It was a more neutral/positive interaction (in my dream), and I was happy for her for her experiences and amazed by her Spanish. Beautiful little thing there -- even if I don't entirely like her, I can be happy for her. Tangentially related, she had some friends with her, and they were enamored with me and wanted to fuck me lol. I like that I give myself that validation in my dream, but hey it was nice
 
 Journaling, coaching, therapy, and even my fucking dreams seem to keep pointing me in a good direction. I'm happy where I am at now, and I look forward to putting in the werk more in the future
+---

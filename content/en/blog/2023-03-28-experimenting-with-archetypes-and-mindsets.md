@@ -62,3 +62,4 @@ I think my biggest struggle is I do not identify with a lot of "mainstream" arch
 At this point, I am working to cultivate myself while not losing my roots/past/history. I will give it more thought.
 
 I definitely know that I am attracted to feminine women: with tattoos/piercings, in metal/emo scenes (though not a hard requirement), who are active, and not overly sensitive. I need to ask myself what more beyond that (and if I can attract those).
+---

@@ -32,3 +32,4 @@ I enjoy the positive attention like many other people do.
 # Paused:
 
 * Dance: I am pausing this creative endeavor indefinitely until my schedule clears up. I just do not have the time, brain bandwidth, or interest at the moment to work this in. I also need more time to myself anyway.
+---

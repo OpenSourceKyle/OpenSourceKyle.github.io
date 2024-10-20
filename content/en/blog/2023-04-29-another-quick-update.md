@@ -17,3 +17,4 @@ Busy weekend bartending yesterday, today, and tomorrow. I ran out of time again,
 # LOSS:
 
 * I normally don't do a "loss(es)" list, but my brand new bike got stripped from my place. I live in an old house that was turned into apartment units a little aways from downtown, and I kept my bike in the basement/crawl space under the house (and locked to a support beam). I live in the back. Some bastard figured out to go to my place, go to the backyard, go to the basement, and took my wheels, lights, and bags off and just left me with a frame. I'm pretty upset with it considering this is my only transportation... I don't have room in my studio, but once I get it re-done, I'll make room and keep it inside. Kinda a bummer, but I guarantee whoever stole my shit is worse off than I am. Although pissed, I'm blessed, and I have enough money to get me more than a bike frame.
+---

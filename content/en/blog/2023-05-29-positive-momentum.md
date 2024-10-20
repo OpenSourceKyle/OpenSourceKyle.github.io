@@ -31,3 +31,4 @@ Lately, I have felt pretty damn good. Although I wake up most mornings tired, so
 * I had mentioned quite a while ago about receiving more female attention from real life. I hadn't noted the attention that I've gotten on the dating apps. And not just likes or whatever, but having matches initiate calling me "handsome" (I don't think any woman outside of my mom has ever called me that). Although we all know the dating apps are fucked, it has been really nice. Really VALIDATING as the ladies would say to receive such positive, kind attention. And it going "female -> male" direction for the attention, I know that it's more honest and authentic (vs. a dude telling a chick she looks good). Pretty nice... the date on Wednesday is with one calling me "handsome" and "sexy", so it has good potential. Here's to no expectations but also hoping for another W.
 
 Not fucking bad boys let's goooooooooo
+---

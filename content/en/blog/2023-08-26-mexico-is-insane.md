@@ -16,3 +16,4 @@ Instead of a normal list, I'll keep it general since a lot of these are on-going
 School is all in Spanish. MANY MANY new friends. Super hard at first, but just what I need. Cool people from all over the world (mainly Asia) and age ranges (20s-40s). Salsa was fun dancing with some cute, shy Asian girls. Had a date and more planned in the future. New roommate invited me to play Catan, drink, and chill with his friends all in Spanish -- we had a fun time. Sleep and eating not the best but not the worst -- I've lost some weight (looking awesome) and I feel pretty good/energized. Women (even non-Mexicans) seem very receptive to me and invite me to shit.
 
 Mexico City is lit. My energy and mindset have been doing a lot better here (though I was in a good state before I left). Although very premature, I could see myself living here.
+---

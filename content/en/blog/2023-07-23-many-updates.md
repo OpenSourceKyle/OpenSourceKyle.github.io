@@ -34,4 +34,5 @@ Today is a busy day, so I'll have to keep it brief before work.
 
 ## Mentally
 
-I've felt really good the last week. Sleep, diet, exercise, etc. have helped as well as my own internal work. As David Goggins says, I'm staying hard motherfucker
+I've felt really good the last week. Sleep, diet, exercise, etc. have helped as well as my own internal work. As David Goggins says, I'm staying hard motherfucker---
+---

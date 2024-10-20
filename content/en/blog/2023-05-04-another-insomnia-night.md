@@ -33,3 +33,4 @@ Although insomnia is suboptimal, I ain't letting it stop me. I'm gonna kill toda
 Cultivate the mindset. Sharpen the body. Take a moment of rest when necessary but don't stop.
 
 Keep killing it dudes
+---

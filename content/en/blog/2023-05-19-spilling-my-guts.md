@@ -46,3 +46,4 @@ This isn't a negative post. This is just a post of vulnerability. I have a more 
 Thanks everyone here for your time, kindness, and ideas. I am inspired everyday by everyone here. We are imperfect men, but I love that about this place. We can all bitch and complain about our "failures" and still go out again the next day to tackle our challenges. I will do the same. Ideas and plans subject to change and develop, but I have been thinking these ideas for over the last year. It's time to make preparations.
 
 I know that I will have many more tough days ahead, but I can do it. I've done a lot in my short life -- more than most. I can keep doing it and adapting to what comes before me.
+---

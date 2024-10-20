@@ -44,3 +44,4 @@ I took a journey, and I learned a lot from it. The gist rather is that I have al
 * Course: continuing finishing the course and weekly accountability meetings with a best friend about them
 * Coaching: helped my friend get a few dates when otherwise he's had none -- he's been super happy with that; working on his style/outfits next
 
+---

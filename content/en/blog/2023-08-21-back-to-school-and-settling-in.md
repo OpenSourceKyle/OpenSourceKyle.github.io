@@ -22,3 +22,4 @@ I've walked around CDMX more. I checked out Polanco, and I'm glad I did -- I did
 ## Mentality
 
 I feel super blessed to be here. I will probably continue to be overwhelmed for a while. It is incredibly beautiful (even the ugly parts), the food is great, people wonderful, and all that other crap. For me, CDMX has everything that I need within walking distance, and I'll be living right next to campus. Here's to becoming fluent and hopefully bringing some pinche gringo light to peoples' lives
+---

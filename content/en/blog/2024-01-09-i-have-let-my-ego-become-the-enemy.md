@@ -22,3 +22,4 @@ Is that a bad thing? No. I felt like I needed to "speedrun" my emo phase... I ne
 I do not feel quite that strongly about my last year now; I am better. I don't want to scare away people as much (because I am scared of them); I want to keep inviting them into my life and future. I read through some random users who are older than me and a lot worse off -- still negative, depressed, immature, ego-ridden and unwilling to accept advice or improve... I realized that for me, I will humble myself again to not be that.
 
 I want to be like the Dos Equis man -- mature, handsome, calm, grounded, authentic, and captivating -- but in my own way of course. Here starts my journey to that path. I lack clarity and direction, but I know that I can and will figure it out!
+---

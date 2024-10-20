@@ -44,3 +44,4 @@ I think a lot of it boils down to the weird white people hippy spirituality that
 Increased charisma, stability (or mitigating instability), be the better man (ego), comfort with the discomfort of my future --> examining my emotions/reaction to the cause
 
 As always, this sick advice serves me well: **giving myself permission to experiment, suck, and be imperfect coupled with that self-love everyone always talks about**
+---

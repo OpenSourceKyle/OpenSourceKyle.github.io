@@ -36,3 +36,4 @@ I think this log might become a bit repetitive, so I'll try out a format again t
 * Course: continuing finishing the course and weekly accountability meetings with a best friend about them; re-did some standard writing exercises like "10 Things I Have to Offer to Anyone" and "5 Things that I Love About Myself"
 * Coaching: technically I "coach" my best friend, but he's basically got it down. Coached another 2 friends and 1 we are meeting weekly
 * Scheduling some time this week to go to "student services" and figure out how to work towards residency here in Mexico since the process is overwhelming
+---

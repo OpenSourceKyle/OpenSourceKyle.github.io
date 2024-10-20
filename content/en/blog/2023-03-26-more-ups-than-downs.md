@@ -32,3 +32,4 @@ Saturday, I went out with my newly single lesbian friend (from an earlier post) 
 This gives me a lot of hope that I do not have to put up with bad tempers and emotions out of scarcity anymore -- there are innumerable, healthy cute girls out there. If we do not "vibe", then I can leave without a second thought. I am not trapped. We do not have to sacrifice parts of ourselves for each other. We can just be -- and negotiate everything else from there [or separate].
 
 Overall, I am worn out, but I have learned and grown so much from these positive interactions. My camera comes in next week. I will be looking to level-up my picture game for myself and some friends of mine as well.
+---

@@ -27,3 +27,4 @@ I'm super proud of myself for being able to communicate my feelings and relation
 ## Reflection on Marriage Thoughts from Previous Post
 
 I have a hard time reminding myself that I have a whole life ahead of me at 29 years old (when sometimes I feel very late to things). I had a positive dream about my exwife a couple of nights ago that was really pleasant even though we don't talk at all now. I am still living in a confusing stage of my life albeit a fucking awesome stage with all my new change. I've been sharing that I was previously married on all my dates in a positive way, and the women have appreciated it. I can tell the experience has made me a better man even though it was terrible at times.
+---

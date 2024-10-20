@@ -47,3 +47,4 @@ Apparently, I never realized "how white" I am LOL. I was working out while doing
 ---
 
 Keep killing it out there boys. We'll make it with enough time and effort. Everyday is a gift.
+---

@@ -50,3 +50,4 @@ Healing slowly... thumb stiff as fuck. It's almost scabbed over and not leaking 
 ## Exercise and Guitar
 
 ...are definitely suffering, but I won't beat myself up over them much. I need to heal and this shit it out of my control. Gets me excited to get back to my shit, and once again, be grateful for the kickass things that I do have in my life.
+---

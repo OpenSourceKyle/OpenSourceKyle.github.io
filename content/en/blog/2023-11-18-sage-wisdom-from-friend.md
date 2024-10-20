@@ -51,4 +51,5 @@ And this interview with him is a really good high level summary of what he knows
 
 And this last link is to a book written for clinicians, by clinicians, about how to treat attachment issues in adults:
 
-* *Attachment Disturbances in Adults* by Daniel P. Brown, David S. Elliott
+* *Attachment Disturbances in Adults* by Daniel P. Brown, David S. Elliott---
+---

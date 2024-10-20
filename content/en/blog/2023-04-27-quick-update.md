@@ -14,3 +14,4 @@ Quick update before I go to bed. I'm working my normal computer job tomorrow and
 * Back to exercise after rough insomnia episode
 * Feeling better and more confident again in new job (along with better sleep)
 * Enjoying life
+---

@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "OpenSourceKyle"
+theme = "opensourcekyle"
+
+[params.colors]
+  text = "#A8FF60"  # Light green for headers
+  background = "#121212"  # Dark gray
+  sectionBackground = "#1f1f1f"  # Slightly lighter gray
+  link = "#A8FF60"  # Light green
+  linkHover = "#76FF03"  # Brighter green
+  paragraphText = "#ffffff"  # White text for paragraphs
+
+[params]
+  footerText = "© 2025 OpenSourceKyle. All rights reserved."
+  footerLinks = [
+    { text = "Privacy Policy", url = "/privacy" },
+    { text = "Terms of Service", url = "/terms" },
+  ]
+  backgroundImage = "/images/galaxy.jpg"

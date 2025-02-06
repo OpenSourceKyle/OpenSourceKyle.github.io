@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="home-intro">
+    <h1>Welcome to OpenSourceKyle</h1>
+    <p>Explore openness and meaningful connections.</p>
+</div>
+
+<div class="section about">
+    <h2>About Me</h2>
+    <p>{{ with .Site.GetPage "about" }}{{ .Summary }}<a href="{{ .Permalink }}">Read more</a>{{ end }}</p>
+</div>
+
+<div class="section pages">
+    <h2>Pages</h2>
+    <ul>
+        {{ range .Site.RegularPages }}
+        {{ if eq .Section "pages" }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+        {{ end }}
+    </ul>
+</div>
+
+<div class="section blog">
+    <h2>Latest Blog Posts</h2>
+    <ul>
+        {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "Jan 2, 2006" }}
+        </li>
+        {{ end }}
+    </ul>
+    <a href="{{ "/blog/" | relURL }}">View all posts</a>
+</div>
+
+<div class="section coaching">
+    <h2>Coaching Services</h2>
+    <p>{{ with .Site.GetPage "coaching" }}{{ .Summary }}<a href="{{ .Permalink }}">Learn more</a>{{ end }}</p>
+</div>
+{{ end }} 

@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="page-content">
+    <h2>{{ .Title }}</h2>
+    <div class="post-meta">
+        <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+        <span class="read-time">· {{ .ReadingTime }} min read</span>
+    </div>
+    {{ partial "tags.html" . }}
+    <div>{{ .Content }}</div>
+</div>
+{{ end }} 

@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="breadcrumbs">
+    <a href="{{ "/" | relURL }}">Home</a> &gt; <a href="{{ "/blog/" | relURL }}">Blog</a> &gt; {{ .Title }}
+</div>
+<article class="section">
+    <h1>{{ .Title }}</h1>
+    <div class="post-meta">
+        <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+        <span class="read-time">· {{ .ReadingTime }} min read</span>
+    </div>
+    {{ partial "tags.html" . }}
+    <div class="content">
+        {{ .Content }}
+    </div>
+</article>
+{{ end }} 

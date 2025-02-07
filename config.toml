@@ -1,0 +1,44 @@
+baseURL = "http://opensourcekyle.com"
+languageCode = "en-us"
+title = "OpenSourceKyle"
+theme = "hugo-opensourcekyle-theme"
+
+[params.colors]
+  headerText = "#ffffff"  # Medium gray for text
+  background = "#121212"  # Dark background
+  sectionBackground = "#1f1f1f"  # Slightly lighter dark gray
+  link = "#00FF00"  # Light gray for links
+  linkHover = "#f900ed"  # Darker gray for hover
+  paragraphText = "#b2b2b2"  # Light gray for paragraphs
+  socialButtonBackground = "#2a2a2a" # Lighter dark gray for social button
+
+[params]
+  backgroundImage = "/images/galaxy.jpg"
+  profileImage = "/images/myface.jpg"
+  linktreeUrl = "https://linktr.ee/OpenSourceKyle"
+  headerLinks = [
+    { text = "About", url = "/about/" },
+    { text = "Pages", url = "/pages/" },
+    { text = "Blog", url = "/blog/" },
+    { text = "Coaching", url = "/coaching/" },
+  ]
+  footerLinks = [
+    { text = "Privacy Policy", url = "/privacy" },
+    { text = "Terms of Service", url = "/terms" },
+  ]
+  footerText = "Kyle. CC BY-NC 4.0. Some rights reserved."
+  footerLink = "https://creativecommons.org/licenses/by-nc/4.0/"
+
+[frontmatter]
+  date = ["date", "publishDate", ":filename", ":default"]
+
+[permalinks]
+  blog = "/blog/:year/:month/:day/:title/"
+  pages = "/pages/:slug/"
+  about = "/about/"
+  coaching = "/coaching/"
+  tags = "/tags/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

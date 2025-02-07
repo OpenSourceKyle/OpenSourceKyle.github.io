@@ -1,0 +1,19 @@
+---
+title: "El Gringo Mas Mexicano"
+date: 2024-05-26
+tags:
+  - journal
+---
+
+I had a wonderful day yesterday with my Mexican friends -- I say that to recognize that I'm breaking out of my foreigner bubble little by little. My current ladyfriend and all my best friends here in Mexico are no longer other foreigners, but local Mexicans. For me, that is huge to continue acclimating to my new life here. We keep talking about more complex topics all in Spanish -- sometimes, it's hard to believe it's me living through all this. AND it's good for me to recognize this -- to baby step myself mentally that 1 am growing here.
+
+My friend is super interesting.... he looks and sorta comes off like a "fuckboy" -- but man he is a kind nerd at heart and super insightful sometimes. He always takes time to ask me questions and show me more of Mexico -- even when I don't think to reciprocate at the moment. That means a lot to me -- I realized all this while writing, so I just sent him a message of gratitude. We went to the barrio on the outskirts of the city. In Latin America, the periphery is usually the poorest areas and difficult to get to (I took an almost 1hr metro train ride and then another 25 min ride using the ski gondola/cablebus).
+
+But even though these places are poor (and sometimes dangerous) everyone is always super funny and nice. We talked to a few different people while drinking beers before having to leave before the rain came. It definitely gives me a different perspective on life -- but especially that money/wealth aren't everything. Although these people definitely don't have everything that they might need, man it looks like a good life too (people talk more, are playing games/sports with each other, living more tight-knit with family, etc.). All these aren't better or worse, but a different way of living.
+
+Normally, the topic of conversations when they see me are always the same (it's funny to see the patterns of what people think or say with me being a white foreigner dude in a very brown area), but I hope one day to break out of these boring patterns as my Spanish improves. That said, it's endearing to me that people still love to talk to me and to see what and how they think.
+
+My friend gave me a huge compliment too -- although I VERY MUCH do not "blend in" here in general and especially the barrio -- he told me I act like a Mexican. I asked him how so and he said I get around without looking a dumbass tourist or scared or whatever else. A bit difficult to explain behaviorally how I'm different, but I get it. I FEEL less fear and spotlight-ness when getting around more. I still have some negative thoughts (like: "What do they think about me?", "Why do they look at me like that?", "What if I get robbed or attacked?", etc.) but less of them.... I feel more comfortable being here, and I catch myself in these thoughts and question them -- why am I projecting my own racism/insecurity onto everyone else? what if I get robbed? -- oh well, I'l just get a new phone. what if I die? well, I've lived more now than I ever have before -- I wouldn't regret a thing.
+
+Shoutout to Byron Katie for helping me with these thoughts. Shoutout to myself for being more comfortable lately -- even when I don't feel the best. Shoutout to that big bald ginger in my life for helping through this process (you know who you are). The only unfortunate thing is I think we don't have water today so my toilet won't flush. I ate a lot of habanero yesterday, so I think I'm going to have to find some poor local cafe and destroy their bathroom. Pardon my french---
+---

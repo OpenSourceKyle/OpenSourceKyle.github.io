@@ -1,8 +1,11 @@
 ---
 title: How to be a Coach
 tags:
-  - internal
-image: "/images/pages/coaching.jpg"
+  - howto
+  - coaching
+date: 2024-10-27
+image: /images/pages/coaching.jpg
+image_caption: Generated from DALLE
 ---
 
 I want to detail my idea on coaching to better organize my own thoughts and philosophy as well as give greater insights to others. There is a not a right or wrong answer to this -- but rather a matter of style.

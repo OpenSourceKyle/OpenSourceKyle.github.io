@@ -1,12 +1,10 @@
 ---
-title: "Privacy Policy"
-date: 2024-03-19
+title: Privacy Policy
+date: 2025-02-06
 draft: false
 ---
 
 **Privacy Policy**
-
-**Effective Date:** 2025-02-06
 
 **1. Introduction** Welcome to OpenSourceKyle ("we," "our," "us"). We are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your information when you visit our website opensourcekyle.com.
 

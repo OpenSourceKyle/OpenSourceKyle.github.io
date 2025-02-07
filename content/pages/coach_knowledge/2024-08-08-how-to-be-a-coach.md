@@ -2,9 +2,8 @@
 title: How to be a Coach
 tags:
   - internal
+image: "/images/pages/coaching.jpg"
 ---
-
-{{< lightbox src="/images/pages/coaching.jpg" alt="Coach person coaching a pumpkin" >}}
 
 I want to detail my idea on coaching to better organize my own thoughts and philosophy as well as give greater insights to others. There is a not a right or wrong answer to this -- but rather a matter of style.
 

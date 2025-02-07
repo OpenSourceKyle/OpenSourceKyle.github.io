@@ -1,14 +1,21 @@
 ---
-title: "Better Sex: BDSM Intro & Quizzes"
+title: "How You Can Get Into BDSM Too"
 tags:
-  - notes
   - bdsm
+  - test
+  - howto
+date: 2025-02-05
+image: /images/pages/charlesdeluvio-DnVGMEzeDus-unsplash.jpg
+image_caption: "@charlesdeluvio on Unsplash"
 ---
+
 # Why BDSM?
 
 Bondage/Discipline, Dominance/Submission, Sadism/Masochism... Isn't that the **weird, rough sex** that I read or heard about that one time?
 
 No, but I understand why one might think that. I use to think that myself before getting into it. It *repelled* me -- all those gross images of whatever, but I eventually came to learn that I could define or make it my own: hence, it is only creepy or weird if I want it to be.
+
+## My Journey into the Dungeon
 
 My journey into BDSM started with the decline of my marriage and lifelong insecurity of having no idea what I was doing sex-wise or women-wise. I had searched around on the internet and found various interesting writers who communicated desires and fantasies that I had felt or wanted for quite some time while being too scared and unsure how to communicate them. BDSM gave *me* the control over my sexuality and desire that I felt I had never had. Instead of my male sex drive being a burden and a shameful, dirty secret as it was for most of my life -- it could finally be a healthy drive to bring me greater satisfaction and deeper connection.
 

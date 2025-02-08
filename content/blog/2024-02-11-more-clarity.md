@@ -1,8 +1,5 @@
 ---
 title: "More Clarity"
-date: 2024-02-11
-tags:
-  - journal
 ---
 
 I went a little crazy last week, hence my super long post in my other log, but it's exactly what I needed to calm my thoughts a little. I have more clarity through that, daily meditation, journaling, and deactivating my "online presence" for a bit (except here).
@@ -36,5 +33,3 @@ TLDR: Gonna hermitmaxx and ignore women/stop seeing ladyfriend again for a bit t
 
 * Course: continuing finishing the course and weekly accountability meetings with a best friend about them
 * Coaching: continuing coaching new friend -- he gave me a compliment that I helped him get a BJ from some girl after talking to me one day (a while ago)... didn't realize this but kinda cool testimony. We're working on some inner game stuff and dating app stuff to help him lose his virginity
-
----

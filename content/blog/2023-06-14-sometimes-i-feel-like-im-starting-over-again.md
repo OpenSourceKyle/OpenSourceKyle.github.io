@@ -1,8 +1,5 @@
 ---
-date: 2023-06-14
 title: "Sometimes I Feel Like Im Starting Over Again"
-tags:
-  - journal
 ---
 
 I have been taking more time to journal, make plans, and talk out my ideas with my friends more. Since I am physically limited in what I can do until I heal, now is the time to put greater focus on sharpening my mind once again. I won't detail all my thoughts here, but the TL;DR:
@@ -36,4 +33,3 @@ I am working to not view these women as emotionally manipulative psychopaths (be
 All that said, I have a date tomorrow with a different emo MILF, and we already established that I'm a soft Dom whereas she told me that she is a bratty sub with a praise kink (not totally into brats but we'll see). Kinda cool considering I feel like I accidentally happened into that, but I need to give myself more credit. Being less invested (needy) definitely allows me to be calmer and more bold to screen out these iffy chicks and get my hot goth/emo sub that I need to ruin my life :)
 
 - Relationships: are nonexistent. I simultaneously crave some romantic stability, but I know that it is better that I don't just immediately attach myself to someone coming out my old relationship. Being single has been a good struggle for me, though I definitely feel happy and sad seeing other couples out in public. Makes me appreciate the relationships that I have had in life -- even when they weren't always positive. Also has made me realize what I won't tolerate anymore
----

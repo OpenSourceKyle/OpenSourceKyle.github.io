@@ -1,8 +1,5 @@
 ---
-date: 2023-04-02
 title: "Tired Of Going Out"
-tags:
-  - journal
 ---
 
 I had another fun weekend, but I am incredibly tired. Today, I feel like I was hit by a truck; I am not sick, but I do not feel good. I have been in a daze all day. Taking my Sunday "off" (turning off my phone and focusing on myself) has helped, but I need rest. With that and my soft goals of approach, I am going to prioritize sleep and rest again and indefinitely. I have made a lot of friends and talked to a lot of people, but the night scene does not work with me. I will shift to dating apps in the near future (still waiting on my tripod for some pics) as well as in-person to be more efficient with my time and energy.
@@ -16,4 +13,3 @@ I spent quite a bit of time today writing and thinking more. I tweaked my goals,
 Going through these old notes, I realized how fucked the relationship was. Therapy catered to a very feminized way of communicating and empathizing that is frankly exhausting to me. Although I understand why it is bad quantify who was wronged or hurt more from every little conflict, I also think it is just as deleterious to overemphasize someone's feelings over their actions/impacts/intentions. Some of my notes were about me asking more questions, having to soften my communication, having to prioritize someone else's emotions over mine, etc. I will not pretend that my notes are wholly accurate of everything that we talked about, but I felt like I really gave a lot of effort to have it never be enough. Instead of me having to give so much, I am learning that I do not have to do so much so long as I am honest and frank about it. Giving too much (as I would argue some therapy goes for) is unsustainable. Being in the position that I am now is much harder but also more liberating. Anyways, I do not want to go into too much more details about all that.
 
 I am ready for rest, so I can keep kicking ass.
----

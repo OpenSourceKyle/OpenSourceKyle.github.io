@@ -1,8 +1,5 @@
 ---
 title: "Simple Update"
-date: 2023-07-14
-tags:
-  - journal
 ---
 
 Still sticking to weekly updates to bide the time due to reasons.
@@ -14,4 +11,3 @@ Still sticking to swearing off the dating apps and women for a while. Honestly, 
 I've been journaling a lot and started consolidating my many thoughts (working to get them into a single-ish place). I've worked every day since last Sunday and will continue up to this upcoming Sunday. Staying busy, working out every day (when I'm not ill), reading, journaling, and scheming. Future updates will be better eventually but staying steady for the time being.
 
 **All is good**---
----

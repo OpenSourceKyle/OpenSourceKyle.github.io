@@ -1,8 +1,5 @@
 ---
 title: "Emotional Week"
-date: 2023-10-28
-tags:
-  - journal
 ---
 
 I had a solid yet emotional week in some senses -- all good, just practicing being more comfortable with my own emotions. School started back this week -- new level, harder Spanish, new people, missing some old ones, feeling settled in, feeling new all over again, etc.
@@ -35,5 +32,3 @@ These are less noteworthy and not always directly related to my goals, but they 
 * Switched everything to metric units (km for fitness watch, Celsius for weather, etc.)
 * Been way more direct and honest than ever before
 * Mentally practicing thinking of everyone as my friend rather than my enemy -- sometimes harder when walking around the streets
-
----

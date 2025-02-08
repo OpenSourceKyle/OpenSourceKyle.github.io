@@ -1,8 +1,5 @@
 ---
-date: 2024-01-26
 title: "Another Crazy Week Of Ups And Downs"
-tags:
-  - journal
 ---
 
 Another great week of living in the twilight zone down here.
@@ -36,4 +33,3 @@ Another solid and beautiful week.
 ---
 
 I'm going to commit some personal research to this, but most of it boils down to my mind. I think my negative associations with condoms and ONS are hurting me, so I need to work on that. Some level of accepting and "trusting" my dick to know more than me sometimes sounds good too
----

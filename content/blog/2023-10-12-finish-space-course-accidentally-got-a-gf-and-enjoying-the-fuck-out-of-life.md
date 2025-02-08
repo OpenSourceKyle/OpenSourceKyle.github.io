@@ -1,8 +1,5 @@
 ---
-date: 2023-10-12
 title: "Finish Space Course Accidentally Got A Gf And Enjoying The Fuck Out Of Life"
-tags:
-  - journal
 ---
 
 I took a little break here since I realized that I needed to give my time elsewhere for fun, productivity, learning, and even a little love. Internally, I feel the need to accomplish and grow more, but I think that's my internal anxiety trying to push me to perform as I have most of my life. I'm personally doing some journaling to work through this since I know that I will need a plan eventually after I finish my Spanish schooling. I have it on my backlog to clean up my guide that I wrote for myself to move down here -- quite a number of good ideas for anyone who has never lived abroad before (like me). In this moment, I hope to never return to the US
@@ -54,6 +51,4 @@ I've already told her that I will ruin her and be the best experience of her lif
 * She's a Christian, but I have no problem with that. Just funny to be with her one day and then walking her to church the next
 * Personality-wise: super cute and funny. She is very expressive, sing-songy, energetic, brings me homecooked Asian food, loves pleasing me, loves being pleased, loves being led/dominated, etc. **<-- now I see why a lot of white dudes go to Asia... it's a stereotype, but damn I'm finally getting to live it in Mexico. I really enjoy her energy and femininity. Hot take: fuck white women I will never go back. Native Latinas and Asians are dangerous in a good way**
 
-
 She finishes school here in December and will go back to her home country. She's already asked me about that, and **I told her that her education and future are more important than I am**. She just replied that we'll have to enjoy our time together. What fucking luck dude. She's damn-near perfect, and I have no problem with enjoying this short chapter of our lives
----

@@ -1,8 +1,5 @@
 ---
-date: 2023-08-10
 title: "Saying Last Goodbyes 1 Week Til Liftoff"
-tags:
-  - journal
 ---
 
 I leave my homeland in less than a week. I'm enjoying the rollercoaster of emotion of fear, excitement, confidence, uncertainty, etc. Overall, I am feeling incredibly positive. I'll try to hold onto this positive mindset as long as possible to springboard me into success by continuing to take care of my sleep, diet, journaling, practicing gratitude, taking long walks, being upfront, and staying in contact with my friends.
@@ -23,7 +20,6 @@ I leave my homeland in less than a week. I'm enjoying the rollercoaster of emoti
 * All my recent friends and people in my life have been complimenting me on my energy, positivity, vibe, vigor, etc. I surprised one of the workers at my guitar studio when I told her I was in a dark place through my divorce. She said she would have never known given how positive and energetic I come off **<-- exactly how I want to be seen**
 * I used my last guitar lesson today to just talk with my teacher. He's really brilliant and not your typical music nerd. He helped coach me along with good ideas and mindsets for really going all-in on improving my Spanish fluency. I'll miss this dude. He's been a hell of a life coach and guitar teacher... I came in a sad boy through my life upheaval and divorce, and I give him a lot of credit for being a weekly anchor
 * Accidentally fell into some pussy... former coworker approached me at my going away and asked "So are we gonna fuck or what?" LOL. First time in my life that's happened... so pretty cool. I've been actively ignoring women the last month or more to prep for my big life move, so it was NICE for a woman to approach me for a change. All my improvements here in appearance, mindset, style, vibe, physique, etc... have brought me to this point. A year ago, I would've thought (even in my relationship at the time) that no woman would ever really want me (scarcity mindset)
-
 
 # Sex & Relationship Ramblings
 
@@ -64,4 +60,3 @@ She wants to see me again before I leave. I told her that I'll be upfront and wo
 The other women that I've been with have hinted similar things... I also am old enough to be the badboy while being a mature "man" about it... I'm excited for my new character arc in this area
 
 That's it for now. Maybe one more log before Mexico.
----

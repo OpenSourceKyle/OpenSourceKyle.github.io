@@ -1,13 +1,10 @@
 ---
-date: 2023-05-16
 title: "Quick Well It Ended Up Not Really Being Quick"
-tags:
-  - journal
 ---
 
 A quick update -- I can normally tell if my mood is down by how much dark chocolate I crave. I haven't overdone it, but I had 3 pieces today. This is compared to other days where I won't have any OR some days were I'll eat a whole bark. It feels good to admit that, recognize it, and stop before just totally engorging myself like I normally would.
 
-I'm a little down today... dating apps and flakes are hurting my ego. GOOD. Although irritating, painful, hurtful, etc. this is good. I need to feel the struggle a little when I am seeking this validation. I am seeking the validation because I am not wholly/mostly healed on the inside. THAT'S OKAY. I want to be incredibly negative today, and although I feel it, I won't let negativity be the only thing that I feel. 
+I'm a little down today... dating apps and flakes are hurting my ego. GOOD. Although irritating, painful, hurtful, etc. this is good. I need to feel the struggle a little when I am seeking this validation. I am seeking the validation because I am not wholly/mostly healed on the inside. THAT'S OKAY. I want to be incredibly negative today, and although I feel it, I won't let negativity be the only thing that I feel.
 
 Instead of a normal "WINS" section, I'll do a positive section to remind myself what I can be positive and grateful for. This life and struggle are meant to be a challenge. I have a wonderful life compared to many more people, and I like to remind myself of that. Being a man isn't being a bitch. Even on my tough days, I can admit it AND set the vibe for others.
 
@@ -31,4 +28,3 @@ Instead of a normal "WINS" section, I'll do a positive section to remind myself 
 I think a big reason why I am so emotional today is a lack of decisive action. I am playing to NOT LOSE, which is a loser's mindset. I need to take some action to RISK the chance to WIN. I would rather WIN every now and then than always LOSE. I know that I have been avoiding some actions that I need to take. I feel better in motion than in meditation (definitely ripped that off from somewhere).
 
 KEEP AT IT FELLAS. KEEP THE GRIND DOING.
----

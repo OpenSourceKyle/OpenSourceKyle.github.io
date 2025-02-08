@@ -1,8 +1,5 @@
 ---
 title: "Incongruence With So Called Fuckboy Archetype"
-date: 2024-02-02
-tags:
-  - journal
 ---
 
 shortish update...

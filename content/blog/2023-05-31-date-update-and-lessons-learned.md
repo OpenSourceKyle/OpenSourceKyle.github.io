@@ -1,8 +1,5 @@
 ---
 title: "Date Update And Lessons Learned"
-date: 2023-05-31
-tags:
-  - journal
 ---
 
 I'm going to bed soon since I have double work tomorrow (computer job + guitar lessons + bartending). Lots of LOLs here because I've laughed and learned a lot tonight.
@@ -19,7 +16,6 @@ I had a few insights, but I want to highlight/re-emphasize them here for myself.
 * Kudos to "Golden Zones" i.e. the ear lobe, neck, or clavicle is almost guaranteed to be a spot that will just make a woman moan and lose herself (after enough foreplay of course). One may like her neck (specifically choking) kissed/squeezed. Another might like the ear lobe. Both moaned and would start shuttering/breathing hard every time I hit "the spot" in the "Golden Zone" usually just by kissing it/breathing on it. Almost an involuntary response
 * Protip for the mindset: your boner can fail and you can still have the woman coming back for more (esp. with the right toys, foreplay, getting her off, and framing it confidently -- I just say I was in my head or I haven't used condoms in a decade due to previous LTR), it's okay to suck, nothing is perfect, and just in general the Doxy and BDSM kit recommendations
 * A point worth repeating: most women have not been fucked properly (usually foreplay and clit stimulation to orgasm). My last two have said the ole "It's been a while since I've felt that good" sort of thing. Kinda sad to me, but I guess I'm happy to help and be a positive change for the community LOL
-
 
 If I remember anything else, I'll add it
 
@@ -43,7 +39,7 @@ This is relevant because the solution hinges on your girl to know how to put a c
 
 ## UPDATE #2
 
-Another insight was regarding seeing the same girl more than once. I thought that just giving them a good time would take care of the retention on its own. Well, lemme say: 
+Another insight was regarding seeing the same girl more than once. I thought that just giving them a good time would take care of the retention on its own. Well, lemme say:
 
 > I got the first girl to squirt on my bed and give me the "I haven't felt that good in a long time" line just to have her disappear.
 
@@ -51,7 +47,6 @@ Where I think I could improve is suggesting the idea of the next meetup at the e
 
 Second chick, I primed her with the idea before she left. She was receptive and was even responsive to my later text messages (I was texting her about buying more sex toys, and she helped me pick out one: the "slut" paddle LOL). Anyways, she seems interested.
 
-Both chicks were 30 or 32, open-minded/hippie/whatever, orgasmed, told me the "I haven't felt that good in a long time" line, etc... but I also think it just happens. Rejection, flaking, and not retaining (even with sex or orgasm) just happen man. 
+Both chicks were 30 or 32, open-minded/hippie/whatever, orgasmed, told me the "I haven't felt that good in a long time" line, etc... but I also think it just happens. Rejection, flaking, and not retaining (even with sex or orgasm) just happen man.
 
 There's no way to tell what headspace the other is in, so best just to move on. But increasing the odds -- that's where I can keep improving.---
----

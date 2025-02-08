@@ -1,8 +1,5 @@
 ---
 title: "Many Updates"
-date: 2023-07-23
-tags:
-  - journal
 ---
 
 **NOTE: this message was written because I started a new journal... although it might not exactly make sense, the gist of my vision going forward does: ACTION**
@@ -35,4 +32,3 @@ Today is a busy day, so I'll have to keep it brief before work.
 ## Mentally
 
 I've felt really good the last week. Sleep, diet, exercise, etc. have helped as well as my own internal work. As David Goggins says, I'm staying hard motherfucker---
----

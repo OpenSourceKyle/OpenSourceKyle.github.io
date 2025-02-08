@@ -1,8 +1,5 @@
 ---
 title: "Reviving This Log"
-date: 2024-01-08
-tags:
-  - journal
 ---
 
 In conjunction with my new focus for this year, I am reviving this log. It will be a more a mental dump and a place for me to work out my thoughts/emotions. I'll better specify my plan in this post, so I can keep myself guided.
@@ -24,7 +21,6 @@ For myself, increased:
 * be a better man than I am
 * comfort with the discomfort of the future
 
-
 ## WHY
 
 **I must prevail**
@@ -40,4 +36,3 @@ Last year made me realize how unprepared I was for any big issues in my life. Th
   * Journaling
   * Shadow Work
   * Social interaction/connectedness: Spanish is key for this if I want to stay out of the US and this ties me more to the local community and culture
----

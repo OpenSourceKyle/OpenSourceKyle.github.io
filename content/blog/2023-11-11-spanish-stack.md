@@ -1,8 +1,5 @@
 ---
 title: "Spanish Stack"
-date: 2023-11-11
-tags:
-  - journal
 ---
 
 Similar update as last week -- I continue to go to school, do all my work, and improve my Spanish. I kept up with my exercise (missed a couple of days due to studying Spanish in the morning) for the most part and still feel like I am living a full and active life. Once again, I am a leader in my salsa class. I'm doing double salsa classes Tue & Thu (3 hr total each day = 6 hr total/wk) -- I enjoy being a teaching assistant, and I'm going to look for dance options outside of school for my future. Honestly, I just need to cultivate my rhythm, which I have struggled with.
@@ -33,5 +30,3 @@ I think that I'll continue to be in the "boring" middle for a little while as I 
 * Dates in Spanish
 * Read books and watch movies/TV (at least subtitled) in Spanish
 * Guided tours
-
----

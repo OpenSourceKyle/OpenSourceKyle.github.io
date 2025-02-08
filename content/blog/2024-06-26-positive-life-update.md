@@ -1,6 +1,5 @@
 ---
 title: "Positive Life Update"
-date: 2024-06-26
 tags: ["journal", "voice"]
 ---
 
@@ -31,4 +30,3 @@ I have had some thoughts, nothing too crazy or strong lately, but I think I’ll
 If my insurance reimburses me for the therapy I did in the spring, I could jump back into it sooner rather than later. I could do it now if I wanted to, but I’m hesitant to drop another couple of grand for therapy and not have it refunded. So, I’m waiting to see what happens—it’s supposedly "processing," but who knows. I’m not surprised at this point; it’s been two months since they submitted the latest claim. You’re supposed to get a response back in 45 days, but we all know how that goes.
 
 Anyway, that’s all I’ve got. Here's to moving forward!
----

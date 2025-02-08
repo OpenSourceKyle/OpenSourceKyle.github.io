@@ -1,8 +1,5 @@
 ---
 title: "Cool And Persistent"
-date: 2023-05-05
-tags:
-  - journal
 ---
 
 Today has been a killer day. I was able to sleep the full night and woke up slightly before my alarm. My mindset today has been great. I feel good, confident, happy -- I hadn't realized it until I felt so good today, but I have been feeling awfully down and sorry for myself these last couple of weeks. When I'm in this mindset, I feel more alone and less friendly with people and the world. On the flip, when I feel great and friendly -- everyone else is so much nicer and warm. Things are less awkward (and if they are, then I care less anyway).
@@ -29,4 +26,3 @@ As simple as it sounds, I need to be: cool & persistent.
 * Still waiting on my wheels... bike stolen last week and just sold my motorcycle. I look forward to my new bicycle
 
 Another beautiful day and weekend to kill. Keep it up everyone
----

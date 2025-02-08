@@ -1,8 +1,5 @@
 ---
 title: "Back To Better"
-date: 2023-04-21
-tags:
-  - journal
 ---
 
 **Goal: Less words equals greater action**
@@ -16,4 +13,3 @@ I have been tired, exhausted, and nervous about the new job over the past few da
 * Reading more about photography from my NatGeo book -- solid intro so far
 
 When I am not working this weekend, I am absolutely resting and doing nothing. In the meantime, I will keep working hard!
----

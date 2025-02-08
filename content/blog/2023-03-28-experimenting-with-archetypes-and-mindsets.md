@@ -1,8 +1,5 @@
 ---
 title: "Experimenting With Archetypes And Mindsets"
-date: 2023-03-28
-tags:
-  - journal
 ---
 
 I have been doing some personal journaling over the last month while thinking of who I am vs. who I want to be. Reading *No More Mr. Nice Guy* has also supplemented my understanding of my submissive and passive tendencies that have plagued my life. I have always disliked these qualities about me and knew that people did not respect me for them. Or rather, I have allowed them to plague me to avoid conflict and present "nice" or well-behaved -- a coping mechanism for my modest, redneck upbringing that I was often embarrassed about. I need to live life for myself and not for others; I want to love the badass hiding inside of me. And finally after some of my recent (though not traumatizing) experiences with women, I believe that I see a way forward for myself: being (or experimenting with) who I have always wanted to be.
@@ -12,7 +9,6 @@ The TL;DR that I got from it all -- get a life and be cool. Be who I have always
 ---
 
 With that, I am experimenting with my newest badass archetype. I have ran away from my "white trash" roots most of my life. I have been embarrassed of my hometown, my accent, and my family. I want to cultivate those roots inside of me while synergizing them with other aspects of myself: emo/metal/tattoos/piercings/edgy. I believe the latter pairs roughly well with the standard starting advice, and I am giving myself a true chance to try it out.
-
 
 ## Archetypes
 
@@ -43,7 +39,6 @@ I think the real question is, would a true bad boy overthink all these details? 
 
 # Feedback from a Friend
 
-
 Two important points to keep in mind as you develop your archetype:
 
 1) Is the archetype truly an extension of who you already are?
@@ -52,7 +47,7 @@ Two important points to keep in mind as you develop your archetype:
 If you choose an archetype that is not you, meaning not an extension of your personality, you will never be able to effectively pull it off. It will seem fake and women will pick up on that. If you don't like the type of women you are attracting, then there are things you need to change about yourself.
 
 I did an analysis of mine earlier this year. The models I chose were just extending my personality and turning it up to 11. The style reflects the my own personality mixing together rebel, bohemian/spiritual, and professional together. I also reflected on the girls it was attracting. One cohort of girls I wanted to attract more of going forward was hot young professionals. So that means the activities and way I dress will need to reflect that depending on the occasion.
- 
+
 ---
 
 # My Response
@@ -62,4 +57,3 @@ I think my biggest struggle is I do not identify with a lot of "mainstream" arch
 At this point, I am working to cultivate myself while not losing my roots/past/history. I will give it more thought.
 
 I definitely know that I am attracted to feminine women: with tattoos/piercings, in metal/emo scenes (though not a hard requirement), who are active, and not overly sensitive. I need to ask myself what more beyond that (and if I can attract those).
----

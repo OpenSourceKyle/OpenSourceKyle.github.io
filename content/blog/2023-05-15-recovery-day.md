@@ -1,8 +1,5 @@
 ---
 title: "Recovery Day"
-date: 2023-05-15
-tags:
-  - journal
 ---
 
 I am still a bit exhausted from bartending all Mother's Day weekend -- shout to out all the MILFs out there, they get my appreciation. Taking today to recover, read, recoup, and recalibrate.
@@ -21,6 +18,4 @@ My chiro office (all women) today told me that they really appreciated how posit
 * Most recent tat and piercings are healing up great... got complimented with a smile that I looked like a metalhead while bartending (from some other hot, edgy customers -- unfortunately they quickly got a table and didn't hang at the bar long)
 * Sunday date flaked... honestly for the best. I was tired af yesterday, and my back was excruciating from being on my feet so much. I'll let her cool off and re-engage later... her last text was "Just don't break my wrist, I expect ya to hurt me a liiittle.", so I know she's interested. All about being cool, not needy, and higher value to nail this one down
 
-
 I'm a little aimless at the moment more than usual, but again, I'm enjoying the peace a bit.
----

@@ -1,8 +1,5 @@
 ---
 title: "Another Year Older Yet WAY BETTER"
-date: 2023-05-11
-tags:
-  - journal
 ---
 
 Here I am, another year older today, and that much closer to 30. My quiet goal to myself has been to "lock it in by 30" -- I trust myself that I will be able to do this. Last week, I felt like I was going a little off the rails from not having slept too well, but this week is a full of wins. I am not only well-rested but also very happy and calm today. This isn't a feeling that I get often.
@@ -33,4 +30,3 @@ What I think has really helped me to exponentially progress -- in **happiness, l
 * I haven't worked my computer job as much lately. I just do not have interest in it and very much enjoy doing my other activities. I have a little more clarity about starting my own hustle in the near future, but I have a legal blocker holding me back from doing that for the near little bit. I think this is a good sign for me to know what my next steps will be for my life and future.
 
 Keep at it fellas
----

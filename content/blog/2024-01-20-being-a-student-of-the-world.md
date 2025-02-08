@@ -1,8 +1,5 @@
 ---
 title: "Being A Student Of The World"
-date: 2024-01-20
-tags:
-  - journal
 ---
 
 I'm ending on a great week despite some sadness, hangover, and food poisoning; I really have enjoyed it. I've been in a good mood, and when I'm not, I've been challenging myself to reframe or take advantage of the time (e.g. oh I'm sad/sick and can't go to the tour/baseball game/see friends -- I'll do an online course or journal like I've really been wanting to).
@@ -21,5 +18,3 @@ The greatest insight that I've had is -- I really enjoy being a student: whether
 * Messaged a bunch on dating apps -- 2 dates scheduled and taking the rest slow for the moment
 * Ate better overall in my informal diet -- I've lost quite a bit of weight, but for the time being I'm feeling really good from the diet/weight loss. I'm officially within a "normal" weight range for my height. Now obv this doesn't mean much, but I've technically been overweight my whole adult life -- a mix of a lot of muscle yes and too much fat. My body hurt and ached from the weight, but now, less so~
 * HOUSE PARTY tonight! Super excited to have friends over
-
----

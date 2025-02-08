@@ -1,8 +1,5 @@
 ---
 title: "Going Out A Lot"
-date: 2023-03-18
-tags:
-  - journal
 ---
 
 I am keeping this one short[er], so that I can get back into my personal planning work for today and tomorrow.
@@ -18,4 +15,3 @@ I am keeping this one short[er], so that I can get back into my personal plannin
 * Sunday (tomorrow): I am considering just turning my phone off and taking a day for myself. More journaling and thinking would be good to help clear my mind and help me figure out my path forward. I know my #1 single goal/action that I need to take now (it is tough and I cannot mention it here), but I realize that I must follow through with it. If I do not, then I will keep feeling down, low, sad, and anxious until I do so.
 
 Action is masculine. Action is forward. I cannot be passive in life.
----

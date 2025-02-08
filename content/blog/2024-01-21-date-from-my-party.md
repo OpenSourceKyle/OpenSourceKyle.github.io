@@ -1,8 +1,5 @@
 ---
 title: "Date From My Party"
-date: 2024-01-21
-tags:
-  - journal
 ---
 
 Well, this is sort of not so humble brag, but I kind of hooked up with a chick that came to my party. The setup was fucked too, so I didn't have sex with her, but we fooled around with some basic domming and the vibrator to make her squirm and come. Allegedly she wants to come by again this week when we're not both drunk, she doesn't have a curfew from her mom (lol), and there's not 40+ people in my house banging on my door and chanting my name while I'm trying to get in the mood. We'll see -- these younger ones are like trying to catch house flies and they all have anxiety and are lost and all that. Kinda a mess, but I guess I was too when I was that age.
@@ -50,4 +47,3 @@ This was my first real date and sex attempt after my exGF, and that's why I am i
 Regardless, I am very proud of myself for working through all this and taking this interaction as far as I wanted to go (I set my own boundary for comfort). I don't regret being with her.
 
 I enjoy being with a beautiful women, and she is nearly a perfect archetype match for me (except she does not have tattoos yet). I am noticing that my perfect "attraction" archetype, which is the emo, dyed-hair, piercing, tattoos, etc. type, is not necessarily a good relationship, long-term, or stable/ongoing partner match for me. I think I work better with cute nerds than unstable emo/goth chicks for more serious arrangements (aka connection). Luckily, she only wants something casual, but I know that likely is not entirely true and is a defense mechanism given her history.---
----

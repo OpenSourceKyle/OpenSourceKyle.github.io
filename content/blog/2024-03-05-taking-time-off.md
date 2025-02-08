@@ -1,8 +1,5 @@
 ---
 title: "Taking Time Off"
-date: 2024-03-05
-tags:
-  - journal
 ---
 
 What's up folks. I finished moving today and relaxed a bit after that. I spent most of last week after finals cleaning up my old place and getting out with some friends. I'll miss my old roommates and place, but I'm happy to be in a new environment with new friends.
@@ -33,4 +30,3 @@ What's up folks. I finished moving today and relaxed a bit after that. I spent m
 
 * Course: took a pause on this, but I'll have time again
 * Coaching: n/a -- everyone was too busy with finals last week
----

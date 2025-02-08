@@ -1,8 +1,5 @@
 ---
-date: 2023-09-10
 title: "Im Always Confused And Thats Not Really A Bad Thing"
-tags:
-  - journal
 ---
 
 Another wonderful week here in beautiful Mexico City. I am doing great and simultaneously feeling scatterbrained -- this tends to happen when I get overly excited and commit to too many things. I had an [obvious] realization that I am happy and stable mentally -- BUT, when I abuse my sleep schedule, I put myself in bad mental states. This is to note that my "rough days" are only rough because I did not sleep well -- not because I'm chronically sad, depressed, or whatever else. So once again, sleep is my most important thing. Unfortunately, Mexican Independence Day is this week, so I'm mulling over how to balance taking part in the most important holiday here while also not staying out late.
@@ -27,4 +24,3 @@ I'm super proud of myself for being able to communicate my feelings and relation
 ## Reflection on Marriage Thoughts from Previous Post
 
 I have a hard time reminding myself that I have a whole life ahead of me at 29 years old (when sometimes I feel very late to things). I had a positive dream about my exwife a couple of nights ago that was really pleasant even though we don't talk at all now. I am still living in a confusing stage of my life albeit a fucking awesome stage with all my new change. I've been sharing that I was previously married on all my dates in a positive way, and the women have appreciated it. I can tell the experience has made me a better man even though it was terrible at times.
----

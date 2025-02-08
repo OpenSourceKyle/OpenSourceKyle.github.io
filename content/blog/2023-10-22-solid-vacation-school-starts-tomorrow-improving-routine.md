@@ -1,8 +1,5 @@
 ---
-date: 2023-10-22
 title: "Solid Vacation School Starts Tomorrow Improving Routine"
-tags:
-  - journal
 ---
 
 I got back from the beach Thursday, rested Friday, and went on an all day trip to the Mesoamerican ruins of Cacaxtla. I start back in school tomorrow. I have been in a pretty calm, relaxed state lately, and this has been great. I've enjoyed life more, slept better, and overall had a wonderful experience. I do need to tweak a couple of things in my routine (exercise and better meal choices), and I look forward to having a schedule again to help me with this. I have thought a lot of my goals, and instead attempting a million things, I am going to focus on 4 main goals for the short-term -- having a GF has helped me take the pressure off some of the dating, sex, and emotional things that I normally feel. I am going to take advantage of this to push hard again on the goals (TLDR: I don't want to get fat and lazy again in this relationship like I tend to do).
@@ -49,4 +46,3 @@ Maybe a bit odd to plan the end of my current relationship, but I know it will e
 * The second (who always texted me hearts and messages about love and kisses) ignored me and unfollowed me off IG. I was a bit more upset/irritated that she couldn't just say something. I assume she was hurt too, but this was a good experience for me to see how she handled adversity. She had been "too busy" to see me the last couple of weeks, so I think we both naturally had lost interest. She is a very sweet person, but she has a drinking and [weed] smoking problem, so I appreciate not having the bad influence anymore in my life.
 
 **I suppose that unsurprisingly even though I was honest and upfront about open, non-exclusive dating, these women still have the right to end it with me whenever they felt uncomfortable or whatever as I did with them (tho I guess they had the bigger balls to end it whereas I was just "open and honest" about the situation but not that I had lost interest in them). I just had this realization while typing -- solid**---
----

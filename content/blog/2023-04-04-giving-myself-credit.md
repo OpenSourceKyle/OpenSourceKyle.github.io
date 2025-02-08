@@ -1,8 +1,5 @@
 ---
 title: "Giving Myself Credit"
-date: 2023-04-04
-tags:
-  - journal
 ---
 
 I do not believe that I have done anything publicly noteworthy, but I also know that I have a hard time giving myself some credit. This post will mostly revolve around taking a moment to brag about myself within the last few weeks. I am on a good trajectory, and taking time to reflect on my successes can only motivate me further. I may or may not have mentioned some of these already, but I will list all the ones that I have been holding onto.
@@ -38,4 +35,3 @@ I do not believe that I have done anything publicly noteworthy, but I also know 
 Reading my huge list of achievements over the last 2 months-ish makes me feel great. I am also pretty sure that I am autistic** or something with the level of writing that I enjoy doing sometimes.
 
 ** not really but damn I write a lot
----

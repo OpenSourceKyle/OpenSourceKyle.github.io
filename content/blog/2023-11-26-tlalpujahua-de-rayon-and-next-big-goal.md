@@ -1,8 +1,5 @@
 ---
-date: 2023-11-26
 title: "Tlalpujahua De Rayon And Next Big Goal"
-tags:
-  - journal
 ---
 
 Another great week. Some stories and reflections, but it'll save that for below. I have been thinking on what I *need* given the great changes of my last in the past year as well as in the near term future: mental resiliency. Now that buzzword sounds wonderful and all, but what does it really mean for me? More on that below as well
@@ -44,4 +41,3 @@ I think a lot of it boils down to the weird white people hippy spirituality that
 Increased charisma, stability (or mitigating instability), be the better man (ego), comfort with the discomfort of my future --> examining my emotions/reaction to the cause
 
 As always, this sick advice serves me well: **giving myself permission to experiment, suck, and be imperfect coupled with that self-love everyone always talks about**
----

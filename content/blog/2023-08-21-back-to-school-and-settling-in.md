@@ -1,8 +1,5 @@
 ---
-date: 2023-08-21
 title: "Back To School And Settling In"
-tags:
-  - journal
 ---
 
 I've walked around CDMX more. I checked out Polanco, and I'm glad I did -- I didn't like it either. It's nice (very expensive -- yes even with the currency conversion), but not really immersive since there's more expats there. If I took classes there, I would have missed out on the cool culture events the university does (e.g. biweekly salsa, celebrations, workshops, etc.). The streets look nice yet sterile and hardly anyone was walking around. Finished registration today and moving to my permanent housing later this week. I'm a full-blown student with all the benefits; classes are 20hr/wk Spanish + 4hr/wk salsa classes.
@@ -22,4 +19,3 @@ I've walked around CDMX more. I checked out Polanco, and I'm glad I did -- I did
 ## Mentality
 
 I feel super blessed to be here. I will probably continue to be overwhelmed for a while. It is incredibly beautiful (even the ugly parts), the food is great, people wonderful, and all that other crap. For me, CDMX has everything that I need within walking distance, and I'll be living right next to campus. Here's to becoming fluent and hopefully bringing some pinche gringo light to peoples' lives
----

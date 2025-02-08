@@ -1,8 +1,5 @@
 ---
 title: "Worst Mood Swing"
-date: 2024-06-13
-tags:
-  - journal
 ---
 
 **Note: This will be a little bit of rambling thoughts and just "getting them out there" over a recent bad mood swing**
@@ -20,4 +17,3 @@ The goal isn't to "cure" these sensations, but rather know that we have the choi
 
 I don't feel lost, lonely, or a failure today. I feel calm, tired, and content. And regardless, those things that I feel are not who I am.
 That said, I am feeling more and more ready to work on something bigger. That'll be a post for another day, but I've taken some actions and scheduled more time to do this. I'll write on that later.
----

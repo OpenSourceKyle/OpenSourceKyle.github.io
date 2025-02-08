@@ -1,8 +1,5 @@
 ---
 title: "Hot And Crazy Date And Good Blazed Thoughts"
-date: 2023-06-16
-tags:
-  - journal
 ---
 
 I had my date with the hot [crazy] emo/bimbo MILF yesterday. No W -- TLDR; she has herpes and refuses to have sex on the first date without having that convo (she didn't tell me until I walked her to her car). On the one hand, I appreciate it; on the other hand, IDGAF -- would've def smashed. She's super bratty, libtarded, kinky, funny, etc... honestly probably too much for me to handle, but... this feels like a second chance in a lot of ways. I know that I can grow a lot as a dominant, confident man being around someone like this. On the flip side, she will probably ruin my life without strong boundaries on my end.
@@ -50,4 +47,3 @@ Healing slowly... thumb stiff as fuck. It's almost scabbed over and not leaking 
 ## Exercise and Guitar
 
 ...are definitely suffering, but I won't beat myself up over them much. I need to heal and this shit it out of my control. Gets me excited to get back to my shit, and once again, be grateful for the kickass things that I do have in my life.
----

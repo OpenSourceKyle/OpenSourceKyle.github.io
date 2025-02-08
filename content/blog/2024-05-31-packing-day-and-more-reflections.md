@@ -1,8 +1,5 @@
 ---
 title: "Packing Day And More Reflections"
-date: 2024-05-31
-tags:
-  - journal
 ---
 
 Kepedo hermanos, yesterday I had another wonderful day -- went out to the big park, read a lot, and met up with the ladyfriend afterwards.
@@ -22,4 +19,3 @@ She kept telling be yesterday how healthy she feels this is, how much she has le
 It blows my mind how honest I can be and break the fourth wall at times with here, and we only keep growing closer. I feel this experience is countering a lot of unhelpful ideas I previously had like: I can't be completely honest/upfront/vulnerable with a woman -- she'll only hurt me or take advantage of me, I can't tell her I'm feeling needy, hurt, sensitive, etc. -- she'll think less of me. I think much of this boils down to how comfortable I am with myself -- I care less in how she judges me and care more in how I judge (or love rather!) myself.
 
 I know I am becoming better and better -- and I'm excited to meet more wonderful ladies to add to my life. Being on the same team and adding a lot of value to my life have been great. Ok, my rant there might have been a little redundant at times, but hey, I like to get these thoughts out. I think I'm going to voice journal to clean these up a little.---
----

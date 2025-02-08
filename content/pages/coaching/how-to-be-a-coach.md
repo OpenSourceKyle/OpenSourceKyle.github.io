@@ -1,9 +1,9 @@
 ---
 title: How to be a Coach
+date: 2024-10-27
 tags:
   - howto
   - coaching
-date: 2024-10-27
 image: /images/pages/coaching.jpg
 image_caption: Generated from DALLE
 ---

@@ -1,10 +1,9 @@
 ---
 title: "How You Can Get Into BDSM Too"
+date: 2025-02-05
 tags:
   - bdsm
-  - test
   - howto
-date: 2025-02-05
 image: /images/pages/charlesdeluvio-DnVGMEzeDus-unsplash.jpg
 image_caption: "@charlesdeluvio on Unsplash"
 ---

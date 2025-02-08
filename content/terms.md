@@ -1,10 +1,10 @@
 ---
 title: Terms of Service
-date: 2025-02-06
-draft: false
 ---
 
-**Terms of Service**
+# Terms of Service
+
+**Effective Date:** 2025-02-06
 
 By accessing this website, you agree to comply with and be bound by these Terms of Service.
 

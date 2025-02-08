@@ -5,8 +5,13 @@ theme = "hugo-opensourcekyle-theme"
 
 [params]
   backgroundImage = "/images/galaxy.jpg"
+  wordsPerMinute = 150  # Adjust this number to change reading speed estimate
   profileImage = "/images/myface.jpg"
   logo = "/images/logo/logo_head.png"  # Path to your logo image
+  logoWidth = "1200"  # Recommended width for social media previews
+  logoHeight = "630"  # Recommended height for social media previews
+  logoAlt = "OpenSourceKyle Logo"  # Alt text for accessibility and SEO
+  description = "Open Source Kyle - Life is one big experiment"
   linktreeUrl = "https://linktr.ee/OpenSourceKyle"
   linktreeLogo = "/images/linktree_logo.png"  # Path relative to static folder
   pagesToShow = 6
@@ -19,6 +24,9 @@ theme = "hugo-opensourcekyle-theme"
   footerLinks = [
     { text = "Privacy Policy", url = "/privacy" },
     { text = "Terms of Service", url = "/terms" },
+    { text = "RSS", url = "/index.xml" },
+    { text = "Sitemap (Human)", url = "/sitemap" },
+    { text = "Sitemap (XML)", url = "/sitemap.xml" },
   ]
   footerText = "Kyle. CC BY-NC 4.0. Some rights reserved."
   footerLink = "https://creativecommons.org/licenses/by-nc/4.0/"
@@ -48,3 +56,8 @@ theme = "hugo-opensourcekyle-theme"
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"

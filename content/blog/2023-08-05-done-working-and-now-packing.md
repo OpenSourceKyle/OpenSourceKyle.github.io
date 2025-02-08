@@ -1,8 +1,5 @@
 ---
 title: "Done Working And Now Packing"
-date: 2023-08-05
-tags:
-  - journal
 ---
 
 Last day of bartending yesterday and received no hours for my computer job this month. I move in 1.5 weeks. **Next mission: chill with my friends & empty my apartment**
@@ -21,4 +18,3 @@ Last day of bartending yesterday and received no hours for my computer job this 
 * Mentally, feeling sharp, confident, and full of vigor. Not every day is perfect, but WAY WAY better
 * Finished my 6-wk insomnia CBT... sleep is a lot better, and I FEEL a lot better -- still working to improve this
 * About to die from excitement for my new life chapter, friends, ladies, knowledge, and experiences en México (and LatAm)
----

@@ -1,8 +1,5 @@
 ---
 title: "Recovering From Dog Attack And Injury With A Solid Weekend"
-date: 2023-06-11
-tags:
-  - journal
 ---
 
 **I am super fortunate** that I called up a couple of my buddies and hung out with them the entire weekend since I was no longer able to work. Instead of sitting around sad, I had some good meals, went to an improv theater, went to a mini art district, chilled/slept well, had many laughs, and overall got a lot of much needed rest. I was even able to get my neighbor to get me some peroxide and ointment last minute while I was changing out my bandage. Called a best friend and shot the shit with him a while.
@@ -14,4 +11,3 @@ Related, I'll be taking time to revamp somethings. I won't be able to do my norm
 I did create a FetLife account and took quite some time to intentionally write up about myself and my desires. Sounds funny, but I took it sort of as a journaling exercise to ask myself what I like from a sexual standpoint. I've never really done this, and I will keep working on it to further find out more about myself. I joined some online groups, and posted some messages... just an experiment, so we'll see how far I go with that.
 
 I think this is a blessing in disguise, but I will figure out my next steps later.
----

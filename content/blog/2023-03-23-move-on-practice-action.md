@@ -1,8 +1,5 @@
 ---
-date: 2023-03-23
 title: "Move On Practice Action"
-tags:
-  - journal
 ---
 
 I slept and felt a lot better after Monday -- Monday was a rough but necessary day. I have been able to workout and run more like I enjoy. I am slowly able to do handstands (I mostly can only do walking handstands, but I can sometimes do a handstand hold when my muscles are fresh!), and most of my other weighted calisthenics are improving, too. However, I realized that my diet is a big area of growth for me. Food can be a compulsion of mine. I will start looking for a diet coach (and I messaged a best friend that is fitness/diet coach). Money might not be right yet for a coach, but in the very near future it should be.
@@ -18,4 +15,3 @@ I realized that I am playing into the Nice Guy frame again -- we already talked 
 I need to give myself credit -- I can absolutely be a hopeless romantic if I put myself in the terrible situation to do so. This feels great for maybe a day, and then becomes some self-pitying, sappy emotions. I need to rip my own bandaid off when it comes to this stuff.
 
 Tangentially related, I was at the laundromat folding my clothes, and a cute girl walked my way, looked at me, looked down, realized I saw her, and then looked back up and smiled at me before going to her car. Although small, I have noticed that I am getting more attention than ever before. She did not have to give me a second look (and a SMILE!), but she did. My buddy told me that I am putting off those vibes. Well, GOOD. I am not done yet, but I am starting to get there
----

@@ -1,8 +1,5 @@
 ---
-date: 2023-03-30
 title: "Out With The Old In With The Great"
-tags:
-  - journal
 ---
 
 The title is maybe more serious sounding that this post will be -- I have had a wonderful couple of days.
@@ -12,7 +9,6 @@ The title is maybe more serious sounding that this post will be -- I have had a 
 * I bought some more lifestyle stuff -- more camera equipment, parallettes for my handstands, etc.
 * My workouts are killer. I can do hold handstands for a few seconds now -- parallettes will help with strength and not wearing out my wrists.
 * According to my smartwatch, I walked and ran a total of 11.4 miles today. My daily average of walking/running is 6-8 miles... I cannot keep weight on me (a good thing for now -- I have a little pudge left to lose).
-
 
 # Cultivating the Creative:
 
@@ -39,4 +35,3 @@ These are not really goals but more likely daily/weekly habits that I have been 
 * give less fucks -- I feel so unafraid of the world and my future. Coming from a small town [of a few thousand], big cities have always scared me. Now, I live very close to the downtown (within walking/biking distance) of a very large city, and I love it. Everyone is so friendly [at least to me], and I have had no issues. Even if I eventually do have issues, I will not let it shake me. I am so fucking happy to be where I am at right now. I am not done -- not finished -- and not perfect, but damn, I have been doing great. I also have been less afraid of asserting myself or being confident around women. Most only need that one time you check them on their shit, and their demeanor and treatment positively changes (i.e. one ordered me to "dance" at a club and I said "no, you dance" and she did; dumb yet simple, but after that she warmed up to me).
 
 A month or two ago, I had a fear that I would be living alone, sad, depressed, and have absolutely no idea what to do with myself aside from drugs or spiraling. I am happy to say that so far, I am living quite the opposite. I hope one day to serve as an example for others.
----

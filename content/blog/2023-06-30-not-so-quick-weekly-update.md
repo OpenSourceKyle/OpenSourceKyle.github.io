@@ -1,8 +1,5 @@
 ---
 title: "Not So Quick Weekly Update"
-date: 2023-06-30
-tags:
-  - journal
 ---
 
 Overall, doing a lot better. I've been sleeping [and dreaming] better [and more] lately. I believe my ex is on vacation out of the country, so divorce process is on pause until she gets back in a week. I'm less upset about the wait time... it will end when it ends even if it's holding up my next actions.
@@ -46,4 +43,3 @@ I grew up modest in a trailer and on government bennies, but I have always had s
 Related, I had an argument with my ex one time about trying to do some roleplaying, and I wanted her to dress more trashy -- think white trailer trash tank top, short shorts, shitty makeup, etc. OFC she was offended by it because she was trailer trash just like me, but she acted indignant about it (and shamed the fuck out of me about being "open" with my fantasy).
 
 I could stand to learn to be less of a pussy. I don't care to be the common archetype here of rich successful cleaned up fuck boy or whatever. I'd rather be the crazy, abrasive white trash that does whatever the hell I want, without apology, and live the life that I've put on hold.---
----

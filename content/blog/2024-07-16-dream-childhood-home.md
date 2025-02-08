@@ -1,6 +1,5 @@
 ---
 title: "Dream Childhood Home"
-date: 2024-07-16
 tags: ["journal"]
 ---
 Alright, so I had another dream last night. I don’t remember the details quite as clearly, but I think that’s part of it. I had a dream that I was back in my childhood home, and I’m kind of running around. The house feels a lot emptier in my dream than it did in real life, where it was just full of stuff. But in the dream, it’s fairly empty.
@@ -49,4 +48,3 @@ The dream reinforces that while you may not feel a strong desire to alter your c
 I have already tried many times to have deeper conversations and be vulnerable. I feel that none of that was rewarded nor met with the kind of reaction I wanted -- general love and support not criticism. Accepting that I cannot nor want to change them, I realized they do not add any positive value to my life.
 
 I understand at this point of my life that I want family, but I do not want my own family. I feel better without them. Maybe one day I will try to talk to them.
----

@@ -1,20 +1,23 @@
 ---
 title: Privacy Policy
-date: 2025-02-06
-draft: false
 ---
 
-**Privacy Policy**
+# Privacy Policy
 
-**1. Introduction** Welcome to OpenSourceKyle ("we," "our," "us"). We are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your information when you visit our website opensourcekyle.com.
+**Effective Date:** 2025-02-06
 
-**2. Information We Collect**
+## 1. Introduction
+
+Welcome to OpenSourceKyle ("we," "our," "us"). We are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your information when you visit our website opensourcekyle.com.
+
+## 2. Information We Collect
 
 - **Personal Information:** When you interact with our website, we may collect personal details such as your name, email address, and contact information when voluntarily provided.
 - **Usage Data:** We automatically collect information on how you interact with our site, including your IP address, browser type, pages visited, and time spent on our site.
 - **Cookies & Tracking Technologies:** We use cookies and similar tracking technologies to enhance your experience. You can manage cookie preferences through your browser settings.
 
-**3. How We Use Your Information**
+## 3. How We Use Your Information
+
 We may use the information collected for purposes such as:
 
 - Providing and maintaining our website

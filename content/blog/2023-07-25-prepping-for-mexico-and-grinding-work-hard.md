@@ -1,8 +1,5 @@
 ---
 title: "Prepping For Mexico And Grinding Work Hard"
-date: 2023-07-25
-tags:
-  - journal
 ---
 
 With Mexico less than a month away, I am focusing my prep on that. I don't care to give much time to friends... most are distant, "busy", responsible, or lame to be honest. I am blessed to have them, but I'm also glad that we don't need to hang out all the time (and even when I'm leaving). The real gangstas make time for me (and come to me!).
@@ -25,4 +22,3 @@ I'm logging today since I'll be working the next few days (few days are all-day,
 I've been angrier lately still but no recent outbursts like when I argued with that cop. I've been more proud of my assertive and open-communication (i.e. "I don't like that" or "No, I won't go out and party you guys stay up too late", etc.). Small steps, but I feel like I'm shedding my nice guy attitude that plagued me for a lot of my life.
 
 I've been dreaming A LOT -- some nights multiple dreams. I think my body/soul/brain/whatever knows I'm leaving my old life here, and it's consolidating a lot my memories from this period of my life. I had a negative dream about my ex, but it helped me realize even more why I'm better off without her. I can't say I've missed her beyond the first month after separating.
----

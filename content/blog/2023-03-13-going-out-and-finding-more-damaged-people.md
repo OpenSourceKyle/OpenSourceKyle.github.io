@@ -1,8 +1,5 @@
 ---
 title: "Going Out And Finding More Damaged People"
-date: 2023-03-13
-tags:
-  - journal
 ---
 
 I do not know how I attract, find, or look for the the damaged people, but damn, this has always been a super power of mine. I went to the local neighborhood bar, and unsurprisingly it was fairly dead for a late Sunday night. Only one other person at the bar, and he was staring at his phone. The bartenders were friendly enough, but I could sense they were not really present **<-- this is a pet peeve of mine. I do it too and understand not everyone exists to be present [for me], but I really do not like the feeling when someone, even a stranger, is distant. Maybe I should ask them what is on their mind instead of being perturbed by it. I know I am distant when I am thinking or hurting sometimes, too.**
@@ -25,4 +22,3 @@ I believe a lot of this is a pattern and a self-worth issue. Coming from my earl
 2 toxic relationships in 1 weekend. That is a lot to find. I also think it is a beautiful thing of life. Life is not always pretty, positive, or perfect, and I hope that those people receive the healing and peace that they need. I also need to give that to myself.
 
 Going forward, I will not be afraid. I do not want to be guarded either, but maybe I should try being a little more guarded for my own sake. I am obviously putting off some frame that attracts me to these types and reinforces (or at least gets them to tell me) whatever terrible things that they have been through. That alone is a heavy burden to share.
----

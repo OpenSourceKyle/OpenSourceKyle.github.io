@@ -1,8 +1,5 @@
 ---
 title: "Review Of Feedback And Actions"
-date: 2023-04-25
-tags:
-  - journal
 ---
 
 #### Soliciting feedback for sleep hygiene:
@@ -22,7 +19,6 @@ That being said, I am going to make an attempt to work on the areas that feed in
 * Diet: keep eating well and phase out my current junk food -- I eat probably a 50/50 mix of healthier options (raw apples, raw carrots, protein cereal, strawberry protein shake, homemade meals like chili or fajiatas, etc.) vs. processed stuff (hot pocket, frozen TV dinner, etc.) I will slowly eat up my junk food storage in my freezer and not replace it
 * Journaling: I have "slacked" off on this. I will try writing more here again, and in my notebook. I really enjoy it, and I can usually feel when I am consistent with it
 * Meditation: Again, I was doing it as needed, but I think I should make this a daily thing to build the practice and make sure that I am getting out of my head
-
 
 All that said, I feel really good and positive over the past few days. Although my journal can highlight my struggles and negativity sometimes, I also want to acknowledge and be grateful for what I do have. Most days, I feel incredibly lucked and blessed.
 
@@ -61,4 +57,3 @@ I am going to do an analysis of sorts of my sleep hygiene to help myself out her
 
 I AM READY FOR ANOTHER KICKASS WEEK
 Life is great, and I feel great.
----

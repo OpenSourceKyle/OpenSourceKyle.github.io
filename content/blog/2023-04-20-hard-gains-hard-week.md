@@ -1,8 +1,5 @@
 ---
 title: "Hard Gains Hard Week"
-date: 2023-04-20
-tags:
-  - journal
 ---
 
 Goal: Less words equals greater action **<-- I will break this goal since I need to "vent" out... and I have not written in a few days**
@@ -32,4 +29,3 @@ I enjoy the positive attention like many other people do.
 # Paused:
 
 * Dance: I am pausing this creative endeavor indefinitely until my schedule clears up. I just do not have the time, brain bandwidth, or interest at the moment to work this in. I also need more time to myself anyway.
----

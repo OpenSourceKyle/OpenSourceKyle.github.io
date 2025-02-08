@@ -1,8 +1,5 @@
 ---
 title: "Day Of Rest"
-date: 2023-04-30
-tags:
-  - journal
 ---
 
 I got taken off the work schedule today, so I am thankful for that. Since it's a slow day at the restaurant, they're letting a server run the bar (he bartends 1/month, so good luck to him).
@@ -47,4 +44,3 @@ Apparently, I never realized "how white" I am LOL. I was working out while doing
 ---
 
 Keep killing it out there boys. We'll make it with enough time and effort. Everyday is a gift.
----

@@ -1,8 +1,5 @@
 ---
 title: "Healing From My Divorce"
-date: 2024-03-05
-tags:
-  - journal
 ---
 
 I realized I've had quite a few dreams lately about my ex, and they're slowly shifting more **positively** than before. Even though I believe it's best we don't see each other, I realized as well how much I've burdened myself with her and the last year. Was all of our time really that bad? If so, why did I stay? *Hint: It wasn't as bad as I made it.* Sure, there were parts I'd rather not re-live, but I let the negativity of the divorce rewrite so many good or neutral memories. Being with my ladyfriend, who is really just her more positive and Mexican counterpart**, helps me each time realize the good of what we had and what I do miss. I think that's it -- I was afraid to say I missed certain parts of my ex that I rewrote (emotionally) so many memories. It wasn't intentional but in protecting myself from that pain... I really just gave myself more

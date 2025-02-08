@@ -3,19 +3,13 @@ languageCode = "en-us"
 title = "OpenSourceKyle"
 theme = "hugo-opensourcekyle-theme"
 
-[params.colors]
-  headerText = "#ffffff"  # Medium gray for text
-  background = "#121212"  # Dark background
-  sectionBackground = "#1f1f1f"  # Slightly lighter dark gray
-  link = "#0AFF00"  # Light gray for links
-  linkHover = "#f900ed"  # Darker gray for hover
-  paragraphText = "#b2b2b2"  # Light gray for paragraphs
-  socialButtonBackground = "#2a2a2a" # Lighter dark gray for social button
-
 [params]
   backgroundImage = "/images/galaxy.jpg"
   profileImage = "/images/myface.jpg"
+  logo = "/images/logo/logo_head.png"  # Path to your logo image
   linktreeUrl = "https://linktr.ee/OpenSourceKyle"
+  linktreeLogo = "/images/linktree_logo.png"  # Path relative to static folder
+  pagesToShow = 6
   headerLinks = [
     { text = "About", url = "/about/" },
     { text = "Pages", url = "/pages/" },
@@ -28,6 +22,18 @@ theme = "hugo-opensourcekyle-theme"
   ]
   footerText = "Kyle. CC BY-NC 4.0. Some rights reserved."
   footerLink = "https://creativecommons.org/licenses/by-nc/4.0/"
+
+[params.colors]
+  headerText = "#ffffff"  # Medium gray for text
+  background = "#121212"  # Dark background
+  sectionBackground = "#1f1f1f"  # Slightly lighter dark gray
+  link = "#0AFF00"  # Light gray for links
+  linkHover = "#f900ed"  # Darker gray for hover
+  paragraphText = "#b2b2b2"  # Light gray for paragraphs
+  socialButtonBackground = "#2a2a2a" # Lighter dark gray for social button
+
+[params.theme]
+  transparency = "0.9"  # Value between 0 and 1
 
 [frontmatter]
   date = ["date", "publishDate", ":filename", ":default"]

@@ -1,8 +1,5 @@
 ---
-date: 2023-06-04
 title: "Date Update Analysis Insights Questions For Myself"
-tags:
-  - journal
 ---
 
 Mostly busy with bartending, date earlier today, and bartending again tomorrow.
@@ -46,4 +43,3 @@ I noticed that I sorta feel "in love" after tonight, which made me realize... th
 Welp, I need rest. I'm covered in [her] glitter, I can still smell her perfume, and I'm ready to go the fuck to sleep. I feel very blessed that barely a month really getting into the dating apps, I found someone I'd consider (keyword: consider) a relationship with barring any serious red flags. I don't even necessarily think we'd work out long-term, but I'm sure we'd have a lot of fun, she's hot/cute, and man why not give it a go?
 
 Rest well boys and keep at it
----

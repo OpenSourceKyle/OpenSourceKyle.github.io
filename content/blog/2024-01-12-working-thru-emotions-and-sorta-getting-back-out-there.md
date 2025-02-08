@@ -1,8 +1,5 @@
 ---
 title: "Working Thru Emotions And Sorta Getting Back Out There"
-date: 2024-01-12
-tags:
-  - journal
 ---
 
 ## Date?
@@ -26,4 +23,3 @@ I'm going to a Korean church with both of them Sunday where I'm apparently a loc
 
 All that said, I'm living in the Twilight Zone and I love it. My emotions and mindset are healthier, and I'm having the strangest yet dopest interactions because of it.
 I've been listening to more podcasts, and I think "authenticity" is going to be my style going forward. Let's see how far it gets me
----

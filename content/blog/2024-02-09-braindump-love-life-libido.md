@@ -1,8 +1,5 @@
 ---
-date: 2024-02-09
 title: "Braindump Love Life Libido"
-tags:
-  - journal
 ---
 
 **Braindump Post: emptying some of the recent thoughts I've had**
@@ -74,5 +71,3 @@ I feel a lot better. I'll keep my re-framing quick, but it's easy to get caught 
 * My biggest "problems" mostly revolve around what I wanna be when I grow up... lol I literally have the dream life now and forever
 * I'm continually working to self-improved, I have friends IRL and far away who are into the same stuff, and we push each other to be better
 * I truly am blessed beyond belief and I thank my friends, family, luck, universe, God, and everyone else for what I have
-
----

@@ -1,8 +1,5 @@
 ---
 title: "The Turning Point Of My Life"
-date: 2023-03-12
-tags:
-  - journal
 ---
 
 **Note: this was written a month and a half after separating from my ex-spouse. I was going out during a low point of my life to make sure I did not isolate myself as I sometimes tend to do in low moods**
@@ -37,4 +34,3 @@ That is all for now. Thanks for anyone reading.
 EDIT: Right after I wrote this, I realized that I am not done. This will be short.
 
 Going from all that experience of Friday, I refuse to be afraid of the world and people. I am going out tonight (just for a couple of hours -- probably back to the same bar) to just talk to some people. I wanted to write that down to hold myself accountable. I need to go out every day (or maybe most days). More cool dudebros and cute girls are out there waiting for me -- and I am ready to give them a good time.
----

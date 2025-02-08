@@ -1,8 +1,5 @@
 ---
 title: "Big Accomplishments"
-date: 2024-05-26
-tags:
-  - journal
 ---
 
 What's up dudes. It's been some time... I want to take a moment to highlight some accomplishments and quick reflection.
@@ -29,4 +26,3 @@ I've been posting here for the last year and half -- sometimes very regimented a
 * completing more admin/governmental tasks to smooth out my life here
 * get a part-time job to not run out of money
 * enjoy the hell out of summer and continue learning about Mexico through my friends and experiences
----

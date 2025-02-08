@@ -1,8 +1,5 @@
 ---
 title: "El Gringo Mas Mexicano"
-date: 2024-05-26
-tags:
-  - journal
 ---
 
 I had a wonderful day yesterday with my Mexican friends -- I say that to recognize that I'm breaking out of my foreigner bubble little by little. My current ladyfriend and all my best friends here in Mexico are no longer other foreigners, but local Mexicans. For me, that is huge to continue acclimating to my new life here. We keep talking about more complex topics all in Spanish -- sometimes, it's hard to believe it's me living through all this. AND it's good for me to recognize this -- to baby step myself mentally that 1 am growing here.
@@ -16,4 +13,3 @@ Normally, the topic of conversations when they see me are always the same (it's 
 My friend gave me a huge compliment too -- although I VERY MUCH do not "blend in" here in general and especially the barrio -- he told me I act like a Mexican. I asked him how so and he said I get around without looking a dumbass tourist or scared or whatever else. A bit difficult to explain behaviorally how I'm different, but I get it. I FEEL less fear and spotlight-ness when getting around more. I still have some negative thoughts (like: "What do they think about me?", "Why do they look at me like that?", "What if I get robbed or attacked?", etc.) but less of them.... I feel more comfortable being here, and I catch myself in these thoughts and question them -- why am I projecting my own racism/insecurity onto everyone else? what if I get robbed? -- oh well, I'l just get a new phone. what if I die? well, I've lived more now than I ever have before -- I wouldn't regret a thing.
 
 Shoutout to Byron Katie for helping me with these thoughts. Shoutout to myself for being more comfortable lately -- even when I don't feel the best. Shoutout to that big bald ginger in my life for helping through this process (you know who you are). The only unfortunate thing is I think we don't have water today so my toilet won't flush. I ate a lot of habanero yesterday, so I think I'm going to have to find some poor local cafe and destroy their bathroom. Pardon my french---
----

@@ -1,8 +1,5 @@
 ---
 title: "Meeting Healthier People For Once"
-date: 2023-03-19
-tags:
-  - journal
 ---
 
 I went out to a bar crawl last night and had a fun time. I was feeling sad for myself again, but as always, I had to remind myself that every time that I go out -- being open and friendly -- I always have a good time. Last night was the best night that I have had in while.
@@ -20,4 +17,3 @@ We ended up talking the whole night (4-5 hrs). She followed me to each subsequen
 Anyways, we stayed out until the bars closed, and I walked her back to her truck. She asked how I was getting home, and I unabashedly asked for a ride since it was only a mile away (albeit cold). She took me back, we hugged twice, and I got her number with a promise to go dancing with me this week. I do not have any expectations of her, and from my previous experiences, I am not hurting so much for her to like or validate me. She might have been going out for friends or attention, but she is a kind, caring, and driven soul. More than anything, I felt like I talked to a real, present, and attractive lady. This felt more natural and gives me more hope for my future interactions with other ladies. Maybe the man (me) really does set the frame, and the woman responds appropriately. This was great experience for me to trust myself and not worry so much getting out there. And I appreciate her so much for helping me live a night without sadness.
 
 I feel like I am taking steps in the right direction. I might could even have done more since we were "vibing" pretty well, but again, giving myself permission to not be perfect, I felt like I did really good. Let's hope she dances with me -- I want these ladies to know that I can be just as fun and exciting as I am open and vulnerable.
----

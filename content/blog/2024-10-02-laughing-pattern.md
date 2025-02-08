@@ -1,9 +1,5 @@
 ---
 title: "Recognizing My Laughing Reaction Pattern"
-date: 2024-10-02
-tags:
-  - journal
-  - voice
 ---
 
 I want to share a voice journal reflection about a behavioral pattern that has affected me my whole life. It’s something that feels almost subconscious—a reaction that’s hard to break. To be honest, I don’t know if I can ever completely change it, but acknowledging it feels like an important step toward mitigating its effects. Let me explain.

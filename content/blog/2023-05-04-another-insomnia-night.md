@@ -1,8 +1,5 @@
 ---
 title: "Another Insomnia Night"
-date: 2023-05-04
-tags:
-  - journal
 ---
 
 I'm currently having another night of insomnia. On the one hand, I feel confused. I slept from 12am-3am and was unable to go back to sleep after that. I read, went on walk, and all that to no avail. I haven't had caffeine in days, so I know it's not that.
@@ -33,4 +30,3 @@ Although insomnia is suboptimal, I ain't letting it stop me. I'm gonna kill toda
 Cultivate the mindset. Sharpen the body. Take a moment of rest when necessary but don't stop.
 
 Keep killing it dudes
----

@@ -1,8 +1,5 @@
 ---
 title: "Posting Less"
-date: 2023-07-06
-tags:
-  - journal
 ---
 
 I've been reading/thinking/journaling more and trying to post here less (temporarily). This has been good. I started a private Instagram to vlog my daily actions, video some guitar practice/technique, and will eventually add my fitness form/running videos there. This IG is 100% for me only to show progress to myself in a simple way.
@@ -31,4 +28,3 @@ Working yesterday and today for computer job. Bartending Sunday and Monday. -> M
 Gymnastics-wise, I've been taking time to practice technique more instead of reps. I started videoing my routine to improve my form, which it has been needing. I'm getting better at doing muscle ups with less momentum and working to be nicer on my joints, especially my shoulders and elbows.
 Running-wise, I ran 2 miles in under 15 mins (7:27min/mi pace) on Tues... not bad in the heat here. Legs very sore, so of course I ran 2.5 miles yesterday also (but at a slow speed) in the hot heat.
 Exercise always has been and hopefully will be my drug of choice. I always feel better
----

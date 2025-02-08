@@ -1,8 +1,5 @@
 ---
-date: 2023-12-11
 title: "Aced Spanish Class Much Travel Fd And I Are Going Separate Ways"
-tags:
-  - journal
 ---
 
 Howdy all, I took a mini break and will be taking another one until the school year starts again in early January since I won't have my computer while traveling. I finished up my final exams, planned out some travel during my break, and have been talking with my GF about us breaking up (she goes back to her home country permanently). I threw my biggest house party yet (~50 people), got food poisoning again, and have met so many wonderful people.
@@ -16,5 +13,3 @@ I have some big plans for myself next year, but I am going to take this time to 
 * 2nd highest grade in my Spanish class - 95%
 * Spanish cert: B2 in Listening and Reading (prev. B1 in Listening and B2 in reading, so my listening improved a whole step! B2 > B1 btw)
 * I can mostly understand everything my roommate and landlord say LOL both talk with deep accents and a lot of slang
-
----

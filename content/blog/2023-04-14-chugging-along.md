@@ -1,8 +1,5 @@
 ---
 title: "Chugging Along"
-date: 2023-04-14
-tags:
-  - journal
 ---
 
 **Goal: Less words equals greater action**
@@ -23,4 +20,3 @@ No big points this go around -- still feeling good and kicking ass.
     * Walk/Paseos: 12.7 miles
     * Run/Carreras: 18.2 miles
     * Bike/Recorridos: 30.9 miles
----

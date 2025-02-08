@@ -1,8 +1,5 @@
 ---
-date: 2024-01-07
 title: "The Kyle Has Return And My Totally Original Eoy 2023 Review"
-tags:
-  - journal
 ---
 
 I made it back to Mexico somehow. Traveling in Latin/South America seems more dicey to me than other parts of the world, but hey, I'm probably full of shit. I had a blast and wouldn't trade it for the world. I went to Texas -> Medellin, Colombia -> Bogota, Colombia -> Antigua, Guatemala -> San Pedro, Guatemala. Shoutout to Medellin; it's a dope place.
@@ -28,4 +25,3 @@ I feel like my EOY will sound a bit like a broken record, but I hope to stop tal
 * Developed some level of creativity and artfulness with: photography, guitar, bartending, and dance
 * I'm considering myself fluent in Spanish: I've achieved a B2 level officially in listening and reading and have very little problems speaking to people. I'm still in school studying Spanish until summer, so I will only continue improving -- but that's mostly on autopilot given my schooling and my daily habits of practice
 * Traveled to more foreign countries and cities to learn more about the world and create a totally different mindset outside of the US fishbowl (mostly that nice things and money are overrated and shallow and my god it's beautiful [and burdensome] how much more culturally/socially and familial focused other parts of the world are...) it's beautiful to see a different side
----

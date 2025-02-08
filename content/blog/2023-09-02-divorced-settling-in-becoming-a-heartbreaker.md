@@ -1,8 +1,5 @@
 ---
-date: 2023-09-02
 title: "Divorced Settling In Becoming A Heartbreaker"
-tags:
-  - journal
 ---
 
 Solid week. Much energy and motion. Many new people and experiences. Not much rest. A lot of growth.
@@ -38,5 +35,3 @@ This is likely due to a difference in culture and me being the exotic gringo, bu
 I stop messaging girls that try to "lead me" (one would not follow my instructions to message me) or act non-compliant in general. I had one woman aggressively kiss me after I said bye and walked away. Another is telling me how much she likes me and sending me a bunch of hearts (no "I love you" but she called me "mi amor").
 
 Anyway, point being is that I am going to revamp my profile and responses to lessen whatever this is.
-
----

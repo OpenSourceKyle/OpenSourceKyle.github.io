@@ -1,8 +1,5 @@
 ---
 title: "Digging Myself Out Of The Hole"
-date: 2023-04-09
-tags:
-  - journal
 ---
 
 **Goal: Less words equals greater action**
@@ -23,4 +20,3 @@ With that in mind, I dug myself out of the hole. Today is another a day of actio
 * While biking around, I took pictures of some street art... will edit and post those to my Insta later
 * Even though I felt like shit yesterday, I went to salsa last night for another lesson. Last night was an intermediate lesson, and I did TERRIBLE. I felt low after that, but that motivated me to go to the weekly Thursday lessons... the studio really encouraged me to come (too many follows/girls not enough leads/dudes)
 * Giving myself my Sunday to prep for my week and rest... turning down hanging out with friends to prioritize myself
----

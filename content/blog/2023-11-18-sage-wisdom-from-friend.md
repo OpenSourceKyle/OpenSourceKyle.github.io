@@ -1,8 +1,5 @@
 ---
 title: "Sage Wisdom From Friend"
-date: 2023-11-18
-tags:
-  - journal
 ---
 
 This response was tailored to me from a questions I asked in DMs, but I believe that others could benefit. I also wanted to save it in my log instead of DMs, which I forget about.
@@ -52,4 +49,3 @@ And this interview with him is a really good high level summary of what he knows
 And this last link is to a book written for clinicians, by clinicians, about how to treat attachment issues in adults:
 
 * *Attachment Disturbances in Adults* by Daniel P. Brown, David S. Elliott---
----

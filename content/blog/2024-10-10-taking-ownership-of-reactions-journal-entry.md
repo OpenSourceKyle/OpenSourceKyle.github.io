@@ -1,14 +1,10 @@
 ---
 title: "Taking Ownership of my Reactions on the Street"
-date: 2024-10-10
-tags:
-  - journal
-  - voice
 ---
 
 Today, I had an interesting realization, though it's not exactly new. I've been carrying all these assumptions in my head about how strangers in the street are treating me. I start thinking things like, "Why are they looking at me like that? Why do they stare at me weird?" But the reality is, if I look at someone and say "Hola," almost every time—more often than even in the U.S.—I get a super positive response.
 
-This made me realize that the issue is in my head. The first step is admitting that the problem is mine. It's not about them; it's about how I'm reacting to the situation. Sure, it's a negative framing, but that's why it's a call to action. Negative things tend to push us to act. So, I have to recognize it's my issue, and taking ownership of it is the grace that helps me move forward. Just owning up to it is a positive reframe in itself. 
+This made me realize that the issue is in my head. The first step is admitting that the problem is mine. It's not about them; it's about how I'm reacting to the situation. Sure, it's a negative framing, but that's why it's a call to action. Negative things tend to push us to act. So, I have to recognize it's my issue, and taking ownership of it is the grace that helps me move forward. Just owning up to it is a positive reframe in itself.
 
 Beyond that, the next step is to take action. It feels good to take ownership and follow through with something simple, like just saying hello or giving a friendly nod. It's half the battle. If I'm not in a hurry, I could throw in a compliment, like "I like your clothes." It's all about stacking positive actions.
 

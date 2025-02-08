@@ -1,8 +1,5 @@
 ---
 title: "Grinding Out My Last Days At My Jobs"
-date: 2023-07-30
-tags:
-  - journal
 ---
 
 Trying to pass my short time left in the US with a lot of work. A lot to report, but I'll spare most of it. The big enchilada is waiting for me in Mexico
@@ -22,6 +19,4 @@ Trying to pass my short time left in the US with a lot of work. A lot to report,
 * Couple of co-workers (both women) said they were talking about me and how much they appreciate my "masculinity" <-- pretty sick and best compliment all week
 * Got into an argument with my manager last week (he's a cunt)... again, not necessarily "proud" of being angry and argumentative, but happy to continue standing up for myself. Will cultivate this more, but I won't go back to being a pushover
 
-
 I'm doing the work even when it feels like I'm not. **Onwards and upwards**
----

@@ -1,8 +1,5 @@
 ---
 title: "Feeling Great And Excited About Big Wins"
-date: 2024-05-20
-tags:
-  - journal
 ---
 
 What's up peeparonis. I've been sleeping better these last few days and have felt A LOT better: emotionally, mentally, physically, etc. I was a bit stressed/worried over the immigration stuff last week that has been at least a 2 month project (of reading, researching, traveling, documents, interviews, going to appointments, etc.). In the grand scheme of things, Mexico is an easier country to take care of these things, but navigating it all by myself, for the first time, and completely in Spanish was a lot. I am super proud of myself for doing it AND now I feel a lot better for having accomplished it (especially when many others hire facilitators/lawyers to do it for them).
@@ -25,7 +22,7 @@ Again idc if these things are true or if they're her beliefs -- I take it as dis
 
 Again, this was a great experience to remind me to not let pussy/love/whatever blind me from these things -- especially after having had to dealt with this from my exwife. There was a flower vender saying some similar xenophobic stuff to me yesterday while on my date (my date was shocked and more upset than me; I just laughed because it was borderline poetic what he said to me), so I suppose it'll be a part of my life here.
 
-For strangers, seems like laughing or shaking it off is the best strategy --I've been in arguments here before as well, and I would just rather not be like that. 
+For strangers, seems like laughing or shaking it off is the best strategy --I've been in arguments here before as well, and I would just rather not be like that.
 
 All that said, it only has made me stronger and more motivated to be the BEST MEXICAN GRINGO down here -- and plenty of people have told me the same (maybe I should start screenshotting the positive messages for my own motivation). It has also made me more empathetic to what other foreigners go through (and believe me, I'm going through *"nothing*" compared to the poor immigrants that go to the US or other groups throughout the history of the world).
 
@@ -34,4 +31,3 @@ I'm super blessed and man it's a totally different thing to read/think these thi
 **I am not a victim** -- am a lover of people and life. Anyways, thanks for your patience in reading all this whoever you are. Not making any of this political or whatever; just super interesting to have these experiences and live this life.
 
 Today is hot as fuck here in CDMX -- breaking a temp record, so I'm going to take it easy.---
----

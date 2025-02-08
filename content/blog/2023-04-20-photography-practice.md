@@ -1,8 +1,5 @@
 ---
 title: "Photography Practice"
-date: 2023-04-20
-tags:
-  - journal
 ---
 
 TL;DR: I am practicing photography of nature, friends, and myself. These particular pictures of me had no purpose other than to snag some of myself while I was taking photos of my buddy for his Tinder.
@@ -15,4 +12,3 @@ TL;DR: I am practicing photography of nature, friends, and myself. These particu
   * tattoos: not visible
   * piercings: gauged and ungauged ear lobes, eyebrow, lip ;; gauged septum: mostly retired (I don't wear it much)
   * shaved eyebrow slit: maximum badboi
----

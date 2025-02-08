@@ -1,8 +1,5 @@
 ---
 title: "Working On Healing"
-date: 2024-03-10
-tags:
-  - journal
 ---
 
 I've been working various different avenues on being more mentally resilient, and I've felt a lot better and emotional (insofar as letting myself feel those emotions healthily) lately.
@@ -147,4 +144,3 @@ Emotions: what purpose is it that I remember the negative the experiences?
 * GET ME THE LIFE I WANT TO LIVE: principles, who i want to be, how can i be that now?
 * How do I want to be treated and how I do want to treat others?
 LABELS (negative) are not helpful
----

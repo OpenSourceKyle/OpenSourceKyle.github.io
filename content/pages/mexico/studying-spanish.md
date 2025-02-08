@@ -1,9 +1,16 @@
 ---
-title: "My Spanish Learning Journey: Practical Tips and Reflections"
+title: "My Spanish Learning Journey"
 date: 2024-10-08
+tags:
+  - mexico
+  - spanish
+  - learning
+  - language
+image: /images/pages/studying_spanich.jpg
+image_caption: DALL-E thinks we studying Spanich
 ---
 
-My Spanish Learning Journey: Practical Tips and Reflections
+# My Spanish Learning Journey: Practical Tips and Reflections
 
 Learning Spanish has been one of the most rewarding parts of my experience living in Mexico. Before moving, I had tried a few different methods to get myself to a conversational level, and after arriving, I realized just how much further I still had to go. Here, I want to share some of the practical methods I used that helped me get better over time—methods that were realistic and fit into my busy life.
 
@@ -25,13 +32,13 @@ Another method I used that I found incredibly helpful was **daily listening prac
 
 ### Realism in Language Learning: No Quick Fixes
 
-One thing I’ve learned through this journey is that **there’s no quick way to learn a language**. No single method is the best for everyone—it depends on your personal learning style and, most importantly, what you can stick with consistently. I tried several things: group classes, flashcards, listening exercises, and later, even private tutoring. Each had its place in my learning process.
+One thing I’ve learned through this journey is that **there’s no quick way to learn a language**. No single method is the best for everyone -- it depends on your personal learning style and, most importantly, what you can stick with consistently. I tried several things: group classes, flashcards, listening exercises, and later, even private tutoring. Each had its place in my learning process.
 
-In the beginning, **group classes** were excellent because they offered social interaction and kept me motivated. I don’t recommend starting with one-on-one tutoring unless you’re already at a high level, as it can be isolating. Now that I’ve reached a more advanced stage, I find private tutoring useful for diving deeper into Mexican history, slang, and cultural nuances—things that even some native speakers might not know. At this level, it becomes less about the basics and more about understanding cultural context and subtleties.
+In the beginning, **group classes** were excellent because they offered social interaction and kept me motivated. I don’t recommend starting with one-on-one tutoring unless you’re already at a high level, as it can be isolating. Now that I’ve reached a more advanced stage, I find private tutoring useful for diving deeper into Mexican history, slang, and cultural nuances -- things that even some native speakers might not know. At this level, it becomes less about the basics and more about understanding cultural context and subtleties.
 
 ### Perseverance Over Speed
 
-Learning a language like Spanish doesn’t happen overnight. It takes time, and it’s important not to rush or expect instant results. I’m in my 30s, and while I may not learn as quickly as I did in my younger years, I’ve found that dedication, perseverance, and responsibility have allowed me to keep improving. Learning a language is like any other worthwhile pursuit—it requires patience and consistent effort, but the rewards are more than worth it.
+Learning a language like Spanish doesn’t happen overnight. It takes time, and it’s important not to rush or expect instant results. I’m in my 30s, and while I may not learn as quickly as I did in my younger years, my better dedication, perseverance, and discipline have allowed me to keep improving. Learning a language is like any other worthwhile pursuit -- it requires patience and consistent effort, but the rewards are more than worth it.
 
 ### Key Takeaways
 
@@ -41,4 +48,4 @@ Learning a language like Spanish doesn’t happen overnight. It takes time, and 
 - **Daily Listening**: Five to ten minutes of listening practice each day will help with comprehension and getting used to the flow of the language.
 - **No Shortcuts**: There’s no fast track to fluency. It’s about putting in the time and being consistent, not about perfection.
 
-Learning Spanish has been a journey of ups and downs, but it’s made my experience in Mexico so much richer. I hope these tips help you in your own language-learning journey—whether you’re planning a move or just want to challenge yourself with a new skill.
+Learning Spanish has been a journey of ups and downs, but it’s made my experience in Mexico so much richer. I hope these tips help you in your own language-learning journey -- whether you’re planning a move or just want to challenge yourself with a new skill.

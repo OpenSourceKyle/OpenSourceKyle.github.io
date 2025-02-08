@@ -7,7 +7,6 @@ tags:
 image: /images/pages/charlesdeluvio-DnVGMEzeDus-unsplash.jpg
 image_caption: "@charlesdeluvio on Unsplash"
 ---
-
 # Why BDSM?
 
 Bondage/Discipline, Dominance/Submission, Sadism/Masochism... Isn't that the **weird, rough sex** that I read or heard about that one time?

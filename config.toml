@@ -39,6 +39,7 @@ theme = "hugo-opensourcekyle-theme"
   linkHover = "#f900ed"  # Darker gray for hover
   paragraphText = "#b2b2b2"  # Light gray for paragraphs
   socialButtonBackground = "#2a2a2a" # Lighter dark gray for social button
+  warning = "#FF0000"  # Red color for warnings/disclaimers
 
 [params.theme]
   transparency = "0.9"  # Value between 0 and 1

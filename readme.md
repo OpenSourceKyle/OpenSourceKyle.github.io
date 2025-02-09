@@ -10,7 +10,7 @@
 
 ### Remote
 
-The site is built and deployed via GitHub Actions: [![Deploy Hugo site to Pages](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/actions/workflows/hugo.yml)
+The site is built and deployed via GitHub Actions: [![Deploy Hugo site to Github Pages](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/actions/workflows/build-and-check-website.yml/badge.svg)](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/actions/workflows/build-and-check-website.yml)
 
 ### Local (Arch Linux)
 

@@ -36,7 +36,7 @@ Checkout my [🌱Linktree](https://linktr.ee/opensourcekyle) to find various oth
 
 {{< youtube qgHICjP-XhY >}}
 
-{{< lightbox src="/images/testimonials/testimonial_dating.png" alt="Testimonial from Brandon about dating coaching" >}}
+{{< lightbox src="/images/testimonials/testimonial_dating.png" caption="Testimonial from Brandon about dating coaching" >}}
 
 ---
 

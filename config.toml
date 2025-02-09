@@ -33,17 +33,17 @@ theme = "hugo-opensourcekyle-theme"
   footerLink = "https://creativecommons.org/licenses/by-nc/4.0/"
 
 [params.colors]
-  headerText = "#ffffff"  # Medium gray for text
-  background = "#121212"  # Dark background
-  sectionBackground = "#1f1f1f"  # Slightly lighter dark gray
-  link = "#0AFF00"  # Light gray for links
-  linkHover = "#f900ed"  # Darker gray for hover
-  paragraphText = "#b2b2b2"  # Light gray for paragraphs
-  socialButtonBackground = "#2a2a2a" # Lighter dark gray for social button
-  warning = "#FF0000"  # Red color for warnings/disclaimers
+  headerText = "#ffffff"  # Crisp white for header text
+  background = "#0D1B2A"  # Dark sapphire blue for a rich, modern feel
+  sectionBackground = "#1B263B"  # Slightly lighter sapphire for subtle contrast
+  link = "#FF4C4C"  # Vibrant crimson red for links (bold and energetic)
+  linkHover = "#FF6E6E"  # Softer coral red for hover effect (adds warmth)
+  paragraphText = "#eaeaea"  # Soft off-white for readability
+  socialButtonBackground = "#1E2A38"  # Deep blue-gray for consistency
+  warning = "#FF3B3B"  # Bold red for warnings (stands out but isn't harsh)
 
 [params.theme]
-  transparency = "0.9"  # Value between 0 and 1
+  transparency = "0.90"  # Value between 0 and 1
 
 [frontmatter]
   date = ["date", "publishDate", ":filename", ":default"]

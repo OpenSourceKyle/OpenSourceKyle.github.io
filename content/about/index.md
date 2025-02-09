@@ -7,7 +7,7 @@ This entire journey is one big experiment for me -- an exercise in me being more
 
 Why live like that anymore? I'm tired of being anyone but myself.
 
-{{< collapsible title="Nerdy Details: Built With" >}}
+# Nerdy Details: Built With
 
 My general platform/software stack for this website. Cursor provides use of GPT and Claude models for code creation and editing. I use ChatGPT for article editing and grammar checking. My content (words not the code) is written by me, but AI tools are my editors.
 
@@ -20,5 +20,3 @@ My general platform/software stack for this website. Cursor provides use of GPT 
 - [Unsplash: Free Stock Photos](https://unsplash.com/)
 - [DALL-E AI: Image Generation](https://openai.com/index/dall-e-3/)
 - [Arch Linux: Linux Distribution](https://archlinux.org/)
-
-{{< /collapsible >}}

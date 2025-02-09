@@ -20,6 +20,7 @@ theme = "hugo-opensourcekyle-theme"
     { text = "Pages", url = "/pages/" },
     { text = "Blog", url = "/blog/" },
     { text = "Coaching", url = "/coaching/" },
+    { text = "Contact", url = "https://tr.ee/LDOEX3gNCx", target = "_blank" },
   ]
   footerLinks = [
     { text = "Privacy Policy", url = "/privacy" },

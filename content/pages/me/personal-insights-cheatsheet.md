@@ -1,13 +1,18 @@
 ---
-title: "Personal Insights Cheat Sheet"
+title: Cheatsheet of my Personality and Romantic Traits
 date: 2024-10-09
-description: "A detailed cheat sheet including astrological insights, MBTI, love languages, Big Five traits, and more."
-tags: ["personal"]
+tags:
+  - personal
+  - personality
+  - tests
+description: A detailed cheat sheet including astrological insights, MBTI, love languages, Big Five traits, and more.
+image: /images/page.jpg
+image_caption: This should be updated eventually
 ---
 
-This is a cheatsheet for me, of common personality traits, that I have been asked in various settings.
+This is a cheatsheet of my common personality traits that I have been asked in various settings: whether friends, dates, work collegues, or even strangers. I noticed this as a pattern, so I am highlighting the various insights for conversational purposes only. Most, if not all, of these are generally pseudoscience but are fun and interesting nonetheless.
 
-### Summary of Key Characteristics:
+## Summary of Key Characteristics
 - **MBTI Focus Areas**: Leadership, strategic communication, personal growth through exploration.
 - **Big Five Personality Traits**: Outgoing, ambitious, highly conscientious, and open, with a direct approach in social settings.
 - **Love and Relationships**: Physical touch and quality time are key to feeling connected. Highly compatible with partners who value intimacy and shared experiences.
@@ -15,7 +20,9 @@ This is a cheatsheet for me, of common personality traits, that I have been aske
 
 ---
 
-## MBTI Personality Type: Commander (ENTJ-A)
+## Myers-Briggs: Commander (ENTJ-A)
+
+The [Myers-Briggs Type Indicator (MBTI)](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) is one of the more the popular personality assessments.
 
 | **Category**        | **Description** |
 |---------------------|-----------------|
@@ -28,7 +35,9 @@ This is a cheatsheet for me, of common personality traits, that I have been aske
 
 ---
 
-## Big Five Personality Traits Scores
+## Big Five
+
+The [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) assessment.
 
 | **Trait**           | **Score (Percentile)** | **Description** |
 |---------------------|------------------------|-----------------|
@@ -40,7 +49,9 @@ This is a cheatsheet for me, of common personality traits, that I have been aske
 
 ---
 
-## Love Languages
+## Five Love Languages
+
+The [Five Love Languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages) is an assessment to measure how one best receives or enjoys the expression of love.
 
 | **Love Language**  | **What You Like to Receive** | **What You Can Give** | **Compatibility** |
 |--------------------|------------------------------|------------------------|--------------------|
@@ -49,7 +60,9 @@ This is a cheatsheet for me, of common personality traits, that I have been aske
 
 ---
 
-## Astrological Cheat Sheet 
+## Astrological Cheat Sheet
+
+This was derived from [astrological birth chart or natal astrology](https://en.wikipedia.org/wiki/Natal_astrology), which related to general [western astrology](https://en.wikipedia.org/wiki/Astrological_sign).
 
 | **Aspect**      | **Sign**    | **Description** |
 |-----------------|-------------|-----------------|

@@ -43,8 +43,11 @@ theme = "hugo-opensourcekyle-theme"
   warning = "#FF3B3B"  # Bold red for warnings (stands out but isn't harsh)
 
 [params.theme]
-  transparency = "0.90"  # Value between 0 and 1
-
+  transparency = "0.9"
+  contentWidth = "600px"
+  wideContentWidth = "800px"
+  headerGap = "0px"  # This will be added to the navbar height
+  
 [frontmatter]
   date = ["date", "publishDate", ":filename", ":default"]
 

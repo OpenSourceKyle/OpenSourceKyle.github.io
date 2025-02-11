@@ -22,15 +22,6 @@ theme = "hugo-opensourcekyle-theme"
     { text = "Coaching", url = "/coaching/" },
     { text = "Contact", url = "https://tr.ee/LDOEX3gNCx", target = "_blank" },
   ]
-  footerLinks = [
-    { text = "Privacy Policy", url = "/privacy" },
-    { text = "Terms of Service", url = "/terms" },
-    { text = "RSS", url = "/index.xml" },
-    { text = "Sitemap (Human)", url = "/sitemap" },
-    { text = "Sitemap (XML)", url = "/sitemap.xml" },
-  ]
-  footerText = "Kyle. CC BY-NC 4.0. Some rights reserved."
-  footerLink = "https://creativecommons.org/licenses/by-nc/4.0/"
 
 [params.colors]
   headerText = "#ffffff"  # Crisp white for header text
@@ -41,6 +32,14 @@ theme = "hugo-opensourcekyle-theme"
   paragraphText = "#eaeaea"  # Soft off-white for readability
   socialButtonBackground = "#1E2A38"  # Deep blue-gray for consistency
   warning = "#FF3B3B"  # Bold red for warnings (stands out but isn't harsh)
+
+  # Table Colors (Normalized with Theme)
+  tableBorder = "#444444"  # Dark gray for a subtle, well-defined table border
+  tableHeaderBackground = "#1B263B"  # Matches section background for consistency
+  tableHeaderText = "#eaeaea"  # Soft off-white for readability
+  tableRowEvenBackground = "#0D1B2A"  # Same as site background for balance
+  tableRowOddBackground = "#152238"  # Slight variation from even rows for distinction
+  tableRowHoverBackground = "#2A3B4C"  # Lighter blue-gray for hover effect
 
 [params.theme]
   transparency = "0.9"
@@ -57,6 +56,7 @@ theme = "hugo-opensourcekyle-theme"
   about = "/about/"
   coaching = "/coaching/"
   tags = "/tags/:slug/"
+  sitemap = "/sitemap/"
 
 [taxonomies]
   category = "categories"
@@ -66,3 +66,21 @@ theme = "hugo-opensourcekyle-theme"
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 20
+  [[menu.main]]
+    name = "Pages"
+    url = "/pages/"
+    weight = 30
+  [[menu.main]]
+    name = "Coaching"
+    url = "/coaching/"
+    weight = 40

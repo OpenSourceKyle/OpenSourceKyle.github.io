@@ -1,16 +1,18 @@
 ---
-title: Cheatsheet of my Personality and Romantic Traits
+title: "Cheatsheet: Personality and Romantic Traits"
 date: 2024-10-09
 tags:
   - personal
   - personality
   - tests
+  - cheatsheet
 description: A detailed cheat sheet including astrological insights, MBTI, love languages, Big Five traits, and more.
-image: /images/page.jpg
-image_caption: This should be updated eventually
+image: /images/pages/farzad-mohsenvand-TbuescuqMjA-unsplash.jpg
+image_caption: "@farzadme on Unsplash"
+image_link: https://unsplash.com/es/@farzadme
 ---
 
-This is a cheatsheet of my common personality traits that I have been asked in various settings: whether friends, dates, work collegues, or even strangers. I noticed this as a pattern, so I am highlighting the various insights for conversational purposes only. Most, if not all, of these are generally pseudoscience but are fun and interesting nonetheless.
+This is a cheatsheet of my common personality traits that I have been asked about in various settings: whether friends, dates, work colleagues, or even strangers. I noticed this as a pattern, so I am highlighting the various insights for conversational purposes only. Most, if not all, of these are generally pseudoscience but are fun and interesting nonetheless.
 
 ## Summary of Key Characteristics
 - **MBTI Focus Areas**: Leadership, strategic communication, personal growth through exploration.
@@ -22,7 +24,7 @@ This is a cheatsheet of my common personality traits that I have been asked in v
 
 ## Myers-Briggs: Commander (ENTJ-A)
 
-The [Myers-Briggs Type Indicator (MBTI)](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) is one of the more the popular personality assessments.
+The [Myers-Briggs Type Indicator (MBTI)](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) is one of the more popular personality frameworks that categorize people into 16 types based on how they perceive the world and make decisions.
 
 | **Category**        | **Description** |
 |---------------------|-----------------|
@@ -30,14 +32,14 @@ The [Myers-Briggs Type Indicator (MBTI)](https://en.wikipedia.org/wiki/Myers%E2%
 | **Key Traits**      | **Extraverted**: Energetic, outgoing, gains energy from social interactions. **Intuitive**: Focuses on the big picture, enjoys exploring new possibilities. **Thinking**: Makes decisions based on logic and objectivity. **Judging**: Prefers structure, organization, and a clear plan of action. |
 | **Strengths**       | **Efficient and Strategic**: Optimizes processes to achieve goals. **Confident Leader**: Inspires others through confident decision-making. **Goal-Oriented**: Sets ambitious targets and works to achieve them. **Problem Solver**: Finds solutions to complex issues. |
 | **Weaknesses**      | **Intolerant**: Can be overly critical of those with different ambitions. **Impatient**: Struggles with patience for slower individuals. **Emotionally Detached**: May overlook others' emotional needs. **Stubborn**: Can be inflexible after making a decision. |
-| **Career Paths**    | ENTJs thrive in leadership roles involving decision-making and problem-solving. Careers in management, business strategy, entrepreneurship, and consulting are ideal. |
-| **Assertive (A) vs. Turbulent (T)** | **ENTJ-A (Assertive Commander)**: More confident in decisions, comfortable with stress, resilient, and persistent in achieving goals. |
+| **Career Paths**    | **ENTJs** thrive in leadership roles involving decision-making and problem-solving. Careers in management, business strategy, entrepreneurship, and consulting are ideal. |
+| **Assertive (A)** | **ENTJ-A (Assertive Commander)**: More confident in decisions, comfortable with stress, resilient, and persistent in achieving goals. |
 
 ---
 
 ## Big Five
 
-The [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) assessment.
+The [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) is a psychological model that assesses personality across five key traits: openness, conscientiousness, extraversion, agreeableness, and neuroticism.
 
 | **Trait**           | **Score (Percentile)** | **Description** |
 |---------------------|------------------------|-----------------|
@@ -51,7 +53,7 @@ The [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_persona
 
 ## Five Love Languages
 
-The [Five Love Languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages) is an assessment to measure how one best receives or enjoys the expression of love.
+The [Five Love Languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages) is a relationship concept that identifies five primary ways people express and receive love: words of affirmation, acts of service, receiving gifts, quality time, and physical touch.
 
 | **Love Language**  | **What You Like to Receive** | **What You Can Give** | **Compatibility** |
 |--------------------|------------------------------|------------------------|--------------------|
@@ -62,22 +64,22 @@ The [Five Love Languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages)
 
 ## Astrological Cheat Sheet
 
-This was derived from [astrological birth chart or natal astrology](https://en.wikipedia.org/wiki/Natal_astrology), which related to general [western astrology](https://en.wikipedia.org/wiki/Astrological_sign).
+This was derived from [astrological birth chart or natal astrology](https://en.wikipedia.org/wiki/Natal_astrology), which relates to general [western astrology](https://en.wikipedia.org/wiki/Astrological_sign), where both are a cosmic snapshot of the sky at your birth, mapping out planetary positions to interpret personality, emotions, and life tendencies based on astrology.
 
-| **Aspect**      | **Sign**    | **Description** |
-|-----------------|-------------|-----------------|
-| **Sun Sign**    | Taurus ♉    | Grounded, practical, values stability, comfort, and material/emotional security. |
-| **Rising Sign** | Libra ♎     | Charming, diplomatic, seeks harmony and balance in interactions. |
-| **Moon Sign**   | Gemini ♊    | Processes emotions through thoughts and communication, curious and adaptable. |
-| **Descendant**  | Aries ♈     | Attracted to independent, assertive partners. Seeks energy and drive in relationships. |
-| **Mercury**     | Gemini ♊    | Quick-witted, curious, enjoys learning and exchanging ideas. |
-| **Venus**       | Gemini ♊    | Values intellectual stimulation in relationships, enjoys variety and excitement. |
-| **Mars**        | Aries ♈     | Assertive, direct, energetic, enjoys challenges but can be impulsive. |
-| **Jupiter**     | Scorpio ♏   | Seeks deep transformation, interested in life’s mysteries and power dynamics. |
-| **Saturn**      | Pisces ♓    | Learns lessons around emotional boundaries and balancing dreams with reality. |
-| **Uranus**      | Capricorn ♑ | Brings unconventional ideas to career or long-term goals, sudden changes in professional life. |
-| **Neptune**     | Capricorn ♑ | Dreams tied to ambition, seeks practical ways to achieve ideals, must guard against disillusionment. |
-| **Pluto**       | Scorpio ♏   | Deep desire for personal transformation, explores hidden or taboo subjects. |
-| **North Node**  | Scorpio ♏   | Life lesson involves embracing emotional intensity, letting go of control, and seeking empowerment. |
-| **Chiron**      | Virgo ♍     | Healing journey around perfectionism, learning to accept imperfection. |
-| **Midheaven**   | Cancer ♋    | Drawn to nurturing careers, creating emotional security, or work connected to home/family. |
+| **Aspect**      | **Sign**          | **Description** |
+|-----------------|-------------------|-----------------|
+| **Sun Sign**    | ♉ Taurus          | Grounded, practical, values stability, comfort, and material/emotional security. |
+| **Rising Sign** | ♎ Libra           | Charming, diplomatic, seeks harmony and balance in interactions. |
+| **Moon Sign**   | ♊ Gemini          | Processes emotions through thoughts and communication, curious and adaptable. |
+| **Descendant**  | ♈ Aries           | Attracted to independent, assertive partners. Seeks energy and drive in relationships. |
+| **Mercury**     | ♊ Gemini          | Quick-witted, curious, enjoys learning and exchanging ideas. |
+| **Venus**       | ♊ Gemini          | Values intellectual stimulation in relationships, enjoys variety and excitement. |
+| **Mars**        | ♈ Aries           | Assertive, direct, energetic, enjoys challenges but can be impulsive. |
+| **Jupiter**     | ♏ Scorpio         | Seeks deep transformation, interested in life's mysteries and power dynamics. |
+| **Saturn**      | ♓ Pisces          | Learns lessons around emotional boundaries and balancing dreams with reality. |
+| **Uranus**      | ♑ Capricorn       | Brings unconventional ideas to career or long-term goals, sudden changes in professional life. |
+| **Neptune**     | ♑ Capricorn       | Dreams tied to ambition, seeks practical ways to achieve ideals, must guard against disillusionment. |
+| **Pluto**       | ♏ Scorpio         | Deep desire for personal transformation, explores hidden or taboo subjects. |
+| **North Node**  | ♏ Scorpio         | Life lesson involves embracing emotional intensity, letting go of control, and seeking empowerment. |
+| **Chiron**      | ♍ Virgo           | Healing journey around perfectionism, learning to accept imperfection. |
+| **Midheaven**   | ♋ Cancer          | Drawn to nurturing careers, creating emotional security, or work connected to home/family. |

@@ -42,6 +42,14 @@ theme = "hugo-opensourcekyle-theme"
   socialButtonBackground = "#1E2A38"  # Deep blue-gray for consistency
   warning = "#FF3B3B"  # Bold red for warnings (stands out but isn't harsh)
 
+  # Table Colors (Normalized with Theme)
+  tableBorder = "#444444"  # Dark gray for a subtle, well-defined table border
+  tableHeaderBackground = "#1B263B"  # Matches section background for consistency
+  tableHeaderText = "#eaeaea"  # Soft off-white for readability
+  tableRowEvenBackground = "#0D1B2A"  # Same as site background for balance
+  tableRowOddBackground = "#152238"  # Slight variation from even rows for distinction
+  tableRowHoverBackground = "#2A3B4C"  # Lighter blue-gray for hover effect
+
 [params.theme]
   transparency = "0.9"
   contentWidth = "600px"

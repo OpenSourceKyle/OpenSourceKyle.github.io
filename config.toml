@@ -6,7 +6,7 @@ theme = "hugo-opensourcekyle-theme"
 [params]
   backgroundImage = "/images/galaxy.jpg"
   wordsPerMinute = 150  # Adjust this number to change reading speed estimate
-  profileImage = "/images/myface.jpg"
+  profileImage = "/images/myface2.jpg"
   logo = "/images/logo/logo_head.png"  # Path to your logo image
   logoWidth = "1200"  # Recommended width for social media previews
   logoHeight = "630"  # Recommended height for social media previews
@@ -20,7 +20,6 @@ theme = "hugo-opensourcekyle-theme"
     { text = "Pages", url = "/pages/" },
     { text = "Blog", url = "/blog/" },
     { text = "Coaching", url = "/coaching/" },
-    { text = "Contact", url = "https://tr.ee/LDOEX3gNCx", target = "_blank" },
   ]
 
 [params.colors]

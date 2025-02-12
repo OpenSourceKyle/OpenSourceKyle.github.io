@@ -1,61 +1,64 @@
 ---
-title: Coaching
-type: "coaching"
+title: "Tailored Coaching: Results w/o the BS"
+type: pages
+image: /images/coaching.jpg
+image_caption: Unlock Your Potential
+date: 2025-02-12
+tags:
+  - coaching
 ---
-
 I used to believe that sheer effort and willpower were enough to achieve anything. While discipline and motivation can indeed take us far, the reality is that success is rarely a solo journey.
 
-**Think about it**: *How many of your accomplishments can you truly claim as entirely your own?*
+**Think about it**: _How many of your accomplishments can you truly claim as entirely your own?_
 
-I'll be the first to admit, after much introspection, that my successes are not solely mine. Friends, family, mentors, and others have all played pivotal roles in getting me where I am today.
+After much reflection, I’ve come to appreciate that my successes are not mine alone. Friends, family, mentors, and a network of supportive individuals have played pivotal roles in my journey.
 
-Now, **I'm looking for others with exciting stories and big dreams who are eager to achieve more**. At this stage of my life, I feel **it's my purpose to help others grow and reach their potential**.
+Now, **I want to pay it forward by helping others with ambitious goals and big dreams reach new heights**. At this stage of my life, I feel **it's my purpose to guide, mentor, and empower others to grow into their full potential**.
 
 ## My Expertise
 
-Over the years, I've honed my skills in several areas:
+I offer coaching in three key areas:
 
-- **Relationship Coaching**: From exploring BDSM, to enhancing your Tinder profile, to navigating online dating, I can guide you in building more meaningful romantic connections. I've also helped individuals on their journey to sexual self-discovery, including losing their virginity.
-- **Language Mastery**: As a native English speaker and near-fluent Spanish speaker, I can help you improve your language abilities, whether you're starting out or looking to refine your skills.
-- **Fitness Coaching**: I design tailored diet plans and lifting routines to help you achieve your fitness goals, whether you're just starting out or looking to take your training to the next level.
-- **Other Goals**: I am open to helping with anything else not listed here. I also have experience in coaching sales, dance, photography, and style.
+- **Relationships & Dating**: Whether you're navigating online dating, exploring BDSM dynamics, or seeking to build deeper emotional connections, I provide guidance to help you create meaningful and fulfilling relationships.
+- **Career & Business Development**: From mastering workplace interpersonal relationships to building your own business, I help individuals create structured plans for professional growth, sales proficiency (e.g., watch sales), and entrepreneurial success.
+- **General Wellness & Personal Growth**: With a focus on fitness, skincare, sleep optimization, and effective goal-setting routines, I provide strategies to improve both physical and mental well-being.
 
-## My Goal
+## My Approach
 
-My goal is to inspire and mentor others, using my ideas to help improve communication, relationships, sales, and fitness. You can read more about [my personal Coaching Philosophy]({{< relref "pages/coaching/how-to-be-a-coach.md" >}}) to understand better my approach.
+My approach to coaching is rooted in **practical experience, real-world application, and a commitment to personal growth**.
 
-**I aim to open-source as much of my knowledge and experience as possible**, so that financial limitations don't stop anyone seeking to improve their life. I only charge for my time, ensuring that my information is accessible to all.
+I believe that knowledge should be accessible to everyone. That’s why **I aim to open-source as much of my experience as possible**, ensuring financial limitations never prevent someone from improving their life. I only charge for my time, so that my insights remain freely available.
 
-Checkout my [🌱Linktree](https://linktr.ee/opensourcekyle) to find various other platforms where I share my ideas and experiences.
+For a deeper look into my coaching philosophy, you can read more [here]({{< relref "pages/coaching/being-a-coach.md" >}}).
+
+## Ready to Take the Next Step?
+
+If you’re looking for personalized guidance to help you achieve your goals, let’s connect. Whether you need direction in relationships, career development, or overall wellness, I’m here to help you grow and succeed.
+
+🚀 **Click the floating button to book a session with me today and start transforming your life.**
+
+Check out my [🌱Linktree](https://linktr.ee/opensourcekyle) to explore the various platforms where I share my ideas and experiences or reach out directly to get started!
 
 ---
-
 # Testimonials
 
-## Brandon - Improved dating life after harsh breakup
+## Andreas - From Doubt to Confidence
 
-{{< youtube qgHICjP-XhY >}}
+{{< youtube DtXXJhZ9dHU >}}
+## Brandon - Improved dating life after harsh breakup
 
 {{< lightbox src="/images/testimonials/testimonial_dating.png" caption="Testimonial from Brandon about dating coaching" >}}
 
----
-
-## Víctor - Improving English conversational abilities
-
-{{< lightbox src="/images/testimonials/testimonial_english.png" alt="Testimonial from Víctor in Spanish" >}}
-
-### Translated version (in English)
-
-{{< lightbox src="/images/testimonials/testimonial_english_translated.png" alt="English translation of Víctor's testimonial" >}}
-
----
-
+{{< youtube qgHICjP-XhY >}}
 ## S - Increased dating experience
 
-{{< lightbox src="/images/testimonials/testimonial_dating_2.png" alt="Testimonial from S about dating experience" >}}
+{{< lightbox src="/images/testimonials/testimonial_dating_2.png" caption="Testimonial from S about dating experience" >}}
+## Víctor - Improving English conversational abilities
 
----
+{{< lightbox src="/images/testimonials/testimonial_english.png" caption="Testimonial from Víctor in Spanish" >}}
+### Translated version (in English)
 
+{{< lightbox src="/images/testimonials/testimonial_english_translated.png" caption="English translation of Víctor's testimonial" >}}
 # Schedule a session
 
 {{< scroll-to-calendly >}}

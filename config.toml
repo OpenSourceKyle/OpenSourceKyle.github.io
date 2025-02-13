@@ -42,8 +42,8 @@ theme = "hugo-opensourcekyle-theme"
 
 [params.theme]
   transparency = "0.9"
-  contentWidth = "600px"
-  wideContentWidth = "800px"
+  contentWidth = "800px"
+  wideContentWidth = "1000px"
   headerGap = "0px"  # This will be added to the navbar height
   
 [frontmatter]

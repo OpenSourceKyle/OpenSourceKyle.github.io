@@ -1,9 +1,9 @@
 ---
-title: "Getting a Driver's License in Mexico: A Practical Guide"
+title: "Getting a Mexican Driver's License"
 date: 2024-10-08
 tags:
   - mexico
-  - driver's license
+  - drivers-license
 image: /images/pages/why-kei-8e2gal_GIE8-unsplash.jpg
 image_caption: "@whykei on Unsplash"
 image_link: https://unsplash.com/es/@whykei

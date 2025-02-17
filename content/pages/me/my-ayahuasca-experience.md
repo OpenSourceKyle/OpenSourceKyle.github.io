@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca w/ Nostalgia
+title: Ayahuasca & Nostalgia
 date: 2025-02-13
 tags:
   - ayahuasca

@@ -1,5 +1,5 @@
 ---
-title: "No-Bullshit Spanish: There Are No Shortcuts"
+title: "No-BS Spanish: There Are No Shortcuts"
 date: 2024-10-08
 tags:
   - mexico

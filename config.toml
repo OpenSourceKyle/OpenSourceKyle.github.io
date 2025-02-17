@@ -14,7 +14,7 @@ theme = "hugo-opensourcekyle-theme"
   description = "Open Source Kyle - Life is one big experiment"
   linktreeUrl = "https://linktr.ee/OpenSourceKyle"
   linktreeLogo = "/images/linktree_logo.png"  # Path relative to static folder
-  pagesToShow = 6
+  pagesToShow = 12
   headerLinks = [
     { text = "About", url = "/about/" },
     { text = "Pages", url = "/pages/" },

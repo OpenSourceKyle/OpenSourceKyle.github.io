@@ -9,7 +9,7 @@ tags:
 description: A detailed cheat sheet including astrological insights, MBTI, love languages, Big Five traits, and more.
 image: /images/pages/farzad-mohsenvand-TbuescuqMjA-unsplash.jpg
 image_caption: "@farzadme on Unsplash"
-image_link: https://unsplash.com/es/@farzadme
+image_link: https://unsplash.com/@farzadme
 ---
 
 This is a cheatsheet of my common personality traits that I have been asked about in various settings: whether friends, dates, work colleagues, or even strangers. I noticed this as a pattern, so I am highlighting the various insights for conversational purposes only. Most, if not all, of these are generally pseudoscience but are fun and interesting nonetheless.

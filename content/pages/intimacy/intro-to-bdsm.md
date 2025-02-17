@@ -7,7 +7,7 @@ tags:
   - nsfw
 image: /images/pages/charlesdeluvio-DnVGMEzeDus-unsplash.jpg
 image_caption: "@charlesdeluvio on Unsplash"
-image_link: "https://unsplash.com/es/@charlesdeluvio"
+image_link: "https://unsplash.com/@charlesdeluvio"
 ---
 
 # Why BDSM?

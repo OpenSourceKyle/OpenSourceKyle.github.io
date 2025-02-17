@@ -4,9 +4,11 @@ title = "OpenSourceKyle"
 theme = "hugo-opensourcekyle-theme"
 
 [params]
+  authorName = "by Kyle"
   backgroundImage = "/images/galaxy.jpg"
   wordsPerMinute = 150  # Adjust this number to change reading speed estimate
-  profileImage = "/images/myface2.jpg"
+  profileImage = "/images/myface.jpg"
+  authorImage = "/images/logo/logo_author.jpg"
   logo = "/images/logo/logo_head.png"  # Path to your logo image
   logoWidth = "1200"  # Recommended width for social media previews
   logoHeight = "630"  # Recommended height for social media previews
@@ -21,29 +23,30 @@ theme = "hugo-opensourcekyle-theme"
     { text = "Blog", url = "/blog/" },
     { text = "Coaching", url = "/coaching/" },
   ]
+  dateFormat = "2 Jan 2006"
+  monthFormat = "January 2006"  # Format for month headers in lists
 
 [params.colors]
   headerText = "#ffffff"  # Crisp white for header text
-  background = "#0D1B2A"  # Dark sapphire blue for a rich, modern feel
-  sectionBackground = "#1B263B"  # Slightly lighter sapphire for subtle contrast
-  link = "#FF4C4C"  # Vibrant crimson red for links (bold and energetic)
-  linkHover = "#FF6E6E"  # Softer coral red for hover effect (adds warmth)
-  paragraphText = "#eaeaea"  # Soft off-white for readability
-  socialButtonBackground = "#1E2A38"  # Deep blue-gray for consistency
-  warning = "#FF3B3B"  # Bold red for warnings (stands out but isn't harsh)
+  background = "#0A192F"  # Deep navy blue (slightly darker for a more modern, cinematic feel)
+  sectionBackground = "#112240"  # Muted dark blue for balanced contrast
+  link = "#4DA8DA"  # Vibrant cyan-blue for a sleek, professional feel
+  linkHover = "#66CCFF"  # Brighter sky-blue for an elegant hover effect
+  paragraphText = "#E6F1FF"  # Softer white-blue for readability without harsh contrast
+  socialButtonBackground = "#1B2C4A"  # Deep blue-gray for consistency
+  warning = "#F4A261"  # Muted warm orange (less aggressive, still noticeable)
 
   # Table Colors (Normalized with Theme)
-  tableBorder = "#444444"  # Dark gray for a subtle, well-defined table border
-  tableHeaderBackground = "#1B263B"  # Matches section background for consistency
-  tableHeaderText = "#eaeaea"  # Soft off-white for readability
-  tableRowEvenBackground = "#0D1B2A"  # Same as site background for balance
-  tableRowOddBackground = "#152238"  # Slight variation from even rows for distinction
-  tableRowHoverBackground = "#2A3B4C"  # Lighter blue-gray for hover effect
+  tableBorder = "#2C3E50"  # Slightly richer gray-blue for soft edges
+  tableHeaderBackground = "#112240"  # Matches section background for unity
+  tableHeaderText = "#E6F1FF"  # Softer white-blue for readability
+  tableRowEvenBackground = "#0A192F"  # Matches background for seamless integration
+  tableRowOddBackground = "#152A4A"  # Slightly lighter for gentle contrast
+  tableRowHoverBackground = "#1F3A5F"  # Subtle, modern hover effect
 
 [params.theme]
   transparency = "0.9"
-  contentWidth = "800px"
-  wideContentWidth = "1000px"
+  contentWidth = "900px"
   headerGap = "0px"  # This will be added to the navbar height
   
 [frontmatter]
@@ -83,3 +86,9 @@ theme = "hugo-opensourcekyle-theme"
     name = "Coaching"
     url = "/coaching/"
     weight = 40
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false

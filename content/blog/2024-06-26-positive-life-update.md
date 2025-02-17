@@ -1,6 +1,5 @@
 ---
 title: "Positive Life Update"
-tags: ["journal", "voice"]
 ---
 
 **NOTE: this is transcribed from a voice note and has been mostly edited to read more naturally**

@@ -1,6 +1,5 @@
 ---
 title: "Dream Childhood Home"
-tags: ["journal"]
 ---
 Alright, so I had another dream last night. I don’t remember the details quite as clearly, but I think that’s part of it. I had a dream that I was back in my childhood home, and I’m kind of running around. The house feels a lot emptier in my dream than it did in real life, where it was just full of stuff. But in the dream, it’s fairly empty.
 

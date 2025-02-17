@@ -1,5 +1,4 @@
 ---
-tags: ["journal"]
 title: "Dream Reflections"
 ---
 

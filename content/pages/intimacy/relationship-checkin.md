@@ -30,6 +30,7 @@ A key point is to customize the questions to you and your relationship, but you 
 {{< youtube id=No-JfWFnxGs start=1280 >}}
 
 * Reference: <https://killyourinnerloser.com/weekly-check-ins/>
+
 ### Example Checkin Questions
 
 Notice that many of these are "we-framed" where the questions are asked in the context of "we" or "us." Again, some of these questions are general accountability, but I believe they can be used in any context.

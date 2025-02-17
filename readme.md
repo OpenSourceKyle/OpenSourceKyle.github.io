@@ -17,9 +17,7 @@ The site is built and deployed via GitHub Actions: [![Deploy Hugo site to Github
 Follow these steps to run the project locally:
 
 - Install Hugo: [Hugo Documentation](https://gohugo.io/documentation/)
-- Theme setup: 
-  - [Docsy Theme Documentation](https://www.docsy.dev/docs/)
-  - [Docsy Example](https://github.com/google/docsy-example)
+- Theme setup: [My Custom Theme](https://github.com/OpenSourceKyle/hugo-opensourcekyle-theme)
 
 ```bash
 # Install Hugo (Arch Linux includes the extended version)

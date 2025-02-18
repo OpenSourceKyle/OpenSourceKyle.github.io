@@ -2,7 +2,7 @@
 title: "Tailored Coaching: Results Without the BS"
 type: pages
 image: /images/coaching.jpg
-image_caption: "Unlock Your Potential"
+image_caption: "My Mission: Help you find yours"
 date: 2025-02-12
 tags:
   - coaching
@@ -26,22 +26,22 @@ After much reflection, I realized the cliche that growth isn’t a solo journey 
 
 Now, I want to pay it forward by helping others -- especially analytical, driven professionals -- who have ambitious goals but feel stuck when it comes to the things outside of the usual technical problems: relationships, career growth, and confidence.
 
-{{< scroll-to-calendly text="🗓️ Let's start the journey together!" >}}
+{{< button text="🗓️ Let's start the journey" url="https://forms.gle/rCJzyPiTWYsDMZhf8" >}}
 
 ## My Expertise
 
 I help **smart, logical professionals** level up their dating, career, and personal growth using a structured, no-BS approach tailored for **analytical thinkers**.
 
-> **🔹 Relationships & Dating**  
-> You’ve built an impressive career, but when it comes to social confidence, dating, or relationships, things feel... different or "off". Whether you're navigating online dating, exploring deeper connections, or just trying to improve your confidence, I provide structured coaching to help you succeed—without awkward tricks or fake pickup tactics.
+> **🔹Relationships & Dating**  
+>> You’ve built an impressive career, but when it comes to social confidence, dating, or relationships, things feel... different or "off". Whether you're navigating online dating, exploring deeper connections, or just trying to improve your confidence, I provide structured coaching to help you succeed—without awkward tricks or fake pickup tactics.
 
-> **🔹 Career & Business Development**  
-> Being great at what you do isn’t enough. Success in business and career often comes down to **communication, leadership, and negotiation**—the soft skills that don’t come naturally to many tech-minded individuals. I help you master workplace dynamics, boost confidence in sales and networking, and even build your own business.
+> **🔹Career & Business Development**  
+>> Being great at what you do isn’t enough. Success in business and career often comes down to **communication, leadership, and negotiation**—the soft skills that don’t come naturally to many tech-minded individuals. I help you master workplace dynamics, boost confidence in sales and networking, and even build your own business.
 
-> **🔹 General Wellness & Personal Growth**  
-> Many driven professionals focus so much on work that **health, energy, and personal well-being** take a backseat. I help you optimize your routines—fitness, sleep, and goal-setting—so you can **perform at your best in every area of life.**
+> **🔹General Wellness & Personal Growth**  
+>> Many driven professionals focus so much on work that **health, energy, and personal well-being** take a backseat. I help you optimize your routines—fitness, sleep, and goal-setting—so you can **perform at your best in every area of life.**
 
-{{< scroll-to-calendly text="🗓️ Schedule a call to talk coaching options!" >}}
+{{< button text="🗓️ Schedule a call to talk coaching options" url="https://forms.gle/rCJzyPiTWYsDMZhf8" >}}
 
 ## My Approach
 
@@ -57,7 +57,7 @@ My coaching is designed **specifically for people who want clear, actionable str
 
 For a deeper look into, read [my coaching philosophy]({{< relref "pages/coaching/being-a-coach.md" >}}).
 
-{{< scroll-to-calendly text="🗓️ Start with a free call!" >}}
+{{< button text="🗓️ Start with a free call!" url="https://forms.gle/rCJzyPiTWYsDMZhf8" >}}
 
 ## Ready to Take the Next Step?
 
@@ -66,7 +66,7 @@ If you're looking for personalized guidance to achieve your goals, let's connect
 
 Coaching isn’t for everyone—I only work with **serious action-takers** who are ready to grow. If you’re tired of overthinking, staying stuck, or watching life pass you by, book a session and let’s build a real strategy for your success.
 
-{{< scroll-to-calendly text="🗓️ Stop waiting and take action!" >}}
+{{< button text="🗓️ Stop waiting and take action" url="https://forms.gle/rCJzyPiTWYsDMZhf8" >}}
 
 ---
 
@@ -94,8 +94,6 @@ Coaching isn’t for everyone—I only work with **serious action-takers** who a
 
 {{< lightbox src="/images/testimonials/testimonial_english_translated.png" caption="English translation of Víctor's testimonial" >}}
 
-# Schedule a Session
+# Apply for Coaching
 
-{{< scroll-to-calendly text="🗓️ Book Now" float="true" >}}
-
-{{< calendly url="https://calendly.com/opensourcekyle/coaching/" >}}
+{{< button text="🗓️ Book Now" url="https://forms.gle/rCJzyPiTWYsDMZhf8" >}}

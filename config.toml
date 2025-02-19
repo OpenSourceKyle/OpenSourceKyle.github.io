@@ -16,7 +16,7 @@ theme = "hugo-opensourcekyle-theme"
   description = "Open Source Kyle - Life is one big experiment"
   linktreeUrl = "https://linktr.ee/OpenSourceKyle"
   linktreeLogo = "/images/linktree_logo.png"  # Path relative to static folder
-  pagesToShow = 12
+  pagesToShow = 12  # Default number of pages to show on the Homepage
   headerLinks = [
     { text = "About", url = "/about/" },
     { text = "Pages", url = "/pages/" },
@@ -45,9 +45,9 @@ theme = "hugo-opensourcekyle-theme"
   tableRowHoverBackground = "#1F3A5F"  # Subtle, modern hover effect
 
 [params.theme]
-  transparency = "0.9"
-  contentWidth = "900px"
-  headerGap = "0px"  # This will be added to the navbar height
+  transparency = "0.9"  # Transparency of the containers or "cards"
+  contentWidth = "900px"  # Width of the main content area
+  headerGap = "-20px"  # This will be added to the navbar height (to make a gap between the navbar and the content)
   
 [frontmatter]
   date = ["date", "publishDate", ":filename", ":default"]
@@ -89,6 +89,6 @@ theme = "hugo-opensourcekyle-theme"
 
 [markup]
   [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 4
-    ordered = false
+    startLevel = 1  # TOC shows H1 or headers 1
+    endLevel = 4  # TOC shows H4 or headers 4
+    ordered = false  # TOC is unordered list

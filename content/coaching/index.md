@@ -32,14 +32,14 @@ Now, I want to pay it forward by helping others -- especially analytical, driven
 
 I help **smart, logical professionals** level up their dating, career, and personal growth using a structured, no-BS approach tailored for **analytical thinkers**.
 
-> **🔹Relationships & Dating**  
->> You’ve built an impressive career, but when it comes to social confidence, dating, or relationships, things feel... different or "off". Whether you're navigating online dating, exploring deeper connections, or just trying to improve your confidence, I provide structured coaching to help you succeed—without awkward tricks or fake pickup tactics.
+**🔹Relationships & Dating**  
+> You’ve built an impressive career, but when it comes to social confidence, dating, or relationships, things feel... different or "off". Whether you're navigating online dating, exploring deeper connections, or just trying to improve your confidence, I provide structured coaching to help you succeed—without awkward tricks or fake pickup tactics.
 
-> **🔹Career & Business Development**  
->> Being great at what you do isn’t enough. Success in business and career often comes down to **communication, leadership, and negotiation**—the soft skills that don’t come naturally to many tech-minded individuals. I help you master workplace dynamics, boost confidence in sales and networking, and even build your own business.
+**🔹Career & Business Development**  
+> Being great at what you do isn’t enough. Success in business and career often comes down to **communication, leadership, and negotiation**—the soft skills that don’t come naturally to many tech-minded individuals. I help you master workplace dynamics, boost confidence in sales and networking, and even build your own business.
 
-> **🔹General Wellness & Personal Growth**  
->> Many driven professionals focus so much on work that **health, energy, and personal well-being** take a backseat. I help you optimize your routines—fitness, sleep, and goal-setting—so you can **perform at your best in every area of life.**
+**🔹General Wellness & Personal Growth**  
+> Many driven professionals focus so much on work that **health, energy, and personal well-being** take a backseat. I help you optimize your routines—fitness, sleep, and goal-setting—so you can **perform at your best in every area of life.**
 
 {{< button text="🗓️ Schedule a call to talk coaching options" url="https://forms.gle/rCJzyPiTWYsDMZhf8" >}}
 

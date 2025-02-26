@@ -6,10 +6,16 @@ tags:
   - checkin
 image: /images/pages/relationship_checking.jpg
 image_caption: The checkin should deepen a connection
+description: "This page discusses the importance of weekly relationship check-ins to enhance emotional connection, communication, and accountability between partners. It includes example questions to facilitate meaningful discussions."
 ---
+
+# Intro
+
 WITHOUT A DOUBT, the best part of a relationship is the connection, but what exactly is a **connection**? To me, it's the many facets of a relationship: emotions, sex, communication, memories, challenges, fun, etc. -- but you know it best by how it **FEELS**. The connection is something mostly immeasurable, but that doesn't mean you can't do something to deepen it.
 
 When it's good, it's good. And when it's bad, it's bad. There is no doubt -- you feel it and therefore you know it.
+
+# Details
 
 Many people, including myself for most of my life, think that relationships take effort but also that they take care of themselves. Paradoxical. I was very reactive to problems but hardly ever proactive -- I would only talk about issues until they arose (i.e. boiled over or blew up). By the time they boiled over, it was usually too late to have a simple conversation or resolution. Then, in this heightened emotional outpour, the important things were talked about, but often in overly emotional ways that only upset and hurt us. I'm talking vaguely here, but I'm sure you get the picture. I was communicating in the same limited way I had seen my parents during their marriage -- waiting until one person got extremely upset, letting the anger and frustration flow out, attacking each other, and ending when they were both tired but unresolved.
 
@@ -20,6 +26,8 @@ And then I resolved to not be afraid again.
 Having felt very much lost in maintaining and leading romantic relationships previously, I found a mentor who talked a lot about healthy relationships and sex. After utilizing these super simple questions, **communication** became a healthy, normal thing for me with my partners. I am still improving, but I am so much better than where I was.
 
 So what is the secret? **Weekly relationship check-ins** or just brief, directed talks about the relationship, even when things and emotions are going well.
+
+# Action
 
 ## The Checkin
 

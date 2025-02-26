@@ -6,41 +6,48 @@ tags:
   - coaching
 image: /images/pages/coaching.jpg
 image_caption: What coaching looks like according to DALL-E
+description: This page explores the philosophy of coaching, emphasizing the importance of listening, understanding, and tailoring approaches to individual coachees. It discusses the role of a coach, how to start coaching, and practical tips for engaging with coachees effectively.
 ---
 
-I want to detail my idea on coaching to better organize my own thoughts and philosophy, as well as give greater insights to others. There is not a right or wrong answer to this -- but rather a matter of style.
+# Intro
 
-# My Personal Philosophy
+**This is a living document as my thoughts and philosophies adapt**, but I aim to give greater insights to others since it is rare to see someone's inner methodology. Remember this is my style -- there is not a right or wrong answer to this -- take time and experimentation to develop your own.
 
-**A coach inspires action and decisiveness in the coachee**. The coachee is ultimately responsible for communicating their desires and then taking action to achieve those within their specific situation. A good coach is not responsible for the outcome but helps the coachee find the best way -- usually minimizing or eliminating mental and physical obstacles.
+A **coach inspires action and decisiveness in the coachee**. A good coach is not responsible for the outcome but helps the coachee find the best way -- usually minimizing or eliminating mental and physical obstacles.
 
-## Who needs a coach?
+A **coachee is ultimately responsible for communicating their desires and then taking responsibility and action** to achieve said desires. 
 
-A coach helps a coachee to attain their goals. Oftentimes, the greatest limiting factor is the **coachee's own mental roadblocks or mindset**, and the coach can help get around, fix, ignore, or work through these mental roadblocks. Sometimes, even with a good mindset, a coach can help to outsource the mental management of goals and tasks. Why does any sports team have a coach? Direction and challenge.
+# Details
 
-I believe that we all already possess the potential to achieve, but we cannot do this alone. A *coach's mission is not to fix or force anyone* -- but to be another person on the coachee's team that can support and help when needed. A coach can also give more specialized attention and action-driven advice. This is contrasted with most friendships or romantic connections that usually maximize the maintenance of said friendship or romance. Sometimes (though not always), trying to be a coach for a friend or a lover can hurt the relationship depending on the dynamic.
+## Why a coach?
+
+A coach helps a coachee to attain their goals. Oftentimes, the greatest limiting factor is the **coachee's own mental roadblocks or mindset** -- not abilities, and a coach can help mitigate or work through these mental roadblocks. Sometimes, even with a good mindset, a coach can help to outsource the coachee's mental management of goals and tasks.
+
+Why does any sports team have a coach? Leadership, direction, and challenge.
+
+I believe that we all already possess the potential to achieve, but we cannot do this alone. A *coach's mission is not to fix or force anyone* -- but to be another person on the coachee's team that can support and help when needed. A coach can also give more specialized attention and action-driven advice. This is contrasted with most friendships or romantic connections that usually maximize the maintenance of said friendship or romance. Sometimes (though not always), trying to be a coach for a friend or a lover can harm the relationship depending on the dynamic.
 
 There are very few things that we can truly do alone in life -- **why think any differently for goals?**
 
-## How to Start Coaching
-
 ### Not Knowing Everything
 
-Again, in my philosophy, my role is *not to have all the right answers*.
-
-My experience and knowledge help, but those do not override the importance of coaching:
+My role is *not to have all the right answers*. In fact, it's better that I don't. My experience and knowledge help, but those do not override the importance of coaching:
 
 **LISTEN first to then UNDERSTAND.**
 
-Instead of guessing, assuming, projecting, or giving advice, just give what the coachee wants. This is discovered through asking. Every coachee will have a different idea of coaching in mind, and **my job is to tailor to that**.
+Instead of guessing, assuming, projecting, or giving advice, just give what the coachee wants. And in not knowing everything, I can discover the solution(s) through asking. Every coachee will have a different idea of coaching in mind, and **my job is to tailor to that**.
 
-In general life coaching, it is hard or impossible to be an expert in everything. The better goal is to think of how to better or challenge the thought process of the coachee.
+In general life coaching, it is difficult or impossible to be an expert in everything. The better goal is to think of how to better or challenge the thought process of the coachee.
 
-**A coach who thinks or knows everything is an egotistical fraud**: point blank. These types can often be seen on social media, and in the male self-improvement space, they tend to have a combination of a lot of tattoos, piercings, money, cars, drugs, women, big houses, and big egos -- a little true happiness.
+**A coach who thinks or knows everything is an egotistical fraud**. These types can often be seen on social media, and in the male self-improvement space, they tend to have a combination of a lot of tattoos, piercings, money, cars, drugs, women, big houses, and most of all big egos -- with very little true happiness.
 
-Now beyond that, more untangling of ideas and thoughts continue -- the goal is not to know everything nor be a simple chatbot (asking simple questions and giving simple responses).
+Beyond that, the goal is not to know everything nor be a simple chatbot (asking simple questions and giving simple responses).
 
----
+# Action
+
+Since this page is written from my perspective as a coach, the Action section will revolve around doing coaching or becoming one.
+
+## How to Start Coaching
 
 #### I ask:
 

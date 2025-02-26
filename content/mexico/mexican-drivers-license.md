@@ -7,6 +7,7 @@ tags:
 image: /images/pages/why-kei-8e2gal_GIE8-unsplash.jpg
 image_caption: "@whykei on Unsplash"
 image_link: https://unsplash.com/@whykei
+description: "A comprehensive guide on obtaining a Mexican driver's license, including the benefits, required documents, payment methods, and practical tips for expats living in Mexico."
 ---
 
 When living in Mexico, having a valid form of Mexican identification is incredibly useful. Although you can use your passport or residency card for identification, carrying these important documents around every day is not wise. Instead, my roommate recommended that I get my **Mexican driver's license** to have an official form of ID that is recognized within the country. Plus, there is no test required to get a driver's license for a car in Mexico.

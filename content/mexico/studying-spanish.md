@@ -8,6 +8,7 @@ tags:
   - language
 image: /images/pages/studying_spanich.jpg
 image_caption: DALL-E thinks we are studying Spanich
+description: "This article shares a personal journey of learning Spanish, detailing the author's experiences with various methods, including night classes, Duolingo, and Anki, while living in Mexico. It emphasizes the importance of immersion, consistent practice, and cultural integration for achieving fluency in Spanish."
 ---
 ##### *Note: I use the word Mexicans in this article. In the U.S., we are sensitive about this, but I am using Mexican in the technical sense -- people from Mexico. Having lived in Mexico for a while, Latino is typically an uncommon word, and Hispanic is absolutely made up and offensive. I am respecting the people I love by correctly labeling them by their nationality and culture.*
 

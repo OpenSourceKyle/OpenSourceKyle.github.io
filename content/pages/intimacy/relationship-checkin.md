@@ -17,21 +17,23 @@ When it's good, it's good. And when it's bad, it's bad. There is no doubt -- you
 
 # Details
 
-Many people, including myself for most of my life, think that relationships take effort but also that they take care of themselves. Paradoxical. I was very reactive to problems but hardly ever proactive -- I would only talk about issues until they arose (i.e. boiled over or blew up). By the time they boiled over, it was usually too late to have a simple conversation or resolution. Then, in this heightened emotional outpour, the important things were talked about, but often in overly emotional ways that only upset and hurt us. I'm talking vaguely here, but I'm sure you get the picture. I was communicating in the same limited way I had seen my parents during their marriage -- waiting until one person got extremely upset, letting the anger and frustration flow out, attacking each other, and ending when they were both tired but unresolved.
+Many people, including myself before, think that relationships take a lot of effort but also that the relationships just maintain themselves. This can be very paradoxical. I was very reactive to problems but hardly ever proactive -- I would only talk about issues until they arose (i.e. boiled over or blew up). And by the time they boiled over, it was usually too late to have a simple conversation or resolution. Then, in this heightened emotional outpour, the important things were talked about, but often in overly emotional ways that only upset and hurt us.
+
+I'm talking vaguely here, but I'm sure you get the picture. I was communicating in the same limited way I had seen my parents during their marriage -- waiting until one person got extremely upset, letting the anger and frustration flow out, attacking each other, and ending when they were both tired but unresolved.
 
 After living many years in this same pattern, I was exhausted from having no idea how to handle things and often feeling *less* emotional than my lover. **Why was I so numb?** After more time, I realized I wasn't numb but **afraid** -- I preferred to run away or ignore whatever problems there were for fear of pain, anger, and/or violence.
 
-And then I resolved to not be afraid again.
+**And then I resolved to be afraid no more.**
 
-Having felt very much lost in maintaining and leading romantic relationships previously, I found a mentor who talked a lot about healthy relationships and sex. After utilizing these super simple questions, **communication** became a healthy, normal thing for me with my partners. I am still improving, but I am so much better than where I was.
+Having felt very much lost in maintaining and leading romantic relationships previously, I found a mentor who talked a lot about healthy relationships and sex. By utilizing these super simple questions, **communication** became a healthy, normal thing for me with my partners. I am so much better than before and continue improving this aspect.
 
-So what is the secret? **Weekly relationship check-ins** or just brief, directed talks about the relationship, even when things and emotions are going well.
+So what is the secret? **Weekly relationship check-ins** or brief, directed talks about the relationship, even when things and emotions are going well.
 
 # Action
 
 ## The Checkin
 
-In this video, Andy (a relationship coach) starts in the context of accountability partners for working on goals, but at the start timestamps, he talks about example questions that he and his lover use in their relationship. The full video is worth the watch, but it starts at the moment of specific questions.
+In this video, Andy (a relationship coach) starts in the context of accountability partners for working on goals. At the start timestamps, he talks about example questions that he and his lover use in their relationship. The full video is worth the watch, but it starts at the moment of specific questions that can be used.
 
 A key point is to customize the questions to you and your relationship, but you can start with the example questions below and then modify them over time.
 
@@ -41,7 +43,7 @@ A key point is to customize the questions to you and your relationship, but you 
 
 ### Example Checkin Questions
 
-Notice that many of these are "we-framed" where the questions are asked in the context of "we" or "us." Again, some of these questions are general accountability, but I believe they can be used in any context.
+Notice that many of these are "we-framed" where the questions are asked in the context of "we" or "us." Again, some of these questions are general accountability, but I believe they can be used in or adapted to any context.
 
 At a very high level, these are the questions:
 
@@ -50,7 +52,7 @@ At a very high level, these are the questions:
 3) What were our successes?
 4) What do we want to work on next week?
 
-**My recommendation**: Read through all the below categories, pick 3 questions from each, add a weekly calendar reminder, and start asking each other your questions. Over time, you'll adapt them to what you need.
+**My recommendation**: Read through all the below categories, pick 3 questions, both people add a weekly calendar reminder (remember "we" is not one-sided), and start asking each other your questions. Over time, you'll naturally adapt them to what you need.
 
 ### **Relationship Accountability & Progress**
 

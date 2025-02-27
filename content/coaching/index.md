@@ -7,10 +7,8 @@ image_caption: "My Mission: Help you find yours"
 date: 2025-02-12
 tags:
   - coaching
-  - personal development
   - relationships
   - career
-  - business
   - wellness
   - exclude-from-validation
 ---

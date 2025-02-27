@@ -45,7 +45,7 @@ theme = "hugo-opensourcekyle-theme"
   tableRowHoverBackground = "#1F3A5F"  # Subtle, modern hover effect
 
 [params.theme]
-  transparency = "0.87"  # Transparency of the containers or "cards"
+  transparency = "0.7"  # Transparency of the containers or "cards"
   contentWidth = "900px"  # Width of the main content area
   headerGap = "-20px"  # This will be added to the navbar height (to make a gap between the navbar and the content)
   navbarHeight = "60px"  # Height of the navbar

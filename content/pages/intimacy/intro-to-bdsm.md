@@ -27,7 +27,7 @@ And most importantly, **I stopped only thinking with my body and my dick** -- bu
 
 # Details
 
-I hope this helps you find your own agency and path to those hot, naughty desires in the back of your head. Yes, those that you have been afraid to confront for many years. Shame is a hell of a burden. This simple introduction will help you open up, and from there, you can find and build your own journey.
+I hope this helps you find your own agency and path to those hot, naughty desires in the back of your head. Yes, those that you have been afraid to confront for many years. **Shame is a hell of a burden**. This simple introduction will help you open up, and from there, you can find and build your own journey. For starting, the details are light and the [Action](#action) is the more important part here (as in taking some tests and reflecting).
 
 There are many resources, but I will highlight just the ones that have been crucial to me and/or I have shared with friends, clients, and others -- the most impactful.
 

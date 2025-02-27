@@ -21,6 +21,8 @@ description: "A comprehensive sitemap detailing the structure of the website, in
   - I use [Unsplash: Free Stock Photos](https://unsplash.com/) and [DALL-E AI: Image Generation](https://openai.com/index/dall-e-3/) to add images to my content.
   - I personally code off of an obscure operating system called [Arch Linux: Linux Distribution](https://archlinux.org/) because I was a l33t h4x0r back in the day; now, I love it and can't stand to use anything else.
 
+<!--more-->
+
 ## Main Sections
 - [About](/about/)
 - [Pages](/pages/)
@@ -44,4 +46,4 @@ description: "A comprehensive sitemap detailing the structure of the website, in
 {{< pages >}}
 
 ## Blog Posts
-{{< blog-posts >}} 
+{{< blog >}} 

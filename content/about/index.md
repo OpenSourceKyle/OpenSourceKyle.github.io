@@ -5,14 +5,18 @@ type: pages
 tags:
   - personal
   - about
+  - exclude-from-validation
 image: /images/myface.jpg
 image_caption: Profile picture of Kyle
+description: A personal exploration of openness, honesty, and vulnerability, documenting experiences and insights while providing actionable advice and guidelines for writing.
 ---
 This entire journey (and website) is one big experiment for me -- an exercise in being more open, honest, and vulnerable. With that comes the acceptance of all my imperfections -- those things I spent years hiding, fixing, or even lying about.
 
 **Why live like that anymore? I'm tired of being anyone but myself.**
 
 This is both a personal and business project -- a space where I explore my thoughts, document my experiences, and share insights from my life.
+
+<!--more-->
 
 ### This site is for me first. This is my *[magnum opus](https://en.wikipedia.org/wiki/Magnum_opus_(alchemy))* -- my life's "great work."
 
@@ -61,6 +65,8 @@ Of note, these individuals often communicate in a distinctly male way. Males and
 For me, the key has been to focus on the parts that add significant value and not to get caught up in opinions on other matters -- such as politics or personal beliefs. I have followed aspects of each of these influences to help build the life I have long desired. I will briefly highlight what I appreciate about each of them. I do not agree with everything they say, and it's important to mention that.
 
 My goal is to become a better man -- I ask for some level of patience, understanding, and charitability from you.
+
+---
 
 ## Andy of KillYourInnerLoser
 * <https://killyourinnerloser.com>

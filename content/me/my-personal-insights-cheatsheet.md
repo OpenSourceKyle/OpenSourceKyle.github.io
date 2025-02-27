@@ -6,7 +6,7 @@ tags:
   - personality
   - tests
   - cheatsheet
-description: A detailed cheat sheet including astrological insights, MBTI, love languages, Big Five traits, and more.
+description: A comprehensive cheatsheet detailing personal insights on personality traits, including MBTI (ENTJ-A), Big Five traits, love languages, and astrological influences, aimed at enhancing understanding in social and romantic contexts.
 image: /images/pages/farzad-mohsenvand-TbuescuqMjA-unsplash.jpg
 image_caption: "@farzadme on Unsplash"
 image_link: https://unsplash.com/@farzadme

@@ -6,6 +6,7 @@ tags:
 date: 2023-03-09
 image: /images/pages/tattoos/9-todo-bien.jpg
 image_caption: "TODO BIEN -- all is well or all good"
+description: "This page details the author's personal journey through various tattoos, each representing significant life experiences, emotions, and cultural connections. The tattoos serve as expressions of identity, memories, and reflections on past relationships, showcasing a blend of personal significance and artistic appreciation."
 ---
 
 I love nature and simple line art. At least for the moment, I want my tattoos to follow that scheme.

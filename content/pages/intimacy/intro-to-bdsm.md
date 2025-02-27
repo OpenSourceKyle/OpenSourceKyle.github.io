@@ -8,9 +8,10 @@ tags:
 image: /images/pages/charlesdeluvio-DnVGMEzeDus-unsplash.jpg
 image_caption: "@charlesdeluvio on Unsplash"
 image_link: "https://unsplash.com/@charlesdeluvio"
+description: "This page provides an introduction to BDSM, sharing personal experiences and insights on how to explore desires and fantasies safely and consensually. It includes resources, steps for self-reflection, and prompts for discussing BDSM with partners."
 ---
 
-# Why BDSM?
+# Intro
 
 Bondage/Discipline, Dominance/Submission, Sadism/Masochism... Isn't that the **weird, rough sex** that I read or heard about that one time?
 
@@ -24,13 +25,13 @@ Reading about many facets of BDSM helped inspire and develop me into the loving 
 
 And most importantly, **I stopped only thinking with my body and my dick** -- but added much more with my **mind**. And after opening this new pathway, I felt I had learned some secret dark arts to the *love and sex I had always craved*.
 
----
+# Details
 
-I hope this helps you find your own agency and path to those hot, naughty desires in the back of your head. Yes, those that you have been afraid to confront for many years. Shame is a hell of a burden. This simple introduction will help you open up, and from there, you can find and build your own journey.
+I hope this helps you find your own agency and path to those hot, naughty desires in the back of your head. Yes, those that you have been afraid to confront for many years. **Shame is a hell of a burden**. This simple introduction will help you open up, and from there, you can find and build your own journey. For starting, the details are light and the [Action](#action) is the more important part here (as in taking some tests and reflecting).
 
 There are many resources, but I will highlight just the ones that have been crucial to me and/or I have shared with friends, clients, and others -- the most impactful.
 
----
+# Action
 
 **Start with a simple reading and quiz**. Some of the questions might be overwhelming but do your best to be open -- you don't have to like everything. The point of this is to open your world and help you find what you like and don't (and those emotions you feel will guide you).
 
@@ -81,7 +82,7 @@ At this point, an ideally face-to-face conversation should be easier -- you have
 
 ---
 
-# My Bucketlist
+## My Bucketlist
 
 Alright you kinky, curious fiend, here's an example of my Bucketlist that I have previously used and shared with someone else:
 

@@ -8,6 +8,7 @@ tags:
 image: /images/pages/igor-omilaev-eGGFZ5X2LnA-unsplash.jpg
 image_caption: "@omilaev on Unsplash"
 image_link: https://unsplash.com/@omilaev
+description: "An overview of AI concepts, including Generative AI, Machine Learning, Large Language Models, and best practices for prompt design using Google Cloud's Vertex AI."
 ---
 
 # 1) AI Notes - Intro

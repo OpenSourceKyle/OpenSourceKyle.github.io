@@ -4,7 +4,7 @@ tags:
   - personal
 ---
 
-{{< collapsible title="Description and background" >}}
+{{< details summary="Description and background" >}}
 
 Though Sigmund Freud likely created a version of **Self-authoring**, Jordan Peterson seem to have popularized it (more recently). Regardless of the original creator, the exercise serves a great purpose of internal reflection, which was my purpose for starting this.
 
@@ -18,13 +18,13 @@ Reviews (& breakdowns of the format and prompts):
 * https://old.reddit.com/r/JordanPeterson/comments/6xbhq6/self_authoring_review_is_the_program_worthwhile/
 * https://medium.com/cum-grano-salis/the-self-authoring-suite-210846b4a682
 
-{{< /collapsible >}}
+{{< /details >}}
 
 ---
 
 # Past
 
-{{< collapsible title="Past - Instructions" >}}
+{{< details summary="Past - Instructions" >}}
 
 ### Completing the Exercise
 
@@ -91,7 +91,7 @@ Autobiographical experiences that bring about...
   * Funny
   * Unfunny
 
-{{< /collapsible >}}
+{{< /details >}}
 
 # Past - Response
 
@@ -186,7 +186,7 @@ I recall a funny "cultural" experience through her by meeting her dad, and him c
 
 # Present
 
-{{< collapsible title="Faults - Prompt" >}}
+{{< details summary="Faults - Prompt" >}}
 This program has been designed to allow you to do an in-depth analysis of some of the negative aspects or faults of your personality. It is the partner program to the virtues analysis section of the present authoring program. It is our hope that constructing a clearer picture of your faults will help you understand the impact of your personality traits on your life in the past, present, and future.
 
 It is probably best to complete this exercise if you are in a normal to good mood, so that you can tolerate the self-criticism. If you are feeling sad, lonely, or depressed, you should probably do the virtues analysis instead. This exercise will take you 60-90 minutes, depending on your choices. You will be asked first to read some information about basic personality theory and then to select 2-10 faults from each of five lists of faults (one list per basic personality trait).
@@ -254,7 +254,7 @@ Stability, the second higher-order trait, can be further broken down into three 
 * Compliant
 * Tender-minded
 * Nice
-{{< /collapsible >}}
+{{< /details >}}
 
 ## Faults - Response
 
@@ -273,7 +273,7 @@ https://www.merriam-webster.com/dictionary/fault
 * very judgemental especially of fat people and the lazy or unambitious who are unhappy
 * aversion to outsiders or out-groups
 
-{{< collapsible title="Virtues - Prompt" >}}
+{{< details summary="Virtues - Prompt" >}}
 This exercise has been designed to allow you to do an in-depth analysis of some of the positive aspects or virtues of your personality.
 
 ### Background Knowledge
@@ -345,7 +345,7 @@ There are advantages and disadvantages to each trait, particularly at the extrem
 ### Change
 
 Personality is reasonably stable over the lifespan, and is also powerfully influenced by hereditary or genetic factors. Despite this, personality can broaden or even transform. As people age, for example, they tend to become more agreeable, conscientious and emotionally stable.Changing personality means changing habits of action, presumption and perception. Personality change requires the formulation of clear future goals, as well as discipline and practice. People who are too agreeable can learn to stand up for themselves. Disorderly people can become more conscientious. Introverted people can become socially skilled. People who experience paralyzing levels of negative emotion can learn to explore.
-{{< /collapsible >}}
+{{< /details >}}
 
 ## Virtues - Response
 
@@ -374,7 +374,7 @@ https://www.merriam-webster.com/dictionary/virtue
 
 # Future
 
-{{< collapsible title="Future - Instructions" >}}
+{{< details summary="Future - Instructions" >}}
 ## GENERAL INSTRUCTIONS
 
 The full future authoring exercise has 2 different stages, each with a number of steps:
@@ -410,7 +410,7 @@ These will include 8 questions such as "what could you do better?", "what would 
 Let yourself daydream or fantasize. You are trying to put yourself into a state of reverie, which is a form of dream-like thinking that relies heavily on internal imagery. This kind of thinking allows all your different internal states of motivation and emotion to find their voice.
 
 It might be best to concentrate on your future three to five years down the road, although you may have reasons to concentrate on a shorter or longer timespan (eighteen months to ten years).
-{{< /collapsible >}}
+{{< /details >}}
 
 # Future - Response
 

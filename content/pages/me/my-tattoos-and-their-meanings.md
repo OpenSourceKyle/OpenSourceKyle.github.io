@@ -9,6 +9,14 @@ image_caption: "TODO BIEN -- all is well or all good"
 description: "This page details the author's personal journey through various tattoos, each representing significant life experiences, emotions, and cultural connections. The tattoos serve as expressions of identity, memories, and reflections on past relationships, showcasing a blend of personal significance and artistic appreciation."
 ---
 
+# Intro
+
+This page is a collection of mini-essays and notes of my various tattoos.
+
+# Details
+
+(this part was written a while ago... so it reads a bit different)
+
 I love nature and simple line art. At least for the moment, I want my tattoos to follow that scheme.
 
 They will serve as an expression of me, a display of my edge, and a commitment to not fearing life anymore.
@@ -17,6 +25,9 @@ I will do as I please within the confines of morality, and I will be unashamed t
 
 I will not live afraid of being different.
 
+# Action
+
+My tattoos
 ## 9 March 2023 - Possum (Rascal)
 
 * Left Forearm
@@ -160,11 +171,9 @@ My first tattoo completed by my friend as a birthday present. Over a year ago (A
 
 ---
 
-# Tentative
+## Tentative
 
 These are ideas and not indicative of any hard plans.
-
----
 
 ## XX XXX XXXX - "KYLE"
 

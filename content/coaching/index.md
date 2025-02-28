@@ -1,5 +1,5 @@
 ---
-title: "Tailored Coaching: Results Without the BS"
+title: "Tailored Coaching w/o the BS"
 description: "Personalized coaching for analytical professionals seeking growth in relationships, career, and wellness through structured, no-nonsense strategies."
 type: pages
 image: /images/coaching.jpg

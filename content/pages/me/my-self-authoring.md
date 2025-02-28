@@ -1,12 +1,21 @@
 ---
-title: Self-Authoring
+title: "WIP: Self-Authoring"
+date: 2023-02-28
+description: A reflective exercise inspired by the concept of self-authoring, aimed at helping individuals explore their past, present, and future.
 tags:
   - personal
+  - self-authoring
+image: /images/pages/self-authoring.jpg
+image_caption: Self-Authoring
 ---
 
-{{< details summary="Description and background" >}}
+# Intro
+
+**Note: This is a long-going self-reflection exercise. It will likely stay "WIP" for quite some time.**
 
 Though Sigmund Freud likely created a version of **Self-authoring**, Jordan Peterson seem to have popularized it (more recently). Regardless of the original creator, the exercise serves a great purpose of internal reflection, which was my purpose for starting this.
+
+# Details
 
 * https://en.wikipedia.org/wiki/Self-authorship
 
@@ -18,11 +27,9 @@ Reviews (& breakdowns of the format and prompts):
 * https://old.reddit.com/r/JordanPeterson/comments/6xbhq6/self_authoring_review_is_the_program_worthwhile/
 * https://medium.com/cum-grano-salis/the-self-authoring-suite-210846b4a682
 
-{{< /details >}}
+# Action
 
----
-
-# Past
+## Past
 
 {{< details summary="Past - Instructions" >}}
 
@@ -93,7 +100,7 @@ Autobiographical experiences that bring about...
 
 {{< /details >}}
 
-# Past - Response
+## Past - Response
 
 ## Family
 
@@ -127,13 +134,13 @@ In the most positive assessment, **my dad taught me how not to act or live my li
 
 #### Assessment of Personality and Character
 
-# TBD
+TBD
 
 ### Background - Half-Siblings
 
 #### Assessment of Personality and Character
 
-# TBD
+TBD
 
 ## Epochs
 
@@ -169,22 +176,21 @@ I recall a funny "cultural" experience through her by meeting her dad, and him c
 
 ### College
 
-# TBD
+TBD
 
 ### Air Force
 
-# TBD
+TBD
 
 ### Post-AF to Break
 
-# TBD
+TBD
 
 ### Post-Break
 
-# TBD
+TBD
 
-
-# Present
+## Present
 
 {{< details summary="Faults - Prompt" >}}
 This program has been designed to allow you to do an in-depth analysis of some of the negative aspects or faults of your personality. It is the partner program to the virtues analysis section of the present authoring program. It is our hope that constructing a clearer picture of your faults will help you understand the impact of your personality traits on your life in the past, present, and future.
@@ -254,6 +260,14 @@ Stability, the second higher-order trait, can be further broken down into three 
 * Compliant
 * Tender-minded
 * Nice
+
+### Impact of Personality Traits
+
+There are advantages and disadvantages to each trait, particularly at the extremes. Extremely sociable, extraverted people can be dominant and impulsive, while introverted, quiet people can easily become isolated and depressed. Extremely open people can be scattered and overwhelmed by their own thoughts and ideas, while closed-minded people may become narrow and inflexible. Exceptionally conscientious people can be obsessive about order, judgmental and rigid, while their more carefree counterparts may be messy, undisciplined and careless. People very high in emotional stability may engage in risky, dangerous behavior, while those who are more neurotic can become so preoccupied by anxiety and pain that they are unable to function. Finally, extremely agreeable people may never stand up for themselves, while those who are too assertive can be aggressive, callous and bullying.
+
+### Change
+
+Personality is reasonably stable over the lifespan, and is also powerfully influenced by hereditary or genetic factors. Despite this, personality can broaden or even transform. As people age, for example, they tend to become more agreeable, conscientious and emotionally stable.Changing personality means changing habits of action, presumption and perception. Personality change requires the formulation of clear future goals, as well as discipline and practice. People who are too agreeable can learn to stand up for themselves. Disorderly people can become more conscientious. Introverted people can become socially skilled. People who experience paralyzing levels of negative emotion can learn to explore.
 {{< /details >}}
 
 ## Faults - Response
@@ -372,7 +386,7 @@ https://www.merriam-webster.com/dictionary/virtue
 
 ---
 
-# Future
+## Future
 
 {{< details summary="Future - Instructions" >}}
 ## GENERAL INSTRUCTIONS
@@ -412,7 +426,7 @@ Let yourself daydream or fantasize. You are trying to put yourself into a state 
 It might be best to concentrate on your future three to five years down the road, although you may have reasons to concentrate on a shorter or longer timespan (eighteen months to ten years).
 {{< /details >}}
 
-# Future - Response
+## Future - Response
 
 ## Future - Ideal Scenario (stream of consciousness in 15 min)
 
@@ -440,8 +454,8 @@ It might be best to concentrate on your future three to five years down the road
 
 ## Future - Unacceptable Scenario (stream of consciousness in 15 min)
 
-# TBD
+TBD
 
 ## Goals (from Ideal Future)
 
-# TBD
+TBD

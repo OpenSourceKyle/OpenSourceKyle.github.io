@@ -1,5 +1,5 @@
 ---
-title: "Intro to AI with Google Cloud"
+title: Notes from Intro to AI with Google Cloud
 date: 2024-08-15
 tags:
   - notes

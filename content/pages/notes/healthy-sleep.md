@@ -1,5 +1,5 @@
 ---
-title: Healthy Sleep (Insomnia CBT Class)
+title: Notes from Healthy Sleep (Insomnia CBT Class)
 description: Notes from my time in a class about understanding and improving sleep through cognitive behavioral techniques for insomnia.
 date: 2023-05-03
 tags:

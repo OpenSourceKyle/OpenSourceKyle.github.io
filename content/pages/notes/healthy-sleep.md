@@ -7,7 +7,8 @@ tags:
   - wellness
   - sleep
 image: /images/pages/quin-stevenson-3oyeaivM_fE-unsplash.jpg
-image_caption: Sleepy
+image_caption: '@qstevenson on Unsplash'
+image_link: https://unsplash.com/@qstevenson
 ---
 
 # Intro
@@ -16,7 +17,7 @@ These notes from are from my insomnia counseling that I went to.
 
 # Details
 
-## Purpose of Sleep
+## SESSION 1: Purpose of Sleep
 
 - Mood
 - Memories

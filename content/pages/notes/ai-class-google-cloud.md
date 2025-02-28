@@ -1,5 +1,5 @@
 ---
-title: "Intro to AI with Google Cloud"
+title: Notes from Intro to AI with Google Cloud
 date: 2024-08-15
 tags:
   - notes
@@ -11,9 +11,13 @@ image_link: https://unsplash.com/@omilaev
 description: "An overview of AI concepts, including Generative AI, Machine Learning, Large Language Models, and best practices for prompt design using Google Cloud's Vertex AI."
 ---
 
-# 1) AI Notes - Intro
+# Intro
 
-Course: <https://www.cloudskillsboost.google/paths/118>
+For a while, I had had my head in the sand in regards to AI. I finally made the decision, after a few friends coaxed me into it, to give it a try. I asked around for some good ways to learn how to prompt AIs and got some "okay" recommendations. Given my background, I decided to give a free class a shot to interact with AI on the front and back end.
+
+The following details are a serious of notes from that Google class; the link can be found at [the bottom](#action).
+
+# Details
 
 **Generative AI**: text, image, audio, fake data
 
@@ -71,7 +75,7 @@ AI is a discipline or branch of computer science focused on systems that think a
 
 **Temperature**: a variable to increase/decrease confidence in a model's response (accuracy vs. creativity).
 
-# 2) AI Notes - LLM
+## 2) AI Notes - LLM
 
 **LLMs are Deep Learning models**:
 - **L**: large training dataset and parameters.
@@ -106,7 +110,7 @@ LLMs are useful for next text prediction but are becoming more useful for other 
 **Offline Inferences**: cached responses.
 **Distillation**: "student" models learn from a "teacher" model instead of a dataset.
 
-# 3) Intro to Responsible AI
+## 3) Intro to Responsible AI
 
 - **Limitations**
 - **Issues**
@@ -116,7 +120,7 @@ No universal definition or practices at this moment.
 People design and build the machines and select the data used.
 Decisions are influenced by values.
 
-# 4) Generative AI w/ Vertex AI: Prompt Design
+## 4) Generative AI w/ Vertex AI: Prompt Design
 
 **Best Practices**:
 - Be concise.
@@ -125,14 +129,14 @@ Decisions are influenced by values.
 - Improve response quality by including examples.
 - Turn generative tasks into classification tasks to improve safety.
 
-## Using Examples or "Shots"
+### Using Examples or "Shots"
 
 Examples of data or prompts can yield better results, though generally, only 1-5 examples are recommended so that the model does not try to overfit the result.
 
 * **Chain of Thought Prompting**: a good way to get the model to *show its work* to prove the answer instead of just providing the final result:
 
 ```python
-# Example of 1-shot prompt (1 example)
+## Example of 1-shot prompt (1 example)
 prompt = """
 Q: Rob has 7 apples. He buys two more buckets, 
    where each bucket has 6 apples each. How many 
@@ -143,11 +147,11 @@ A: ...
 """
 ```
 
-### For 0-shot (no examples)
+#### For 0-shot (no examples)
 
 **Add** "*Let's think step by step*" to the end of a question. This can also be helpful with 1=< shots.
 
-### Self-Consistency
+#### Self-Consistency
 
 Self-consistency generates multiple candidates for the results, varying the *temperature* of each one, and then compares or picks the best candidate.
 
@@ -175,13 +179,13 @@ A: Roger started with 5 balls. 2 cans of 3 tennis
 Q: """
 ```
 
-### ReAct (Interact with External Systems)
+#### ReAct (Interact with External Systems)
 
 For example, this could query the current date or a live Wikipedia page to ask what famous person died today (current date) and querying Wikipedia.
 
-# 5) Labs Notes
+## 5) Labs Notes
 
-## Nucleus Sampling
+### Nucleus Sampling
 
 Nucleus sampling is a technique used in large language models to control the randomness and diversity of generated text. It works by sampling from only the most likely tokens in the model's predicted distribution.
 
@@ -202,3 +206,7 @@ OpenAI recommends only altering either temperature or top-p from the default.
 Top-k is not exposed.
 
 Nucleus sampling parameters alone cannot stop an AI from hallucinating, but they can keep the output on a path of low perplexity. When the temperature is set high, alternate token choices can be made that are not a good fit.
+
+# Action
+
+Do Google's [Beginner: Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) for yourself!

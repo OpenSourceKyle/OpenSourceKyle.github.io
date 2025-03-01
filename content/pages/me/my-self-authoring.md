@@ -11,9 +11,7 @@ image_caption: Self-Authoring
 
 # Intro
 
-{{< details summary="Description and background" >}}
-
-Though Sigmund Freud likely created a version of **Self-authoring**, Jordan Peterson seem to have popularized the idea of it more recently. The exercise serves a great purpose of internal reflection, which was my purpose for starting this.
+Though Sigmund Freud likely created a version of **self-authoring**, Jordan Peterson seems to have popularized the idea of it more recently. The exercise serves a great purpose of internal reflection, which was my purpose for starting this.
 
 # Details
 
@@ -21,7 +19,7 @@ General idea of the exercise:
 
 * https://en.wikipedia.org/wiki/Self-authorship
 
-Various reviews and breakdowns of the format and prompts. I mostly used these to assess whether it was worth my time to complete this exercise and to figure out the questions.
+Various reviews and breakdowns of the format and prompts that I mostly used to assess whether it was worth my time to complete this exercise and to figure out the questions.
 
 * https://lanegoodwin.com/self-authoring-review-jordan-peterson/
 * https://andreian.com/self-authoring/
@@ -29,9 +27,9 @@ Various reviews and breakdowns of the format and prompts. I mostly used these to
 * https://old.reddit.com/r/JordanPeterson/comments/6xbhq6/self_authoring_review_is_the_program_worthwhile/
 * https://medium.com/cum-grano-salis/the-self-authoring-suite-210846b4a682
 
-{{< /details >}}
-
 # Action
+
+My self-authoring writing doing the "Completing the Exercise" prompts.
 
 ## Past
 
@@ -108,13 +106,13 @@ Autobiographical experiences that bring about...
 
 #### Me
 
-I was born in South Carolina, US and lived my whole childhood in a small town in South Carolina. I did not like my hometown too much as a kid since I would have preferred to be in a larger city with more things to do. My hometown still is a small, mostly decaying textile town of roughly 4,000 people. Many folks live meagerly in trailers or government housing and are of a "redneck" or "backcountry" type of mentality regardless of their race or sex. 
+I was born in South Carolina, US and lived my whole childhood in a small town in South Carolina. I did not like my hometown too much as a kid since I would have preferred to be in a larger city with more things to do. My hometown is still a small, mostly decaying textile town of roughly 4,000 people. Many folks live meagerly in trailers or government housing and are of a "redneck" or "backcountry" type of mentality regardless of their race or sex. 
 
-However as an adult, I miss the area with the peace that it brings me. For the sake of nostalgia, I do love going back to the town and the property that I grew up on. The peace, quiet, and generally static nature of the town and people gives it a stable, vintage appearance that barely seems to change no matter how long I have not lived there. I have noticed more people building large houses and moving there since the 2020 COVID-19 pandemic, where previously there was little activity of this sort. As of this writing, this thankfully has not changed much, but with it's close proximity to bigger cities, I could see it growing more.
+However as an adult, I miss the area with the peace that it brings me. For the sake of nostalgia, I do love going back to the town and the property that I grew up on. The peace, quiet, and generally static nature of the town and people gives it a stable, vintage appearance that barely seems to change no matter how long I have not lived there. I have noticed more people building large houses and moving there since the 2020 COVID-19 pandemic, where previously there was little activity of this sort. As of this writing, this thankfully has not changed much, but with its close proximity to bigger cities, I could see it growing more. I am doing my best to accept that world is also in change, and the best I can do is accept the change and cherish my memories.
 
 #### Father
 
-My father was born to an intact family. My grandmother passed away in the 1980s from something heart attack related, so I never knew her. I do not know much of my grandma other than, according to a childhood friend of my dad, she was very abusive to my dad when he was young to include frequent physical beatings. Even my dad told me that he felt a great peace after she died, which I assume to be related. My grandfather was alive until I was about 7 years old. He worked in a local textile mill in their hometown for his whole life, which my dad would also work at briefly during high school.
+My father was born to an intact family. My grandmother passed away in the 1980s from something heart attack related, so I never knew her. I do not know much of my grandma other than, according to a childhood friend of my dad, she was very abusive to my dad when he was young to include frequent physical beatings. Even my dad told me that he felt a great peace after she died, which I assume to be related. My grandfather was alive until I was about 7 years old. He worked in a local textile mill in their hometown for his whole life, which my dad would also work at briefly during high school. I don't remember my paternal grandfather well, though he seemed to have been positive the one memory that I have.
 
 My dad went to college to study Business. Afterwards, he sold insurance (life insurance, I think) and was in the Army National Guard for some time. He later worked as a Vice President at some local mobile home (trailer) manufacturing plant. He married his first wife, and they had a son and daughter -- my half-brother and half-sister. Assumed from many anecdotes, the marriage seemed to dissolve due to the constant anger and rage on my dad's part. They divorced when my half-siblings were in their teens, and my dad seemingly stopped working permanently. From anecdotal accounts from him (and maybe my mom), he did not want his exwife to get any more of his money since he was already paying child support. My dad met my mom when he was in his early 40s, and while she was in her early 20s -- yes over a 20 year age difference. They waited 13 years into marriage before having me.
 
@@ -134,9 +132,22 @@ In the most positive assessment, **my dad taught me how not to act or live my li
 
 #### Mother
 
+My mother was born to an intact family as well, but her dad eventually abandoned the family without notice during her teenage years. He was largely absent except for returning to secretly visit my mom a couple of times before dying. I can't say I know him well at all, and even though he served in the Navy, I have nothing but the utmost contempt for a man leaving his family of a wife a 5 daughters to start a new life -- regardless of the reason. My maternal grandmother had the greatest presence in my life, but only right before joining the Air Force because she lived in Florida most of my life. She was an incredibly sweet and cute old lady; I wished that I had more time with her. I will never forget her cute, dated expressions and kindness. I am lucky to have known her for the short time we had together, and especially considering she was the "only" grandparent that I felt that I had.
+
+My mom worked various waitresses and factory jobs before starting an Associate's degree program for automotive manufacturing engineering, which almost sounds like a made up 2-year degree in today's world. After finishing the degree program, she got a 3rd (night) shift job at a factory in the next state over in Georgia. The details are a fuzzy to me of her timeline of jobs and meeting my dad, but they met while she was in her early 20s. They married after about a year and "waited" 13 years before having me (I put waited in quotes because that sounds inside given the 20+ year age gap of my parents).
+
+My mom quit her night shift job while I was young because of the stress and impact on her health: long commutes at night, little sleep, stressful job (night shift is normally where they but the probationary workers who have yet to pass a drug test or background check, so they tend to be more chaotic than other shifts), bad health problems, and more. She started her own business of sewing and embroidering clothes that started at home, eventually an office in the next big city over in a trailer (odd it was commercial property), and moved one last time to her last location in a permanent, partially-dilated building.
+
+She always was and remained the *breadwinner* for the household while normally taking care of the domestic duties. I could never imagine myself staying in a situation like this.
+
 ##### Assessment of Personality and Character
 
-TBD
+My mom was a very sweet, smart and hard-working person though I question her wisdom as I got older. She seemed a very driven, stoic person on the surface, but I realized that her dubious morals taught me how to lie and be deceitful in our shared interest of mitigating my dad's moods and anger. She often would tell me to not mention things to "your daddy" (in a very emphasized manner referring to my dad as if he was not her husband) and occasionally warp the details of story to not upset him (i.e. lie).
+
+At the time, I viewed my mom and I in this shared struggled together against my dad. I learned early how carefully word and describe things in ways that were well-calibrated to not upset my dad and later manipulate other people. It wasn't until many years later and much reflection later that I realized why I had a fear of telling the direct truth until I realized my childhood conditioned me to manipulate situations where I could. Although I understand why we did those things, I remember begging my mom multiple times to leave or divorce my dad, frequently had dreams of running off to live with my half-sister, and even a couple of times calling my best friend to pick me up to move out after getting in some argument with my dad. I wanted to escape to say the least and had dreams of my mom and I doing so throughout my whole childhood.
+
+I liked my mom a lot as child. I know she did and does love me. However, it has taken me many years and my own divorce for me to reckon with the bad behaviors that she directly instilled in me as well as this farcical notion of protecting other women that is incompatible with modern society. I viewed myself as her savior as a kid, but I realized as an adult how bad this dynamic was for me managing my own feelings as well as romantic relationships. Without going in-depth on it here, there is a section in a [book]({{% relref "/about/index.md#dr-robert-glover-of-the-book-no-more-mr-nice-guy" %}})
+ that details this strong enmeshment that some sons have with their mothers. I related quite a bit with this book and realized I found my mother to almost always defending my dad's bad behavior and dismissing needs or feelings in the process.
 
 #### Half-Siblings
 

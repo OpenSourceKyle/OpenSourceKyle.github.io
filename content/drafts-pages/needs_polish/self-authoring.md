@@ -6,11 +6,15 @@ tags:
 
 {{< details summary="Description and background" >}}
 
-Though Sigmund Freud likely created a version of **Self-authoring**, Jordan Peterson seem to have popularized it (more recently). Regardless of the original creator, the exercise serves a great purpose of internal reflection, which was my purpose for starting this.
+Though Sigmund Freud likely created a version of **Self-authoring**, Jordan Peterson seem to have popularized the idea of it more recently. The exercise serves a great purpose of internal reflection, which was my purpose for starting this.
+
+# Details
+
+General idea of the exercise:
 
 * https://en.wikipedia.org/wiki/Self-authorship
 
-Reviews (& breakdowns of the format and prompts):
+Various reviews and breakdowns of the format and prompts. I mostly used these to assess whether it was worth my time to complete this exercise and to figure out the questions.
 
 * https://lanegoodwin.com/self-authoring-review-jordan-peterson/
 * https://andreian.com/self-authoring/
@@ -24,7 +28,7 @@ Reviews (& breakdowns of the format and prompts):
 
 # Past
 
-{{< details summary="Past - Instructions" >}}
+{{< details summary="Instructions" >}}
 
 ### Completing the Exercise
 
@@ -38,7 +42,7 @@ Before proceeding with the writing, you will be asked to read about:
 2. the benefits of writing (and of sleeping in between writing sessions)
 3. adopting the correct attitude for beneficial writing.
 
-### Memory, Emotion and Stress:
+#### Memory, Emotion and Stress
 
 Your mind is always trying to determine the level of danger presented by your environment. When bad things happen to you, your mind and your body react by treating the environment as if it is dangerous, and preparing for emergency action. This preparation is stressful, and depletes you, mentally and physically.
 
@@ -46,7 +50,7 @@ If something bad has happened to you, in the past, your mind cannot be at peace 
 
 Unresolved past issues make your mind and body react as if the day-to-day environment that you inhabit is permanently dangerous. Under such conditions, your body reacts to stress with more preparation for action: for fight or flight, which you may feel, respectively, as anger or fear and emotional pain. If this preparation becomes chronic, your mental and physical health can be damaged. This happens in part because your body produces more cortisol, a stress hormone, when you are endangered. Cortisol makes you ready to act, but your body gets the energy for such action by stealing from your future reserves. Cortisol shuts down your higher mental functions, inhibits your immune system, burns up your available energy and, over time, damages the brain areas responsible for memory and emotional control. Thus it is very important to keep your stress levels within reasonable boundaries.
 
-### Writing
+#### Writing
 
 Why write? Writing is a sophisticated form of thinking. Thinking prepares you to perceive properly and act intelligently. If you don't think things through, particularly difficult things, then you are likely to make serious mistakes and to hurt yourself and other people. When you write about personally important matters, you can start to identify the causes of events that might hurt and damage you. You can begin to understand how you might have to change the way you see and think to avoid unnecessary pain and suffering.
 
@@ -55,13 +59,13 @@ It is best to do the writing that is associated with this exercise by entering i
 
 Voluntarily facing the remembered things you fear or that you hate is the best way of dealing with them. Don't rush this exercise, or the ones that follow, if you decide to complete them, as well. They are not something to merely complete. You have to take your time. In a reverie, or a daydream, parts of your mind that haven't been able to speak because of your focused concentration or moral opinions have a chance to let themselves be known. These are parts of you that need a voice. If you take your time, then you can make contact with parts of yourself that have been shut away. You will need the abilities and energies that are contained within these shut-away parts to deal with the challenges of the present and the future.
 
-### Sleeping
+#### Sleeping
 
 It may be best to do this exercise, as well as the present and future authoring exercises, over several days. The research done on the relationship between writing and mental and physical health has demonstrated that sleeping and, more particularly, dreaming, can help you participate more deeply in the writing exercise and consolidate your new ideas.
 
 So take your time and let yourself get deeply into the exercise.
 
-### Attitude While Writing
+#### Attitude While Writing
 
 If you are rushed, or distracted, or bored, then you are not doing the writing in a manner that will benefit you. If you are writing about important events, you may find the exercise difficult and emotionally challenging, but it should not be boring. If you are rushed or distracted, then you are trying too hard to finish, or have not put enough time aside to do the writing.
 
@@ -70,7 +74,7 @@ It is very important to negotiate with yourself properly when trying to write ab
 It is worth putting in the time to reap such benefits.
 Many times when a person is writing, they are writing for some other person or for some outside reason. If you have done this writing exercise properly you will be working primarily for yourself. What you produce should be a deeply personal document.
 
-### General Description
+#### General Description
 
 First, you will be asked to divide your life into seven different time periods or "epochs." These epochs can be as short or as long as you want, depending on how much you want to write about. One epoch might be "Grade School", for example, while a later epoch could be "First Year University".
 
@@ -80,7 +84,7 @@ Next, you will be asked to identify the significant experiences that characteriz
 
 You can write as much as you want. People have written thousands of words while completing this exercise. Other people have written less.
 
-## Autobiography
+#### Autobiography
 
 Autobiographical experiences that bring about...
 
@@ -93,17 +97,15 @@ Autobiographical experiences that bring about...
 
 {{< /details >}}
 
-# Past - Response
+### Family Background
 
-## Family
+#### Me
 
-### Background - Me
+I was born in South Carolina, US and lived my whole childhood in a small town in South Carolina. I did not like my hometown too much as a kid since I would have preferred to be in a larger city with more things to do. My hometown still is a small, mostly decaying textile town of roughly 4,000 people. Many folks live meagerly in trailers or government housing and are of a "redneck" or "backcountry" type of mentality regardless of their race or sex. 
 
-I was born in South Carolina, US and lived my whole childhood in Belton, South Carolina. I did not like Belton too much as a kid since I had would preferred to be in a larger city with more things to do. Belton is a small, mostly decaying textile town of roughly 4,000 people. Many folks live meagerly in trailers or government housing and are of a "redneck" or "backcountry" type of mentality regardless of their race or sex. 
+However as an adult, I miss the area with the peace that it brings me. For the sake of nostalgia, I do love going back to the town and the property that I grew up on. The peace, quiet, and generally static nature of the town and people gives it a stable, vintage appearance that barely seems to change no matter how long I have not lived there. I have noticed more people building large houses and moving there since the 2020 COVID-19 pandemic, where previously there was little activity of this sort. As of this writing, this thankfully has not changed much, but with it's close proximity to bigger cities, I could see it growing more.
 
-However as an adult, I miss the area with the peace that it brings me. Although I no longer enjoy seeing my parents there, I do love going back to the town and the property that I grew up on. The peace, quiet, and generally static nature of the town and people gives Belton a stable, nostalgic appearance that barely seems to change no matter how long I have not lived there. I have noticed more people building large houses and moving there since the 2020 COVID-19 pandemic, where previously there was little activity of this sort. As of this writing, this thankfully has not changed much, but with Belton's close proximity to Anderson and Greenville, I could see it growing more.
-
-### Background - Father
+#### Father
 
 My father was born to an intact family. My grandmother passed away in the 1980s from something heart attack related, so I never knew her. I do not know much of my grandma other than, according to a childhood friend of my dad, she was very abusive to my dad when he was young to include frequent physical beatings. Even my dad told me that he felt a great peace after she died, which I assume to be related. My grandfather was alive until I was about 7 years old. He worked in a local textile mill in their hometown for his whole life, which my dad would also work at briefly during high school.
 
@@ -111,7 +113,7 @@ My dad went to college to study Business. Afterwards, he sold insurance (life in
 
 My dad has never worked as long as I have been alive (and decades before so). His main pastime was occasional, insignificant chores around the house, but he mostly just watched TV during the day. He seemed to possess decent handyman skills from building onto the trailer (my childhood home) to make it appear as a house as well as expanding the electrical wiring to this extension.
 
-#### Assessment of Personality and Character
+##### Assessment of Personality and Character
 
 My dad paradoxically had great wisdom, a recollection of various historical stories, and sometimes "true" anecdotes of his life while practicing none of the said wisdom himself. Aside from that, he has consistently been a temperamental, angry person. The worst of is anger was his quickness to rage for a random or minor circumstanec as well as how quickly his mood could swing (e.g. from laughing happy to violent threats back to happy again). This behavior was potentially present in his mother according to previously mentioned childhood best friend. He would infrequently become suicidal and threaten to kill my mom and himself if arguments degraded so extremely. I never recall him threatening to kill me. He, by his own confession, was a ravenous alcoholic before I was born.
 
@@ -123,21 +125,21 @@ Due to his rapidly shifting attitude, I am fairly confident that he has always h
 
 In the most positive assessment, **my dad taught me how not to act or live my life**. While there was very little positive aspects of his absent fatherhood, I learned very early on who I did not want to be from him. I can name no other positive attributes from him.
 
-### Background - Mother
+#### Mother
 
-#### Assessment of Personality and Character
-
-# TBD
-
-### Background - Half-Siblings
-
-#### Assessment of Personality and Character
+##### Assessment of Personality and Character
 
 # TBD
 
-## Epochs
+#### Half-Siblings
 
-### Birth to Elementary School
+##### Assessment of Personality and Character
+
+# TBD
+
+### Epochs
+
+#### Birth to Elementary School
 
 I do not remember too much of my early childhood other than random memories such as my first bike ride and the sort. My parents put me in a local private school from K-4 to half of 5th grade. This mostly coincided with my mom working her out-of-state plant job (night shift) in Georgia since we were able to afford the private school. I did well in this school; often being the first student to complete my assignments and generally having the highest grade in class. I performed so well that my parents petitioned the school to let me skip the 2nd grade since it was a small class size and very under-stimulating to me, which impacted my demeanor according to my parents. I had no issues going from one month in the 2nd grade to finish the remainder of the school year in the 3rd grade. I maintained my normal school performance.
 
@@ -151,11 +153,11 @@ Although I was only in the 5th grade of public school for half a year, I got 2nd
 
 Since I was younger and less active than other kids my age, I grew into a sort of chubby, nerdy kid from my youth. I was fortunate to have wonderful kid and people skills, so I did not suffer much from being this archetype in my youth. People also generally liked me, and I enjoyed socializing with many different people.
 
-### Middle School
+#### Middle School
 
 Middle school was mostly uneventful, but I enjoyed it. I cultivated a couple of best friends there that lasted me till the end of high school. I also started band in the 6th grade playing the trombone and eventually joined marching band playing the marching baritone in 8th grade. I continued doing well in school, reading a lot, and even earned the highest History class combined grade in the 6th, 7th, and 8th grade such that I got an award upon finishing middle school by the *Daughters of the Confederacy* (an interesting group to say the least). Again, I was blessed that I enjoyed my middle school experience.
 
-### High School
+#### High School
 
 High school set up quite a bit of my life until the present of this writing. I joined Air Force Junior ROTC (AFJROTC) in 9th grade, which eventually led me to the Air Force. I initially had a decent aversion to joining the military before AFJROTC, but that changed after my first year. I greatly enjoyed the friends, instructors, and greater calling that I was persuaded into.
 
@@ -167,33 +169,33 @@ This was a blessing in disguise because afterwards I went out with a Hispanic gi
 
 I recall a funny "cultural" experience through her by meeting her dad, and him calling me a "maricón" (faggot in Spanish). When I understood him and told him the word's meaning, he was shocked yet proud and came to like me soon after.
 
-### College
+#### College
 
 # TBD
 
-### Air Force
+#### Air Force
 
 # TBD
 
-### Post-AF to Break
+#### Post-AF to Break
 
 # TBD
 
-### Post-Break
+#### Post-Break
 
-# TBD
+TBD
 
+## Present
 
-# Present
+{{< details summary="Instructions" >}}
 
-{{< details summary="Faults - Prompt" >}}
+### Completing the Exercise
+
 This program has been designed to allow you to do an in-depth analysis of some of the negative aspects or faults of your personality. It is the partner program to the virtues analysis section of the present authoring program. It is our hope that constructing a clearer picture of your faults will help you understand the impact of your personality traits on your life in the past, present, and future.
 
 It is probably best to complete this exercise if you are in a normal to good mood, so that you can tolerate the self-criticism. If you are feeling sad, lonely, or depressed, you should probably do the virtues analysis instead. This exercise will take you 60-90 minutes, depending on your choices. You will be asked first to read some information about basic personality theory and then to select 2-10 faults from each of five lists of faults (one list per basic personality trait).
 
 Then you will be presented with the faults you have selected, and asked to choose a final list of the faults you think have most interfered with your life. You will be asked to write for about 10 minutes, later, for each fault you choose, after you have rank-ordered them in importance. We recommend that you choose 6-9 faults (for 60 to 90 minutes of work), but you can choose as many as you like. Just remember that you will be asked to write about each one. You will be asked to describe how this fault has impacted you negatively, in the past; what you might have done differently; and what you could do now and in the future to rectify or eliminate this fault.
-
-### Background Knowledge
 
 To complete the following exercise, there are a number of things that are useful to know. (you may have encountered this information previously if you have completed the virtues analysis program, but it might be worthwhile to review it):
 
@@ -254,9 +256,18 @@ Stability, the second higher-order trait, can be further broken down into three 
 * Compliant
 * Tender-minded
 * Nice
+
+##### Impact of Personality Traits
+
+There are advantages and disadvantages to each trait, particularly at the extremes. Extremely sociable, extraverted people can be dominant and impulsive, while introverted, quiet people can easily become isolated and depressed. Extremely open people can be scattered and overwhelmed by their own thoughts and ideas, while closed-minded people may become narrow and inflexible. Exceptionally conscientious people can be obsessive about order, judgmental and rigid, while their more carefree counterparts may be messy, undisciplined and careless. People very high in emotional stability may engage in risky, dangerous behavior, while those who are more neurotic can become so preoccupied by anxiety and pain that they are unable to function. Finally, extremely agreeable people may never stand up for themselves, while those who are too assertive can be aggressive, callous and bullying.
+
+##### Change
+
+Personality is reasonably stable over the lifespan, and is also powerfully influenced by hereditary or genetic factors. Despite this, personality can broaden or even transform. As people age, for example, they tend to become more agreeable, conscientious and emotionally stable.Changing personality means changing habits of action, presumption and perception. Personality change requires the formulation of clear future goals, as well as discipline and practice. People who are too agreeable can learn to stand up for themselves. Disorderly people can become more conscientious. Introverted people can become socially skilled. People who experience paralyzing levels of negative emotion can learn to explore.
+
 {{< /details >}}
 
-## Faults - Response
+### Faults
 
 negative aspects of your personality...
 
@@ -273,81 +284,7 @@ https://www.merriam-webster.com/dictionary/fault
 * very judgemental especially of fat people and the lazy or unambitious who are unhappy
 * aversion to outsiders or out-groups
 
-{{< details summary="Virtues - Prompt" >}}
-This exercise has been designed to allow you to do an in-depth analysis of some of the positive aspects or virtues of your personality.
-
-### Background Knowledge
-
-To complete the following exercise, there are a number of things that are useful to know (you may have encountered this information previously if you have completed the faults analysis exercise, but it might be worthwhile to review it):
-
-Everybody's personality is composed of two higher-order traits. The first higher-order trait is known as plasticity, and can be thought of as the tendency to be flexible, exploratory, curious and quick to adapt. The second higher-order trait is known as stability, and can be thought of as the tendency to be structured, organized, emotionally stable and focused.
-
-#### Plasticity
-
-Plasticity, the first higher-order trait, can be further broken down into two sub-traits: Extraversion (the tendency to be enthusiastic and dominant) and Openness (the tendency to be open-minded and intelligent).
-
-##### Extraversion (Outgoing vs Reserved)
-
-* Sociable
-* Active
-* Adventurousness
-* Positive
-* Excitement-Seeking
-* Gregarious
-
-##### Openness (Original vs Traditional)
-
-* Fantasy-prone
-* Aesthetically-minded
-* Philosophical
-* Creative
-* Intuitive
-* Intellectual
-
-#### Stability
-
-Stability, the second higher-order trait, can be further broken down into three sub-traits: Conscientiousness (the tendency to be orderly and industrious), Emotional Stability (lack of negative emotional volatility and the tendency to withdraw), and Agreeableness (politeness and compassion, as opposed to belligerence or aggression).
-
-##### Conscientiousness (Conscientious vs Carefree)
-
-* Competent
-* Orderly
-* Decisive
-* Achievement-oriented
-* Self-disciplined
-* Deliberate
-* Industrious
-
-##### Emotional Stability (Calm vs Nervous)
-
-* Anxious (reversed)
-* Angry (reversed)
-* Hostile (reversed)
-* Depressed (reversed)
-* Self-Conscious (reversed)
-* Vulnerable (reversed)
-
-##### Agreeableness (Agreeable vs Assertive/Aggressive)
-
-* Warm
-* Trusting
-* Straightforward
-* Altruistic
-* Modest
-* Compliant
-* Tender-minded
-* Nice
-
-### Impact of Personality Traits
-
-There are advantages and disadvantages to each trait, particularly at the extremes. Extremely sociable, extraverted people can be dominant and impulsive, while introverted, quiet people can easily become isolated and depressed. Extremely open people can be scattered and overwhelmed by their own thoughts and ideas, while closed-minded people may become narrow and inflexible. Exceptionally conscientious people can be obsessive about order, judgmental and rigid, while their more carefree counterparts may be messy, undisciplined and careless. People very high in emotional stability may engage in risky, dangerous behavior, while those who are more neurotic can become so preoccupied by anxiety and pain that they are unable to function. Finally, extremely agreeable people may never stand up for themselves, while those who are too assertive can be aggressive, callous and bullying.
-
-### Change
-
-Personality is reasonably stable over the lifespan, and is also powerfully influenced by hereditary or genetic factors. Despite this, personality can broaden or even transform. As people age, for example, they tend to become more agreeable, conscientious and emotionally stable.Changing personality means changing habits of action, presumption and perception. Personality change requires the formulation of clear future goals, as well as discipline and practice. People who are too agreeable can learn to stand up for themselves. Disorderly people can become more conscientious. Introverted people can become socially skilled. People who experience paralyzing levels of negative emotion can learn to explore.
-{{< /details >}}
-
-## Virtues - Response
+### Virtues
 
 positive aspects virtues of your personality...
 
@@ -374,8 +311,8 @@ https://www.merriam-webster.com/dictionary/virtue
 
 # Future
 
-{{< details summary="Future - Instructions" >}}
-## GENERAL INSTRUCTIONS
+{{< details summary="Instructions" >}}
+### Completing the Exercise
 
 The full future authoring exercise has 2 different stages, each with a number of steps:
 
@@ -395,13 +332,13 @@ During some sections, you will be asked to write for specified amounts of time. 
 
 During this exercise, you will be presented with a series of pages either providing you with information, or asking you to describe aspects of your personality and experiences.
 
-### The Ideal Future: Preliminary Notes and Thoughts
+#### The Ideal Future: Preliminary Notes and Thoughts
 
 In this exercise you will begin to create a version, in writing, of your ideal future. William James, the great American psychologist, once remarked that he did not know what he thought until he had written his thoughts down. When he didn't know what to write, he wrote about anything that came to mind. Eventually, his ideas became focused and clarified.
 
 Brainstorm. Write whatever comes to mind. Don't worry too much about sentence construction, spelling, or grammar. There will be plenty of time to write polished sentences later. Avoid criticizing what you write. Premature criticism interferes with the creative process.
 
-### Imagining Your Ideal Future
+#### Imagining Your Ideal Future
 
 You will start with some exercises of imagination that will help you warm up to the task of defining your future.
 
@@ -410,11 +347,10 @@ These will include 8 questions such as "what could you do better?", "what would 
 Let yourself daydream or fantasize. You are trying to put yourself into a state of reverie, which is a form of dream-like thinking that relies heavily on internal imagery. This kind of thinking allows all your different internal states of motivation and emotion to find their voice.
 
 It might be best to concentrate on your future three to five years down the road, although you may have reasons to concentrate on a shorter or longer timespan (eighteen months to ten years).
+
 {{< /details >}}
 
-# Future - Response
-
-## Future - Ideal Scenario (stream of consciousness in 15 min)
+### Ideal Scenario (stream of consciousness in 15 min)
 
 * learn spanish to be functionally fluent; maybe learn other languages to minor degree
 * live in a foreign spanish-speaking country with a remote job hustle as a small income flow as well as bartending there to insert myself into the local culture
@@ -438,10 +374,10 @@ It might be best to concentrate on your future three to five years down the road
 * continue and practice self-independence and self-strong-headnesses
 * understand that happiness is enjoyable yet fleeting and work rather to build confidence, esteem, contentment, and gratitude without being fearful of expressing the full bandwidth of human emotions in a proper way (e.g. anger itself is not bad when used defensively but uninitiated violence from anger is)
 
-## Future - Unacceptable Scenario (stream of consciousness in 15 min)
+### Unacceptable Scenario (stream of consciousness in 15 min)
 
 # TBD
 
-## Goals (from Ideal Future)
+### Goals (from Ideal Future)
 
 # TBD

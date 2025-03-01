@@ -1,5 +1,5 @@
 ---
-title: "Tailored Coaching: Results Without the BS"
+title: "Tailored Coaching w/o the BS"
 description: "Personalized coaching for analytical professionals seeking growth in relationships, career, and wellness through structured, no-nonsense strategies."
 type: pages
 image: /images/coaching.jpg
@@ -7,18 +7,13 @@ image_caption: "My Mission: Help you find yours"
 date: 2025-02-12
 tags:
   - coaching
-  - personal development
   - relationships
   - career
-  - business
   - wellness
   - exclude-from-validation
 ---
 
-## Yep, this is the coaching sales page, and I'm here to help. Don't be shocked.
-
-
-# What do you want? Take the action.
+# I'm here to help. Don't be shocked this is a sales page. Take action.
 
 I used to believe that sheer effort and willpower were enough to achieve anything -- just like debugging a tricky piece of code, I thought I could logic my way through any challenge. But real success, in life and relationships, doesn't work that way.
 
@@ -28,7 +23,9 @@ After much reflection, I realized the cliche that growth isn't a solo journey is
 
 Now, I want to pay it forward by helping others -- especially analytical, driven professionals -- who have ambitious goals but feel stuck when it comes to the things outside of the usual technical problems: relationships, career growth, and confidence.
 
-{{< button text="🗓️ Let's start the journey" url="https://forms.gle/rCJzyPiTWYsDMZhf8" >}}
+<!--more-->
+
+{{< button text="🗓️ Apply to start your journey" url="https://forms.gle/rCJzyPiTWYsDMZhf8" >}}
 
 ## My Expertise
 

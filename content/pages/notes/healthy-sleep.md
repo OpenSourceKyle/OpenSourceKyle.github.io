@@ -1,64 +1,75 @@
 ---
-title: Healthy Sleep (Insomnia CBT Class)
+title: Notes from Healthy Sleep (Insomnia CBT Class)
+description: Notes from my time in a class about understanding and improving sleep through cognitive behavioral techniques for insomnia.
+date: 2023-05-03
 tags:
+  - notes
   - wellness
   - sleep
+image: /images/pages/quin-stevenson-3oyeaivM_fE-unsplash.jpg
+image_caption: '@qstevenson on Unsplash'
+image_link: https://unsplash.com/@qstevenson
 ---
 
-**NOTE: these notes from are from my insomnia counseling that I went to**
+# Intro
 
-# Healthy Sleep Class
+These notes from are from my insomnia counseling that I went to.
 
----
+# Details
 
-## Purpose of Sleep
+## SESSION 1: Purpose of Sleep
 
-- mood
-- memories
-- physical recovery
-- hormones
-- cognition
-- REALLY: we don't really know why, but we know it is *needed*
+- Mood
+- Memories
+- Physical recovery
+- Hormones
+- Cognition
+- **REALLY:** We don't really know why, but we know it is *needed*
 
-### Insomnia: disruptions of sleep that impacts daytime function
+### Insomnia: Disruptions of sleep that impact daytime function
 
-- difficulty falling and staying asleep and waking up too early
+- Difficulty falling and staying asleep
+- Waking up too early
 
 ### Sleep Cycles
 
+{{< lightbox src="/images/pages/sleep-class/GeneralizedCircadianRhythm.png" caption="Circadian Rhythm" >}}
+
 Awakenings: 2-3 brief awakenings are natural/normal during sleep (9-10 micro-awakenings)
 
-- N1: fragile, transitionary stage of sleep (can easily be awaken)
-- N2: stronger sleep stage (only drastic noises or lighting)
-- N3: [deep sleep] most restful -- usually overhyped -- frontend of sleep
-- REM: dreams, emotions, mood, energy, and memories -- backend of sleep
+- N1: Fragile, transitionary stage of sleep (can easily be awakened)
+- N2: Stronger sleep stage (only drastic noises or lighting)
+- N3: [Deep sleep] Most restful -- usually overhyped -- frontend of sleep
+- REM: Dreams, emotions, mood, energy, and memories -- backend of sleep
 
 ### Sleep
 
-- sleep drive: builds over time of the day (don't go to sleep early since it can cause insomnia) -- usu. 16 hrs but can be more
+- Sleep drive: Builds over time of the day (don't go to sleep early since it can cause insomnia) -- usually 16 hrs but can be more
   - naps are similar to "snacks" for sleep
-- circadian rhythm: consistency
+- Circadian rhythm: Consistency
 
 ### Sleep Hygiene
 
-- sleep environment: noise, light, temp
-- reduce caffeine (none within 10 hrs of bedtime OR in other words, none after noon)
-- no watch the clock, phones, or TV
-- no large meals, exercise, alcohol, and nicotine within 4 hrs of bedtime
+{{< lightbox src="/images/pages/sleep-class/HealthySleepChecklist.png" caption="Healthy Sleep Checklist" >}}
 
-### Insomnia Coach
+- Sleep environment: Noise, light, temperature
+- Reduce caffeine: None within 10 hrs of bedtime (or in other words, none after noon)
+- Avoid: Watching the clock, phones, or TV
+- Avoid large meals, exercise, alcohol, and nicotine: Within 4 hrs of bedtime
 
-- within 2hrs of wakeup and NOT in bed
-- perception of sleep is more accurate than smart device
-- dont use sleep recommendation -- will make it manually in class
+### Insomnia Coach (phone app: sleep diary)
+
+- Within 2 hrs of wakeup and NOT in bed
+- Perception of sleep is more accurate than smart devices
+- Don't use sleep recommendations -- will make it manually in class
 
 ## SESSION 2
 
-Sleep Efficiency training: goal of 85%
+Sleep Efficiency training: Goal of 85%
 
 Sleep Window: total sleep + 30 min (e.g. 5.5 hrs asleep = 6 hrs in bed)
 
-- takes 2 weeks to re-acclimate
+- Takes 2 weeks to re-acclimate
 
 Slowly increase sleep window to increase total sleep time
 
@@ -71,11 +82,11 @@ Sleep Time: bedtime 0100 to wakeup 0730
 ### 7 Sleep Rules:
 
 1) I must get out of bed at [WAKEUP] time: 0730
-2) Got to bed when sleepy by not before [BEDTIME]: 0130
+2) Go to bed when sleepy but not before [BEDTIME]: 0130
 3) Get up when you can't sleep
 4) Use bed only for sleeping -- BED IS ONLY FOR SLEEP (NOT BED IS PLACE TO BECOME SLEEPY)
 5) Avoid napping
-6) Create wind-down routine before bed
+6) Create a wind-down routine before bed
 7) Don't occupy mind/think in bed
 
 SLEEPY: eyes heavy, head nodding
@@ -99,6 +110,8 @@ Conditioning: can have conditioned insomnia where laying in bed results in doing
 - 30-60min AFTER bed/sleep
 
 ## SESSION 4
+
+{{< lightbox src="/images/pages/sleep-class/UnhelpfulThoughtPatterns.png" caption="Unhelpful Thought Patterns" >}}
 
 Bedtime: 0000-0730
 
@@ -139,3 +152,7 @@ homework:
 - Sleep tracker only necessary when sleep improvement is desired
 - Flexiblity (i.e. sleeping in): only when stable, do 1x/week, don't over do it (e.g. just sleep in 1 hr) <-- eliminate sleeping flexibility when disturbances start happening again
 - Plateau: stablizing for 2+ weeks; maybe hitting natural limit; diet, stress, physical activity, change winddown nighttime activity
+
+# Action
+
+Get better sleep!

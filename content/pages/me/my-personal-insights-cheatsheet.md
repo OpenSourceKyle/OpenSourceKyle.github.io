@@ -12,15 +12,16 @@ image_caption: "@farzadme on Unsplash"
 image_link: https://unsplash.com/@farzadme
 ---
 
-This is a cheatsheet of my common personality traits that I have been asked about in various settings: whether friends, dates, work colleagues, or even strangers. I noticed this as a pattern, so I am highlighting the various insights for conversational purposes only. Most, if not all, of these are generally pseudoscience but are fun and interesting nonetheless.
+# Intro
 
+This is a cheatsheet of my common personality traits that I have been asked about in various settings: whether friends, dates, work colleagues, or even strangers. I noticed this as a pattern, so I am highlighting the various insights for conversational purposes only. Most, if not all, of these are generally pseudoscience but are fun and interesting nonetheless.
 ## Summary of Key Characteristics
 - **MBTI Focus Areas**: Leadership, strategic communication, personal growth through exploration.
 - **Big Five Personality Traits**: Outgoing, ambitious, highly conscientious, and open, with a direct approach in social settings.
 - **Love and Relationships**: Physical touch and quality time are key to feeling connected. Highly compatible with partners who value intimacy and shared experiences.
 - **Career and Public Life**: Drawn towards nurturing yet leadership-oriented careers that emphasize decision-making, structure, and creating emotional security.
 
----
+# Details
 
 ## Myers-Briggs: Commander (ENTJ-A)
 
@@ -83,3 +84,9 @@ This was derived from [astrological birth chart or natal astrology](https://en.w
 | **North Node**  | ♏ Scorpio         | Life lesson involves embracing emotional intensity, letting go of control, and seeking empowerment. |
 | **Chiron**      | ♍ Virgo           | Healing journey around perfectionism, learning to accept imperfection. |
 | **Midheaven**   | ♋ Cancer          | Drawn to nurturing careers, creating emotional security, or work connected to home/family. |
+
+# Action
+
+Get to know your own results! There are numerous AI and tests that can give you insights.
+
+* [Myers-Briggs](https://www.16personalities.com/)

@@ -1,17 +1,17 @@
 ---
-title: How to be a Coach
+title: Become a Coach
 date: 2024-10-27
 tags:
   - howto
   - coaching
 image: /images/pages/coaching.jpg
-image_caption: What coaching looks like according to DALL-E
+image_caption: Coaching can be very dramatic according to DALL-E
 description: This page explores the philosophy of coaching, emphasizing the importance of listening, understanding, and tailoring approaches to individual coachees. It discusses the role of a coach, how to start coaching, and practical tips for engaging with coachees effectively.
 ---
 
 # Intro
 
-**This is a living document as my thoughts and philosophies adapt**, but I aim to give greater insights to others since it is rare to see someone's inner methodology. Remember this is my style -- there is not a right or wrong answer to this -- take time and experimentation to develop your own.
+**This is a living document as my thoughts and philosophies adapt**, but I aim to give greater insights from me to others since it is rare to see someone's inner methodology. Remember this is my style -- there is not a right or wrong answer to this -- take time and experimentation to develop your own.
 
 A **coach inspires action and decisiveness in the coachee**. A good coach is not responsible for the outcome but helps the coachee find the best way -- usually minimizing or eliminating mental and physical obstacles.
 

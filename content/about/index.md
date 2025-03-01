@@ -16,6 +16,8 @@ This entire journey (and website) is one big experiment for me -- an exercise in
 
 This is both a personal and business project -- a space where I explore my thoughts, document my experiences, and share insights from my life.
 
+<!--more-->
+
 ### This site is for me first. This is my *[magnum opus](https://en.wikipedia.org/wiki/Magnum_opus_(alchemy))* -- my life's "great work."
 
 Writing has always been a way for me to process ideas, express gratitude for moments in my life, and reflect on my journey.

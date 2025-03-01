@@ -1,8 +1,15 @@
 ---
-title: Self-Authoring
+title: "WIP: Self-Authoring"
+date: 2023-02-28
+description: A reflective exercise inspired by the concept of self-authoring, aimed at helping individuals explore their past, present, and future.
 tags:
   - personal
+  - self-authoring
+image: /images/pages/self-authoring.jpg
+image_caption: Self-Authoring
 ---
+
+# Intro
 
 {{< details summary="Description and background" >}}
 
@@ -24,9 +31,9 @@ Various reviews and breakdowns of the format and prompts. I mostly used these to
 
 {{< /details >}}
 
----
+# Action
 
-# Past
+## Past
 
 {{< details summary="Instructions" >}}
 
@@ -129,13 +136,13 @@ In the most positive assessment, **my dad taught me how not to act or live my li
 
 ##### Assessment of Personality and Character
 
-# TBD
+TBD
 
 #### Half-Siblings
 
 ##### Assessment of Personality and Character
 
-# TBD
+TBD
 
 ### Epochs
 
@@ -171,15 +178,15 @@ I recall a funny "cultural" experience through her by meeting her dad, and him c
 
 #### College
 
-# TBD
+TBD
 
 #### Air Force
 
-# TBD
+TBD
 
 #### Post-AF to Break
 
-# TBD
+TBD
 
 #### Post-Break
 
@@ -309,7 +316,7 @@ https://www.merriam-webster.com/dictionary/virtue
 
 ---
 
-# Future
+## Future
 
 {{< details summary="Instructions" >}}
 ### Completing the Exercise
@@ -376,8 +383,8 @@ It might be best to concentrate on your future three to five years down the road
 
 ### Unacceptable Scenario (stream of consciousness in 15 min)
 
-# TBD
+TBD
 
 ### Goals (from Ideal Future)
 
-# TBD
+TBD

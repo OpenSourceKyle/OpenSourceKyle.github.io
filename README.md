@@ -24,7 +24,7 @@ Follow these steps to run the project locally:
 sudo pacman -S hugo
 
 # Clone repo with submodules
-git clone --recurse-submodules git@github.com:OpenSourceKyle/OpenSourceKyle.github.io.git
+git clone --recurse-submodules git@github.com:OpenSourceKyle/OpenSourceKyle.github.io.git&& ./setup.sh
 
 # Serve the site locally and auto-rebuild on changes
 hugo server

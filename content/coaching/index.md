@@ -54,7 +54,7 @@ My coaching is designed **specifically for people who want clear, actionable str
 * **Open-source insights**—I freely share what I learn so cost isn't a barrier. I will continue developing articles from my experiences that can serve you and others.
 * I've been where you are. I've **solved these challenges myself** and now help others do the same.
 
-For a deeper look into, read [my coaching philosophy]({{< relref "pages/coaching/being-a-coach.md" >}}).
+For a deeper look into, read [my coaching philosophy]({{% relref "pages/coaching/being-a-coach.md" %}}).
 
 {{< button text="🗓️ Start with a free call!" url="https://forms.gle/rCJzyPiTWYsDMZhf8" >}}
 

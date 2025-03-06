@@ -1,3 +1,4 @@
 [submodule "themes/hugo-opensourcekyle-theme"]
 	path = themes/hugo-opensourcekyle-theme
-	url = git@github.com:OpenSourceKyle/hugo-opensourcekyle-theme.git
+  url = git@github.com:OpenSourceKyle/hugo-opensourcekyle-theme.git
+  branch = main

@@ -13,11 +13,11 @@ description: This article shares a personal journey of learning Spanish, detaili
 
 # Intro
 
-##### *Note: I use the word Mexicans in this article. Although in the U.S., we are sensitive to this, but I am using Mexican in the technical sense -- people from Mexico. Having lived in Mexico for a while, Latino is typically an uncommon word, and Hispanic is absolutely made up and offensive. I am respecting the people I love by correctly labeling them by their present-day nationality and culture.*
+##### *Note: I use the word Mexicans in this article. Although in the U.S. we are sensitive to this, I am using Mexican in the technical sense -- people from Mexico. Having lived in Mexico for a while, Latino is typically an uncommon word, and Hispanic is absolutely made up and offensive. I am respecting the people I love by correctly labeling them by their present-day nationality and culture.*
 
 My whole life, it seemed there were always Mexicans around me while I was growing up. Although that sounds funny or ignorant, but it's the honest truth. I came from a small family of just me and my parents -- we were not close with any other relatives. So when we went out and saw these (typically big) Mexican families, I always had a sense of jealousy and desire for belonging. Big picnics, cookouts, music, fun, games, etc. -- and instead, I was alone with my dysfunctional parents, likely enduring some public fight they were prone to having.
 
-I did not start learning Spanish until high school, and surprisingly that seemed early growing up in the South. I feel that my school did their best, and I had thought I learned a lot. However, after more time studying and living in a Spanish-speaking place, I realized I learned very little. Aside from knowing when my Puerto Rican ladyfriend's dad called me *maricón* in high school, what I learned then served me very little (though inspired me a lot).
+I did not start learning Spanish until high school, and surprisingly that seemed early growing up in the South. I feel that my school did their best, and I had thought I learned a lot. However, after more time studying and living in a Spanish-speaking place, I realized I learned very little. Aside from knowing when my Puerto Rican ladyfriend's dad** called me *maricón* in high school, what I learned then served me very little (though inspired me a lot).
 
 > ****He ended up loving me because I understood his joking insult in that moment**
 
@@ -136,6 +136,8 @@ I took the dance class every session (sometimes doubling up or teaching) while s
 2) 5 minutes on Duolingo
 3) 5 minutes studying Anki flashcards
 4) 10 minutes listening to a Spanish podcast or YouTube video
-5) Sign up for 1-3 days/week; if your level is intermediate, immerse yourself in a country that speaks it
+5) 1-3 days/week Sign up for a Spanish class; if your level is intermediate, immerse yourself in a country that speaks it
+
+I only recommend tutoring at an intermediate-high or higher level because there are so many good free resources for beginners.
 
 **Take notes and improve your practice!**

@@ -7,7 +7,7 @@ tags:
   - about
   - exclude-from-validation
 image: /images/myface.jpg
-image_caption: Profile picture of Kyle
+image_caption: Kyle
 description: A personal exploration of openness, honesty, and vulnerability, documenting experiences and insights while providing actionable advice and guidelines for writing.
 ---
 This entire journey (and website) is one big experiment for me -- an exercise in being more open, honest, and vulnerable. With that comes the acceptance of all my imperfections -- those things I spent years hiding, fixing, or even lying about.

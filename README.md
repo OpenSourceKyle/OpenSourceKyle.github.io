@@ -23,6 +23,9 @@ Follow these steps to run the project locally:
 # Install Hugo (Arch Linux includes the extended version)
 sudo pacman -S hugo
 
+# Clone repo with submodules
+git clone --recurse-submodules git@github.com:OpenSourceKyle/OpenSourceKyle.github.io.git
+
 # Serve the site locally and auto-rebuild on changes
 hugo server
 ```

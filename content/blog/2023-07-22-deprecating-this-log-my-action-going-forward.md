@@ -8,7 +8,7 @@ On that note, I'm going to "deprecate" this log and create a new log. This log w
 
 I want this log to be a history of my past and emotions, but I need something new to take me forward. Inspired by the action ethos, I am holding myself to a higher standard of taking action. I've yet to determine how my new log will look exactly, but it will be action-focused first and foremost. No more whining, complaining, crying, etc. that I have done here. Again, I have no shame in all that, but that's not the man I want to live every day going forward (but it was most certainly who I needed to be to work through all that).
 
-I *may* return occasionally to this log if I feel the need to put something emotional or related here, but my vision is let this log sink into the backlogs. Leave my past [mostly] behind me sort of thing. Also inspired by many other dudes (though not all) here, I want to focus on physical action -- not theorizing and chatting all the time.
+I *may* return occasionally to this log if I feel the need to put something emotional or related here, but my vision is to let this log sink into the backlogs. Leave my past [mostly] behind me sort of thing. Also inspired by many other dudes (though not all) here, I want to focus on physical action -- not theorizing and chatting all the time.
 
 I have a lot of action coming in the near future. I'll write a brief summary of that soon in my new log.
 

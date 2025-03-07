@@ -2,16 +2,16 @@
 title: "Taking Time Off Pt2"
 ---
 
-First full week out of school. It's been a great fun week, and I've been accomplishing daily tasks related to main 2 goals atm: living in Mexico and working to be mentally resilient
+First full week out of school. It's been a great, fun week, and I've been accomplishing daily tasks related to my main 2 goals atm: living in Mexico and working to be mentally resilient.
 
 # 💥Actions
 
 ## 🇲🇽Spanish
 
 * Daily practice: reestablishing habit (sometimes I miss a day)
-* Dance: upcoming week will be my last of dance classes
+* Dance: the upcoming week will be my last of dance classes
 * Book: daily reading of 5 pages of my steamy love novel about online dating (it's actually good practice and funny)
-* Residency: no update/awaiting response -- i've been researching the process on my own, so if this company doesn't respond to me this week I'll consider doing the process by myself
+* Residency: no update/awaiting response -- I've been researching the process on my own, so if this company doesn't respond to me this week, I'll consider doing the process by myself.
 
 ## ⚕️Diet/Exercise/Sleep
 
@@ -22,7 +22,7 @@ First full week out of school. It's been a great fun week, and I've been accompl
 
 ## ❤️‍🔥Dates/Relationships
 
-* Dates: all day yesterday with ladyfriend; talked more deeply about many things and growing this "situationship"... kinda cool I feel like I can experiment with maturing this situationship without turning it into a relationship. Realistically, we're probably going that direction but low expectations or restrictions for each other. I'm not interested in dating others at the moment, but I'm open to it as well. First time in my life I've been in this state, and I like it for the time being
+* Dates: all day yesterday with ladyfriend; talked more deeply about many things and growing this "situationship"... kinda cool I feel like I can experiment with maturing this situationship without turning it into a relationship. Realistically, we're probably going in that direction but low expectations or restrictions for each other. I'm not interested in dating others at the moment, but I'm open to it as well. First time in my life I've been in this state, and I like it for the time being.
 * Sexual Health: had sex 👍 and a wet dream this week -- still low libido
 * Relationship: n/a
 

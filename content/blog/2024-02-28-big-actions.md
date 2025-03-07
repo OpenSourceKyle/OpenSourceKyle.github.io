@@ -7,7 +7,7 @@ I took a journey, and I learned a lot from it. The gist rather is that I have al
 
 # In summary
 
-* Threw my last big house party before I move and to say goodbye to some friends who will be leaving
+* Threw my last big house party before I moved and to say goodbye to some friends who will be leaving
 * Finished my Spanish school -- not returning to focus on residency and get more real-world Spanish experience
 * Started working with a company to help me with residency
 * Started individual therapy this past Monday
@@ -27,7 +27,7 @@ I took a journey, and I learned a lot from it. The gist rather is that I have al
 * Food: worse - but will be better once I move into my next place
 * Exercise: n/a
 * Walking: last week: 82k steps or ~ 61km
-* Sleep: sleeping good!
+* Sleep: sleeping well!
 
 ## ❤️‍🔥Dates/Relationships
 
@@ -39,4 +39,4 @@ I took a journey, and I learned a lot from it. The gist rather is that I have al
 ## 🔧Self-Development
 
 * Course: continuing finishing the course and weekly accountability meetings with a best friend about them
-* Coaching: helped my friend get a few dates when otherwise he's had none -- he's been super happy with that; working on his style/outfits next
+* Coaching: helped my friend get a few dates when otherwise he'd had none -- he's been super happy with that; working on his style/outfits next

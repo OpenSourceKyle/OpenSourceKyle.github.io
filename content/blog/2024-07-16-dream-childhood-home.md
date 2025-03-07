@@ -44,6 +44,6 @@ The dream reinforces that while you may not feel a strong desire to alter your c
 
 # My thoughts of Analysis
 
-I have already tried many times to have deeper conversations and be vulnerable. I feel that none of that was rewarded nor met with the kind of reaction I wanted -- general love and support not criticism. Accepting that I cannot nor want to change them, I realized they do not add any positive value to my life.
+I have already tried many times to have deeper conversations and be vulnerable. I feel that none of that was rewarded nor met with the kind of reaction I wanted—general love and support, not criticism. Accepting that I cannot nor want to change them, I realized they do not add any positive value to my life.
 
-I understand at this point of my life that I want family, but I do not want my own family. I feel better without them. Maybe one day I will try to talk to them.
+I understand at this point in my life that I want family, but I do not want my own family. I feel better without them. Maybe one day I will try to talk to them.

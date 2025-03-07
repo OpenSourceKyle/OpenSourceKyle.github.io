@@ -16,15 +16,12 @@ Other date today... will be interesting. She's from Mexico and a traveling guita
 
 ## Next Car: Tesla Model 3
 
-I rented a Tesla Model 3 for the weekend. I'm going to test drive this car before completely committing to buying one. I'm also gonna get out and go to some big nature parks to take a break from things (maybe camp? maybe not? taking it as it comes instead of totally planning it out). I thought about inviting some friends, but fuck that. I'm going on a hot date with my camera and guitar instead
-I plan to get my new car post-divorce, quit bartending, and roadtrip over the US. I have some more goals, but I'll keep those private... basically see more of the world and maybe scope out a new place to live
+I rented a Tesla Model 3 for the weekend. I'm going to test drive this car before completely committing to buying one. I'm also gonna get out and go to some big nature parks to take a break from things (maybe camp? maybe not? taking it as it comes instead of totally planning it out). I thought about inviting some friends, but fuck that. I'm going on a hot date with my camera and guitar instead. I plan to get my new car post-divorce, quit bartending, and road trip over the US. I have some more goals, but I'll keep those private... basically see more of the world and maybe scope out a new place to live.
 
 ## Work
 
-Working yesterday and today for computer job. Bartending Sunday and Monday. -> Making that $$$ for my next stage in life
+Working yesterday and today for computer job. Bartending Sunday and Monday. -> Making that $$$ for my next stage in life.
 
 ## Fitness
 
-Gymnastics-wise, I've been taking time to practice technique more instead of reps. I started videoing my routine to improve my form, which it has been needing. I'm getting better at doing muscle ups with less momentum and working to be nicer on my joints, especially my shoulders and elbows.
-Running-wise, I ran 2 miles in under 15 mins (7:27min/mi pace) on Tues... not bad in the heat here. Legs very sore, so of course I ran 2.5 miles yesterday also (but at a slow speed) in the hot heat.
-Exercise always has been and hopefully will be my drug of choice. I always feel better
+Gymnastics-wise, I've been taking time to practice technique more instead of reps. I started videoing my routine to improve my form, which it has been needing. I'm getting better at doing muscle-ups with less momentum and working to be nicer on my joints, especially my shoulders and elbows. Running-wise, I ran 2 miles in under 15 mins (7:27 min/mi pace) on Tues... not bad in the heat here. Legs very sore, so of course I ran 2.5 miles yesterday also (but at a slow speed) in the hot heat. Exercise always has been and hopefully will be my drug of choice. I always feel better.

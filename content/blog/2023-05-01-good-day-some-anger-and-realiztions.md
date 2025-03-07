@@ -1,5 +1,5 @@
 ---
-title: "Good Day Some Anger And Realiztions"
+title: "Good Day Some Anger And Realizations"
 ---
 
 I had a pretty good day today. I got mad over something that I can't mention here, but a good workout helped chill me out. Feeling my anger more and acting it out in a positive manner has been good for me (instead of repressing it like I previously did).
@@ -20,8 +20,8 @@ Onto a lighter note, the daily wins:
 
 * walked over 9 miles
 * started experimenting with calisthenics routine to train to movements vs. weighted exercises -- these kicked my ass but gave me good feedback for where I am starting on the progressions
-* regarding stolen bike: filed police report, file insurance claim, already got paid for insurance claim, and I have a new bike coming in this week to be set up like my old one (it would cost the same/more to add everything to the leftover frame due to parts + labor)
-* listed some shit including my motorcycle for sale -- my moto isn't reliable, but i'll miss it when it's gone. i took one last ride around the neighborhood in case i never ride it again -- it's a symbol/reminder of my past and an anchor to this area. If I want to leave, then I need to lighten my load.
+* regarding stolen bike: filed police report, filed insurance claim, already got paid for insurance claim, and I have a new bike coming in this week to be set up like my old one (it would cost the same/more to add everything to the leftover frame due to parts + labor)
+* listed some shit including my motorcycle for sale -- my moto isn't reliable, but I'll miss it when it's gone. I took one last ride around the neighborhood in case I never ride it again -- it's a symbol/reminder of my past and an anchor to this area. If I want to leave, then I need to lighten my load.
 * working on scheduling next tattoo (waiting for confirmation of date/time back)
 
 ---

@@ -2,7 +2,7 @@
 title: "Back To School And Settling In"
 ---
 
-I've walked around CDMX more. I checked out Polanco, and I'm glad I did -- I didn't like it either. It's nice (very expensive -- yes even with the currency conversion), but not really immersive since there's more expats there. If I took classes there, I would have missed out on the cool culture events the university does (e.g. biweekly salsa, celebrations, workshops, etc.). The streets look nice yet sterile and hardly anyone was walking around. Finished registration today and moving to my permanent housing later this week. I'm a full-blown student with all the benefits; classes are 20hr/wk Spanish + 4hr/wk salsa classes.
+I've walked around CDMX more. I checked out Polanco, and I'm glad I did -- I didn't like it either. It's nice (very expensive -- yes even with the currency conversion), but not really immersive since there are more expats there. If I took classes there, I would have missed out on the cool cultural events the university does (e.g. biweekly salsa, celebrations, workshops, etc.). The streets look nice yet sterile and hardly anyone was walking around. I finished registration today and am moving to my permanent housing later this week. I'm a full-blown student with all the benefits; classes are 20hr/wk Spanish + 4hr/wk salsa classes.
 
 **Next Mission: move to next housing and start classes on Thursday**
 
@@ -14,8 +14,8 @@ I've walked around CDMX more. I checked out Polanco, and I'm glad I did -- I did
 * Had first weekly accountability meeting with a best friend... we're pushing each other weekly to meet goals we set together
 * Finished class registration -- tested into level 4 of 8 total. Taking Spanish level 4, grammar, and salsa for my subjects
 * Booked and paid for my permanent housing for the next 2 months
-* Many dating matches (thank Jeebus I'm exotic down here), but logistics won't be good until I move. I'll pitch some dates anyway... I wanna see more of the city and take some chicas on some dates
+* Many dating matches (thank Jeebus I'm exotic down here), but logistics won't be good until I move. I'll pitch some dates anyway... I want to see more of the city and take some chicas on some dates
 
 ## Mentality
 
-I feel super blessed to be here. I will probably continue to be overwhelmed for a while. It is incredibly beautiful (even the ugly parts), the food is great, people wonderful, and all that other crap. For me, CDMX has everything that I need within walking distance, and I'll be living right next to campus. Here's to becoming fluent and hopefully bringing some pinche gringo light to peoples' lives
+I feel super blessed to be here. I will probably continue to be overwhelmed for a while. It is incredibly beautiful (even the ugly parts), the food is great, people are wonderful, and all that other crap. For me, CDMX has everything that I need within walking distance, and I'll be living right next to campus. Here's to becoming fluent and hopefully bringing some pinche gringo light to people's lives

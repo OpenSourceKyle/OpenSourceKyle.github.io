@@ -10,7 +10,7 @@ I think this log might become a bit repetitive, so I'll try out a format again t
 
 * Spanish school: completed all assignments
 * Daily practice: flashcards and Harry Potter audiobook
-* Dance: improving a lot -- threw a bigish house party (~40 ppl) and danced the whole night with a bunch of chicks and was complimented a lot; ignored any interested women because all my other parties I was absent due to fucking some chick
+* Dance: improving a lot -- threw a biggish house party (~40 ppl) and danced the whole night with a bunch of chicks and was complimented a lot; ignored any interested women because all my other parties I was absent due to being with some chick
 * Learning and practicing more slang
 * Went to some museums with my roommate as my "tour guide" (he's working on his doctorate in Mexica history)
 
@@ -25,7 +25,7 @@ I think this log might become a bit repetitive, so I'll try out a format again t
 
 * Apps: Haven't used dating apps for 2 wks and not planning on resuming this week
 * Dates: Went on a date with a match from a while ago; she seemed uninterested, as was I, so I ended the date after 1.5 hrs
-* Sexual Health: making time to practice alone with condoms and actively relaxing instead of being tense or nervous when sexual to work thru condom ED
+* Sexual Health: making time to practice alone with condoms and actively relaxing instead of being tense or nervous when sexual to work through condom ED
 * Spent more time with ladyfriend during free time between classes **<-- note to self: yes I like her, but no I don't want a relationship... don't fall into a relationship again plz**
 
 ### 🔧Self-Development

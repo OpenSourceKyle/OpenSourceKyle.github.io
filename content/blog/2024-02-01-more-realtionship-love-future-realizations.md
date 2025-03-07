@@ -1,5 +1,5 @@
 ---
-title: "More Realtionship Love Future Realizations"
+title: "More Relationship Love Future Realizations"
 ---
 
 **NOTE: This will be a more disorganized ramble -- I've had quite a few thoughts that I've been mulling over lately**
@@ -14,7 +14,7 @@ I smoked a couple of nights ago and had some brilliant realizations (or rather I
 - I enjoy feeling emotional pain (but not physical)
 - A situation** precludes the need to follow any decorum or rules. It ends spontaneously but not surprisingly
   - This^ will end eventually
-- I like to get really close or enmeshed and then run away when i feel like i am giving too much
+- I like to get really close or enmeshed and then run away when I feel like I am giving too much
 - I need more time ⏲️
 
 ** situation = situationship = sorta relationship without label
@@ -22,7 +22,7 @@ I smoked a couple of nights ago and had some brilliant realizations (or rather I
 
 I believe that I am coming to terms with the fact that I am a very emotional person, and I LOVE being emotional. The "emo" label was a joke, but it's really who I am and have been. I love feeling feelings, I love love, and I even love the pain of whatever the fuck I'm going through. Masochistically, I quite enjoyed last year with how deeply painful it had been. I love that telling others -- being brutally honest and vulnerable about it -- feels wonderful. I'm not sure what to do with this thought, but I think that I'm managing myself the best that I ever have because I'm not repressing my emotions nor thoughts about them. People love me more for it, so externally the feedback and reception are better than ever. In fact, sometimes the social and sexual attention I get from this overwhelms me (lately especially).
 
-That said, I believe the basic advice to go the fuckboy route has been great for me... but it's not something I really identify with. Inspired by some other dudes with similar sentiments, the "fuckboy" persona is not me and never has been. Talking with a close best friend has helped me realize this moreso. Again, at the moment, I don't have much to do about that other than realize that I am a man who loves: emotions, connection, romance, affection **<-- even with my friends and sometimes strangers... maybe I'm more of a hopeless romantic than anything?**
+That said, I believe the basic advice to go the fuckboy route has been great for me... but it's not something I really identify with. Inspired by some other dudes with similar sentiments, the "fuckboy" persona is not me and never has been. Talking with a close best friend has helped me realize this more. Again, at the moment, I don't have much to do about that other than realize that I am a man who loves: emotions, connection, romance, affection **<-- even with my friends and sometimes strangers... maybe I'm more of a hopeless romantic than anything?**
 
 I don't really care to play the optimal or perfect strategy anymore. I very much enjoy trainwrecking into some of these situations than being a stoic dude. Maybe that will change in the future, but I like where I'm at.
 

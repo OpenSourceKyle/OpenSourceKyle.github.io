@@ -2,27 +2,27 @@
 title: "Out With The Old In With The Great"
 ---
 
-The title is maybe more serious sounding that this post will be -- I have had a wonderful couple of days.
+The title is maybe more serious sounding than this post will be -- I have had a wonderful couple of days.
 
 * My mood is a lot better than the last couple of months. I have felt more confident, masculine, and virile recently than I have in a while.
 * I have been working more now, and I applied to 8 bartending jobs (service industry jobs are like women -- it's a numbers game) near my place. I do not need the money, but I want to be more of a part of my local downtown, and bartending is a great way to do that. I have about 12 more places that I will apply to tomorrow; my old bartending job is too far for me to reasonably work without efficient transportation.
 * I bought some more lifestyle stuff -- more camera equipment, parallettes for my handstands, etc.
-* My workouts are killer. I can do hold handstands for a few seconds now -- parallettes will help with strength and not wearing out my wrists.
+* My workouts are killer. I can hold handstands for a few seconds now -- parallettes will help with strength and not wearing out my wrists.
 * According to my smartwatch, I walked and ran a total of 11.4 miles today. My daily average of walking/running is 6-8 miles... I cannot keep weight on me (a good thing for now -- I have a little pudge left to lose).
 
 # Cultivating the Creative:
 
 This will tie a lot into my archetypes that I want to cultivate for myself and for the women that I want to attract. I also believe that I can branch outside of the archetype, but it gives a good starting point and comfort zone of where I can be in life or a scene. And of course, I really love these creative endeavors.
 
-* My guitar technique and lessons are improving. I am slowly unfucking my bad habits... one day I will shred or least play some of my own songs.
-* My dancing is way better... some of the girls that I danced with today complimented me, and I confidently led the novice ones that I danced with. Nothing feels more masculine than leading a nervous girl in some sort of dance as the lead <-- highly recommend to take some swing/blues/salsa/bachata classes if you can. I plan to take more classes to keep getting good and meeting more women. THERE ARE SO MANY CUTE GIRLS at these dancing events and usually very few guys. At the least, fun time dancing and having a physical touch and connection with another person. I have also made 3 new friends from dancing alone and got invited to a bar crawl this weekend by one.
-* I enjoy photography with my camera. I just need to learn the settings better and figure out how to turn of the stupid autofocus (I had it off and somehow turned it back on).
+* My guitar technique and lessons are improving. I am slowly unfucking my bad habits... one day I will shred or at least play some of my own songs.
+* My dancing is way better... some of the girls that I danced with today complimented me, and I confidently led the novice ones that I danced with. Nothing feels more masculine than leading a nervous girl in some sort of dance as the lead <-- highly recommend taking some swing/blues/salsa/bachata classes if you can. I plan to take more classes to keep getting good and meeting more women. THERE ARE SO MANY CUTE GIRLS at these dancing events and usually very few guys. At the least, fun time dancing and having a physical touch and connection with another person. I have also made 3 new friends from dancing alone and got invited to a bar crawl this weekend by one.
+* I enjoy photography with my camera. I just need to learn the settings better and figure out how to turn off the stupid autofocus (I had it off and somehow turned it back on).
 * My style of clothing and accessories along with piercings and tattoos is enjoyable for the first time in my life. People also very much treat me more positively for it. In a small sense, I always feel much more confident knowing that I look better than I did <-- I made a timeline of my "fashion" and looks over my whole lifetime... suffice to say I can only go up from here. I have nice, new clothes for the first time in my life that are not free or secondhand from someone else.
 * I should consider my journaling a creative, contemplative hobby of sorts. I write a lot (here, paper notebooks, Google Notes), and I really enjoy the hell out of it. I have always had "racing thoughts" in my head, but I have found age (or maybe just being less energetic) and journaling to help with that.
 
 # Emo Night: Checking out the Talent
 
-I went out to my local emo night with my boys to scope out my demographic -- there are plenty of cute emo/alt girls here, and I seem to do well with talking with them at the least. I got an Instagram for some short, crazy chick, so we will see where that goes **<-- I have it in my head to get her number on next message, so I do not get trapped in IG purgatory. Me and my boys had a great time -- I have not had a "boys night" out in a while that was actually fun. I look forward to more, and we even got a free, professional photo from it.**
+I went out to my local emo night with my boys to scope out my demographic -- there are plenty of cute emo/alt girls here, and I seem to do well with talking with them at the least. I got an Instagram for some short, crazy chick, so we will see where that goes **<-- I have it in my head to get her number on the next message, so I do not get trapped in IG purgatory. Me and my boys had a great time -- I have not had a "boys night" out in a while that was actually fun. I look forward to more, and we even got a free, professional photo from it.**
 
 As a small note of celebration, every time I go out I always get at least 1 phone number (or the last couple have been Instagrams). I want to give myself some praise that I am doing pretty good with talking to girls and getting their contact info. I definitely need to increase my numbers, so I plan to synergize with dating apps in the near future as well (once I get some good pictures). For the time being, I am proud of myself for not being afraid to comment on random girls' looks, nails, style, demeanor, energy, etc. as a way to open up conversation. Not long ago, I would have done none of this. Most really brighten up -- especially when it is something more than "ur cute" but more like "I think the flower design on your nails makes you look so cute".
 

@@ -13,7 +13,7 @@ Solid week. Much energy and motion. Many new people and experiences. Not much re
 * Completed all homework and presentations in my classes
 * Became the class leader in Salsa (sorta teacher's pet too)
 * Went on 5 different dates (all in Spanish) and saw many cool different parts of the city
-* My best friend and I still doing weekly/dailyish accountability calls/chats to keep each other improving
+* My best friend and I are still doing weekly/dailyish accountability calls/chats to keep each other improving
 * Haven't returned to working out yet, but I walk a lot and continue leaning out... getting veins in random places that I've never had before like thighs and Adonis belt region
 
 # Reflections
@@ -34,4 +34,4 @@ This is likely due to a difference in culture and me being the exotic gringo, bu
 
 I stop messaging girls that try to "lead me" (one would not follow my instructions to message me) or act non-compliant in general. I had one woman aggressively kiss me after I said bye and walked away. Another is telling me how much she likes me and sending me a bunch of hearts (no "I love you" but she called me "mi amor").
 
-Anyway, point being is that I am going to revamp my profile and responses to lessen whatever this is.
+Anyway, the point being is that I am going to revamp my profile and responses to lessen whatever this is.

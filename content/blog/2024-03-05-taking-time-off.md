@@ -18,13 +18,13 @@ What's up folks. I finished moving today and relaxed a bit after that. I spent m
 * Food: better
 * Exercise: n/a
 * Walking: last week: 83k steps or ~ 61km
-* Sleep: sleeping good!
+* Sleep: sleeping well!
 
 ## ❤️‍🔥Dates/Relationships
 
 * Dates: ladyfriend invited me to a small party, we played DnD together, and spent the night... had her brother grill me in a mostly nice way during Spin the Bottle about our nearly 10yr age difference lol
 * Sexual Health: slowly feeling more sexual
-* Relationship: ladyfriend and I both off-handly said we don't want a monogamous relationship. We sure do talk a lot about relationshippy stuff without being in a relationship. I do like her a lot, and I sorta don't feel ready for a relationship while feeling ready. Maybe an open relationship that I've been saying I wanted is finally in front of me? I'll talk with her more Friday and see what we figure out... we've been seeing each other for a couple of months and only seem to enjoy our time together more and more, so fuck it why not
+* Relationship: ladyfriend and I both offhandedly said we don't want a monogamous relationship. We sure do talk a lot about relationshippy stuff without being in a relationship. I do like her a lot, and I sorta don't feel ready for a relationship while feeling ready. Maybe an open relationship that I've been saying I wanted is finally in front of me? I'll talk with her more Friday and see what we figure out... we've been seeing each other for a couple of months and only seem to enjoy our time together more and more, so fuck it why not
 
 ## 🔧Self-Development
 

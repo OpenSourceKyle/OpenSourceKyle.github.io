@@ -14,6 +14,9 @@ description: A comprehensive guide on obtaining a Mexican driver's license, incl
 # Intro
 
 When living in Mexico, having a valid form of Mexican identification is incredibly useful. Although I can use my passport or residency card for identification, carrying these important documents around every day is very unwise. From the recommendation of a roommate, I got my **Mexican driver's license** to have an official form of ID that is recognized within the country. Plus, there is no test required to get a driver's license for a car in Mexico.
+
+# Details
+
 ## Why Get a Mexican Driver's License?
 
 My passport or residency card can function as an ID, but they're essential documents that are harder and more time-consuming to replace if lost or stolen. A driver's license, on the other hand, is easy to replace and provides the same proof of identity and legal residence. Plus, showing a local ID can be helpful when dealing with authorities, as many may not recognize or accept a foreign driver's license.
@@ -27,7 +30,9 @@ In Mexico, I didn't need to pass a driving test to get a driver's license. In **
 The driver's license cost me roughly **$50 USD** at the time (paid in pesos), and it is invaluable. It's an easy form of ID to carry around, and if I were to lose it, replacing it wouldn't be nearly as stressful as losing my passport or residency card (which could put me in trouble with immigration). Although I don't plan to drive in Mexico -- driving here is hectic -- having the license serves its purpose as a form of identification.
 
 For someone like me, who looks visibly foreign, having an official **Mexican ID** helps in interactions with authorities, making it clear that I'm legally in the country. I've heard stories of police asking for bribes or trying to hold on to people's IDs, but I've never had this happen to me. Obviously situations like this are rare and delicate, so I'm not insisting a particular way to handle it.
+
 # Action
+
 ## The Process
 
 * Resource: [Mexico City Driver's License Info](https://www.cdmx.gob.mx/public/InformacionTramite.xhtml?idTramite=2506)

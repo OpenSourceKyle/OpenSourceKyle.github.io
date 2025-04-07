@@ -9,11 +9,11 @@ image_caption: "@whykei on Unsplash"
 image_link: https://unsplash.com/@whykei
 description: A comprehensive guide on obtaining a Mexican driver's license, including the benefits, required documents, payment methods, and practical tips for expats living in Mexico.
 ---
+**NOTE:** technically speaking, as a foreigner in Mexico, you should be able to prove your immigration status with your residency (immigration) card. Know that you are risking it if you don't carry the card with you, but I personally have not carried my immigration card with me (as of this writing and for the last ~2 years). That said, read more of some [anecdotal experiences](https://old.reddit.com/r/mexicoexpats/comments/1gr337m/copy_of_residency_card/) and the actual law [**las secciones 1 y 2 de Artículo 16** de la **Ley de Migración** de México](https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf). 
 
 # Intro
 
 When living in Mexico, having a valid form of Mexican identification is incredibly useful. Although I can use my passport or residency card for identification, carrying these important documents around every day is very unwise. From the recommendation of a roommate, I got my **Mexican driver's license** to have an official form of ID that is recognized within the country. Plus, there is no test required to get a driver's license for a car in Mexico.
-# Details
 ## Why Get a Mexican Driver's License?
 
 My passport or residency card can function as an ID, but they're essential documents that are harder and more time-consuming to replace if lost or stolen. A driver's license, on the other hand, is easy to replace and provides the same proof of identity and legal residence. Plus, showing a local ID can be helpful when dealing with authorities, as many may not recognize or accept a foreign driver's license.

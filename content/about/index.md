@@ -58,11 +58,11 @@ Generally speaking, I will focus on my experiences and the processes I use to ac
 
 # Some of My Influences
 
-Certain individuals have greatly influenced my thinking and philosophies, driving me to take significant action in my life. I typically follow ideas in the realm of **male self-improvement**, focusing on **action and positivity**, while steering clear of the toxicity and negativity that can be prevalent in that space. These ideas may not be mainstream, but they have undoubtedly helped me, my friends, and my clients. With so much positive impact, I feel compelled to share them. Their ideas will need to be tailored to your own context, but I am confident they will help -- just as they have helped me. You will likely see references to them throughout my website.
+Certain individuals have greatly influenced my thinking and philosophies, driving me to take significant action in my life. I typically follow ideas in the realm of **male self-improvement**, focusing on **action and positivity**, while *steering clear of the toxicity and negativity that can be prevalent in that space*. These ideas may not be mainstream, but they have undoubtedly helped me, my friends, and my clients. With so much positive impact, I feel compelled to share them. Their ideas will need to be tailored to your own context, but I am confident they will help -- just as they have helped me. You will likely see references to them throughout my website.
 
-Of note, these individuals often communicate in a distinctly male way. Males and females biologically and socially communicate differently, but the reasons why are irrelevant here. Listen to the ideas. Some of these men have evolved as their ideas have matured, which serves as inspiration for my own growth.
+Of note, these individuals often communicate in a distinctly male way (sometimes direct and abrasive), but the reasons why are not wholly relevant here. Listen to the ideas. Some of these men have evolved as their ideas have matured, which serves as inspiration for my own growth.
 
-For me, the key has been to focus on the parts that add significant value and not to get caught up in opinions on other matters -- such as politics or personal beliefs. I have followed aspects of each of these influences to help build the life I have long desired. I will briefly highlight what I appreciate about each of them. I do not agree with everything they say, and it's important to mention that.
+For me, the key has been to focus on the parts that add significant value and not to get caught up in opinions on other matters -- such as politics or personal beliefs. I have followed certain aspects of each of these influences to help build the life I have long desired. I will briefly highlight what I appreciate about each of them. **I do not agree with everything they say, and I believe it is important to mention that**.
 
 My goal is to become a better man -- I ask for some level of patience, understanding, and charitability from you.
 
@@ -76,19 +76,19 @@ Specializing in BDSM, dating, and goals, Andy has been my #1 influence for the l
 ## Dr. Robert Glover of the book: *No More Mr. Nice Guy*
 * <https://www.drglover.com/no-more-mr-nice-guy/the-book.html>
 
-Dr. Glover's book highlights the most important concept and issue faced by "nice guys": covert contracts, which he defines as essentially uncommunicated needs and desires, along with the toxic expectations that accompany them. I have listened to the audio version once, read the book twice, and completed all 40-something reflection exercises to realize that I was afraid to communicate my needs and desires in every facet of my life. I have recommended this book to numerous friends and clients.
+Dr. Glover's book highlights the most important concept and issue faced by "nice guys": *covert contracts*, which he defines as essentially uncommunicated needs and desires, along with the toxic expectations that accompany them. I have listened to the audio version once, read the book twice, and completed all 40-something reflection exercises to realize that I previously was afraid to communicate my needs and desires in every facet of my life. I have recommended this book to numerous friends and clients for men to communicate their needs and wants more effectively.
 
 ## Alex of Playing With Fire
 * <https://www.playingfire.com>
 
-Alex specializes in online dating, particularly with phone swiping apps like Tinder. I find a lot of value in his advice on communicating through text messages for dates, which can also be applied to other areas of my life.
+Alex specializes in online dating, particularly with phone swiping apps like Tinder. I find a lot of value in his advice on communicating through text messages for dates. There is quite a bit of overlap with marketing (the industry) and how to communicate properly in a socially calibrated way in romantic contexts.
 
 ## Austen Summers of the same business name
 * <https://www.austensummers.com>
 
-Austen specializes in face-to-face communication and building authentic connections with women outside of the apps.
+Austen specializes in face-to-face communication and building authentic connections with women outside of the apps. I appreciate the focus of personal wellness, fun, and authenticity that seems to be very lacking in most of this space.
 
 ## Caleb Jones of the same business name
 * <https://calebjones.com>
 
-Caleb offers a wealth of content, but I have personally gained a lot from his ideas on open relationships and how to live internationally (though I discovered him after moving to Mexico). He provides very specific niche content for location-independent businesses.
+Caleb offers a wealth of content, but I have personally gained a lot from his ideas on open relationships and how to live internationally (though I discovered him after moving to Mexico). He provides very specific niche content for location-independent businesses, though I find some of prognostications a bit too pessimistic in regards to "Western" countries.

@@ -1,0 +1,12 @@
+{{ $url := .Get "url" }}
+{{ $text := .Get "text" }}
+{{ if not $url }}
+  {{ errorf "The button shortcode requires a 'url' parameter" }}
+{{ end }}
+{{ if not $text }}
+  {{ errorf "The button shortcode requires a 'text' parameter" }}
+{{ end }}
+
+<a href="{{ $url }}" class="themed-button" role="button">
+  {{ $text }}
+</a>

@@ -1,0 +1,95 @@
+baseURL = "http://opensourcekyle.com"
+languageCode = "en-us"
+title = "OpenSourceKyle"
+theme = "hugo-opensourcekyle-theme"
+
+[params]
+  authorName = "Kyle"
+  backgroundImage = "/images/galaxy.jpg"
+  wordsPerMinute = 150  # Adjust this number to change reading speed estimate
+  profileImage = "/images/myface.jpg"
+  authorImage = "/images/logo/logo_author.jpg"
+  logo = "/images/logo/logo_head.png"  # Path to your logo image
+  logoWidth = "1200"  # Recommended width for social media previews
+  logoHeight = "630"  # Recommended height for social media previews
+  logoAlt = "OpenSourceKyle Logo"  # Alt text for accessibility and SEO
+  description = "Open Source Kyle - Life is one big experiment"
+  linktreeUrl = "https://linktr.ee/OpenSourceKyle"
+  linktreeLogo = "/images/linktree_logo.png"  # Path relative to static folder
+  pagesToShow = 12  # Default number of pages to show on the Homepage
+  headerLinks = [
+    { text = "About", url = "/about/" },
+    { text = "Pages", url = "/pages/" },
+    { text = "Blog", url = "/blog/" },
+    { text = "Coaching", url = "/coaching/" },
+  ]
+  dateFormat = "2 Jan 2006"
+  monthFormat = "January 2006"  # Format for month headers in lists
+
+[params.colors]
+  headerText = "#ffffff"  # Crisp white for header text
+  background = "#0A192F"  # Deep navy blue (slightly darker for a more modern, cinematic feel)
+  sectionBackground = "#112240"  # Muted dark blue for balanced contrast
+  link = "#4DA8DA"  # Vibrant cyan-blue for a sleek, professional feel
+  linkHover = "#66CCFF"  # Brighter sky-blue for an elegant hover effect
+  paragraphText = "#E6F1FF"  # Softer white-blue for readability without harsh contrast
+  socialButtonBackground = "#1B2C4A"  # Deep blue-gray for consistency
+  warning = "#F4A261"  # Muted warm orange (less aggressive, still noticeable)
+
+  # Table Colors (Normalized with Theme)
+  tableBorder = "#2C3E50"  # Slightly richer gray-blue for soft edges
+  tableHeaderBackground = "#112240"  # Matches section background for unity
+  tableHeaderText = "#E6F1FF"  # Softer white-blue for readability
+  tableRowEvenBackground = "#0A192F"  # Matches background for seamless integration
+  tableRowOddBackground = "#152A4A"  # Slightly lighter for gentle contrast
+  tableRowHoverBackground = "#1F3A5F"  # Subtle, modern hover effect
+
+[params.theme]
+  transparency = "0.9"  # Transparency of the containers or "cards"
+  contentWidth = "800px"  # Width of the main content area
+  headerGap = "-20px"  # This will be added to the navbar height (to make a gap between the navbar and the content)
+  navbarHeight = "60px"  # Height of the navbar
+  
+[frontmatter]
+  date = ["date", "publishDate", ":filename", ":default"]
+
+[permalinks]
+  blog = "/blog/:year/:month/:day/:title/"
+  pages = "/pages/:slug/"
+  about = "/about/"
+  coaching = "/coaching/"
+  tags = "/tags/:slug/"
+  sitemap = "/sitemap/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 20
+  [[menu.main]]
+    name = "Pages"
+    url = "/pages/"
+    weight = 30
+  [[menu.main]]
+    name = "Coaching"
+    url = "/coaching/"
+    weight = 40
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1  # TOC shows H1 or headers 1
+    endLevel = 4  # TOC shows H4 or headers 4
+    ordered = false  # TOC is unordered list

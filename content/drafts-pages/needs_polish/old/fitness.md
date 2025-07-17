@@ -1,0 +1,63 @@
+---
+tags:
+ - notes
+---
+
+# Fitness
+- create fitness plans
+- workout templates:
+   - coach potato plan: calisthenics 2x/wk + walking 3-4x/wk (active recovery on off days)
+      - list calisthenic progressions based on ability/fitness levels
+   - no gym plan: basically couch potato or bodyweight program with dumbbells exercises?
+   - lifiting 3-4x/wk fullbody (upper/lower split) -- focus big lifts
+   - bodybuilder (intermediate-advanced): 6x/wk brosplit
+   - MORE walking (rule of thumb for 10,000 steps/day or 4-4.5 miles/day)
+   - incorporate active recovery
+   - Gym vs at-home workout -- physical locations and associations matter
+      - GYM doesn't have to be lifting... can be calisthenics and cardio machines as well as place to focus
+   - schedule/time-of-day that is easiest and best feeling to maintain
+   - stretching, massages, foam rolling, dynamic warmups, injury prevention/mitigation/therapy
+- Supplements:
+   - Multivitamin
+   - Fish oils 1000mg/day of Omega-3 (NOT just the oil mass)
+   - Creatine 5g/day
+   - Caffeine 100mg/workout
+   - APPETITE SUPPRESSION ONLY: Ephedrine 25 mg/5 days out of the week (CAUTION - requires cycling, doctor approval, and ensuring that this will not worsen cardiovascular issues such as hypertension)
+   - ** CAUTION about stims' (caffeine and ephedrine) effects on sleep **
+- diets:
+   - recipes:
+      - turkey + lentil crumble with variations
+      - protein fruit smoothie
+      - costco meals
+      - snack/fruit/veggy trays
+   - intuitive eating or simple plans
+- Goal tracking
+   - write down routines and exercises
+   - body weight scale, tape body parts, fat caliper, controlled (lighting, position, flexing, location, etc.) body pictures, and DEXA scans
+   - easy habit building
+   - easy long-term compliance goals
+      - walk everyday
+      - exercises 2x/wk
+      - do mornings or lunch breaks when otherwise time is wasted
+      - do “wasteful” activities while walking like listening to music, podcasts, etc. to double efficiency
+      - be okay with failure -- feel the emotions, move on, reset, and don't give up
+      - long-term compliance is not perfect but up and down -- goal is to shift that up-and-down upwards or to flatten those ups-and-downs
+      - etc.
+- Sleep and bedtime routines:
+   - Track sleep (initially but not obsessively)
+      - 7-9hrs/night
+   - Exercise caffeine tablets 100mg in the morning to workout
+- General Hygiene and Health:
+   - daily showers
+   - lotion face, body, and sun-expose portions
+   - retinol
+   - grooming head, facial, and body hair
+   - deodorant + cologne
+- Style:
+   - nice clothes + shoes
+   - hats
+   - accessories
+   - talk to strangers
+   - tricks, interesting openers, interests
+   - focus on being confident and more emotionally intelligent/aware vs. logical, boring, and predictable -- respect is always important
+

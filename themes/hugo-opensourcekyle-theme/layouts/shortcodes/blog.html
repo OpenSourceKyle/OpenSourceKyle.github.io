@@ -1,0 +1,7 @@
+{{/* Shortcode for blog posts on sitemap page */}}
+<ul>
+    {{ $blogPosts := where .Site.RegularPages "Section" "blog" }}
+    {{ range $blogPosts }}
+    <li>{{ .Date.Format .Site.Params.dateFormat }} - <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+</ul> 

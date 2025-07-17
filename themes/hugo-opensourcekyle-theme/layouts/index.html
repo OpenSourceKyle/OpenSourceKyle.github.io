@@ -1,0 +1,69 @@
+{{ define "main" }}
+
+<!-- About Section -->
+<div class="content-container">
+    <h2>About Me</h2>
+    {{ with .Site.GetPage "about" }}
+    <div class="about-preview">
+        <div class="profile-image-container">
+            <img src="{{ .Site.Params.profileImage | relURL }}" alt="Profile picture" class="profile-pic-preview">
+        </div>
+        <div class="about-text">
+            <div style="color: {{ .Site.Params.colors.paragraphText }}">
+                <p>{{ .Summary }}</p>
+                <a href="{{ .RelPermalink }}" class="read-more-link">Read My Full Story</a>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>
+
+<!-- Pages Section -->
+<div class="content-container">
+    <h2>Pages</h2>
+    <div class="category-grid">
+        {{ $pages := where .Site.RegularPages "Section" "pages" }}
+        {{ $nonDraftPages := where $pages "Draft" false }}
+        {{ range first (default 12 .Site.Params.pagesToShow) $nonDraftPages }}
+        <a href="{{ .RelPermalink }}" class="card-link">
+            <div class="page-card">
+                {{ if .Params.image }}
+                <div class="card-image">
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+                </div>
+                {{ end }}
+                <div class="card-content">
+                    <h3>{{ .Title }}</h3>
+                </div>
+            </div>
+        </a>
+        {{ end }}
+    </div>
+    <a href="{{ "/pages/" | relURL }}" class="view-all-link">View all pages</a>
+</div>
+
+<!-- Blog Section -->
+<div class="content-container">
+    <h2>Latest Blog Posts</h2>
+    <ul class="blog-list-preview">
+        {{ range first 10 (where .Site.RegularPages "Section" "blog") }}
+        <li>
+            <span class="post-date">{{ .Date.Format .Site.Params.dateFormat }}</span>
+            <span class="blog-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+        </li>
+        {{ end }}
+    </ul>
+    <a href="{{ "/blog/" | relURL }}" class="view-all-link">View all posts</a>
+</div>
+
+<!-- Coaching Section -->
+<div class="content-container">
+    {{ with .Site.GetPage "coaching" }}
+    <div class="coaching-content" style="display: flex; flex-direction: column; align-items: center;">
+        <p id="coachingSummary" style="font-size: 1.5em;">{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}" class="button" style="font-size: 1.5em !important; padding: 10px 20px !important; display: inline-block !important; margin: auto !important;">💡 Learn More 💡</a>
+    </div>
+    {{ end }}
+</div>
+
+{{ end }} 

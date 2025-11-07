@@ -1,6 +1,7 @@
 baseURL = "http://opensourcekyle.com"
 languageCode = "en-us"
 title = "OpenSourceKyle"
+themesDir = ".themes"
 theme = "hugo-opensourcekyle-theme"
 
 [params]

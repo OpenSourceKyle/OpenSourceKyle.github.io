@@ -24,10 +24,10 @@ git submodule update --init --recursive
 
 ### **2️⃣ Verify the Theme is in the Correct Folder**
 
-After cloning and initializing the submodule, ensure the theme is inside the `themes/` directory:
+After cloning and initializing the submodule, ensure the theme is inside the `.themes/` directory:
 
 ```sh
-ls themes/
+ls .themes/
 ```
 
 You should see:
@@ -141,10 +141,10 @@ hugo new pages/TITLE.md
 
 ## 📌 Alternative: Manually Cloning the Theme (If Not Using Submodules)
 
-If you prefer not to use submodules, you can manually clone the theme into the `themes/` folder:
+If you prefer not to use submodules, you can manually clone the theme into the `.themes/` folder:
 
 ```sh
-cd YOUR_HUGO_WEBSITE/themes/
+cd YOUR_HUGO_WEBSITE/.themes/
 git clone https://github.com/OpenSourceKyle/hugo-opensourcekyle-theme.git
 ```
 
@@ -172,9 +172,9 @@ theme = "hugo-opensourcekyle-theme"
 If you decide to remove the submodule and just copy the theme manually:
 
 ```sh
-git submodule deinit themes/hugo-opensourcekyle-theme
-git rm themes/hugo-opensourcekyle-theme
-rm -rf .git/modules/themes/hugo-opensourcekyle-theme
+git submodule deinit .themes/hugo-opensourcekyle-theme
+git rm .themes/hugo-opensourcekyle-theme
+rm -rf .git/modules/.themes/hugo-opensourcekyle-theme
 ```
 
 Then manually clone the theme as shown above.

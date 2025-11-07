@@ -49,10 +49,10 @@ To configure DNS with GitHub Pages and your domain, follow these steps:
 
 Add your custom domain (`www.opensourcekyle.com`) in the [GitHub Pages settings](https://github.com/OpenSourceKyle/OpenSourceKyle.github.io/settings/pages).
 
-![GitHub Domain Settings](readme-assets/domain-settings-github.png)
+![GitHub Domain Settings](domain-settings-github.png)
 
 #### Step 2: Squarespace DNS Setup
 
 Configure 5 DNS records in [Squarespace DNS settings](https://account.squarespace.com/domains/managed/opensourcekyle.com/dns/dns-settings).
 
-![Squarespace Domain Settings](readme-assets/domain-settings-squarespace.png)
+![Squarespace Domain Settings](domain-settings-squarespace.png)
